@@ -1,0 +1,60 @@
+
+from typing import List
+import torch
+from langchain_core.documents import Document
+from sentence_transformers import CrossEncoder
+
+import utils_p6
+
+logger = utils_p6.logger
+
+
+class Reranker:
+    """
+    Cross-encoder reranker that rescores (query, document) pairs
+    using full cross-attention for more accurate relevance scoring.
+    """
+
+    def __init__(self, model_name: str):
+        """
+        Args:
+            model_name: HuggingFace model ID for the cross-encoder (e.g. BAAI/bge-reranker-v2-m3).
+        """
+        if torch.backends.mps.is_available():
+            device = "mps"
+        elif torch.cuda.is_available():
+            device = "cuda"
+        else:
+            device = "cpu"
+            
+        logger.info(f"Loading reranker model: {model_name} on device: {device}")
+        self.model = CrossEncoder(model_name, trust_remote_code=True, device=device)
+        self.model_name = model_name
+        logger.info("Reranker model loaded.")
+
+    def rerank(self, query: str, documents: List[Document], top_k: int = 10) -> List[Document]:
+        """
+        Rerank a list of candidate documents for a given query.
+
+        Args:
+            query: The search query.
+            documents: Candidate documents from initial dense retrieval.
+            top_k: Number of top results to return after reranking.
+
+        Returns:
+            List of Document objects reranked by cross-encoder relevance score.
+        """
+        if not documents:
+            return []
+
+        # Create (query, document) pairs for cross-encoder scoring
+        pairs = [[query, doc.page_content] for doc in documents]
+
+        # Get cross-encoder scores (batch_size=10 for safety)
+        scores = self.model.predict(pairs, batch_size=10, show_progress_bar=False)
+
+        # Sort by score descending and return top_k
+        scored_docs = list(zip(scores, documents))
+        scored_docs.sort(key=lambda x: x[0], reverse=True)
+
+        return [doc for score, doc in scored_docs[:top_k]]

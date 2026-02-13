@@ -1,0 +1,21 @@
+# Experiment P5 Summary (Multilingual Hybrid)
+
+Status: Complete.
+Strategy: Hybrid (Shared Index + BM25) with Reciprocal Rank Fusion (RRF_K=60).
+Date: 2026-02-13
+
+## Results Table
+
+| Language | Recall@5 | Recall@10 | BLEU | ROUGE-L | Faithfulness | Cost/1k |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **English** | 0.9744 | 0.9829 | 32.48 | 0.5635 | 0.9274 | $0.088 |
+| **Hindi** | 0.9797 | 1.0000 | 42.03 | 0.4445 | 0.9756 | $0.118 |
+| **Tamil** | 0.7758 | 0.8879 | 17.62 | 0.1297 | 0.7130 | $0.127 |
+| **Bengali** | 0.9615 | 0.9712 | 27.97 | 0.0308 | 0.8942 | $0.091 |
+
+## Aggregate Scores (Average)
+*   **Recall@10**: 0.9605
+*   **BLEU**: 30.03
+*   **ROUGE-L**: 0.2921
+*   **Faithfulness**: 0.8776
+*   **Cost**: $0.106 per 1k queries

@@ -43,3 +43,13 @@ env/
 
 # Large output files (optional)
 # outputs/*.csv
+
+# Generated Data
+chroma_db/
+*/chroma_db*/
+*.log
+logs_*.txt
+experiment_*.log
+__pycache__/
+
+pipelines/6_experiment_p4/chroma_db_multilingual/

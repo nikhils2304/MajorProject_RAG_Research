@@ -1,294 +1,94 @@
-# Multilingual RAG Research — Project README
+# Multilingual RAG Research (P1-P6)
 
-## 📌 Project Overview
+This repository contains the implementation and evaluation of various Retrieval-Augmented Generation (RAG) strategies for Indian languages (**Hindi, Tamil, Bengali**) alongside **English**.
 
-This project investigates **Retrieval-Augmented Generation (RAG)** performance across multiple Indian languages by systematically evaluating different embedding and vector search strategies.
+The project systematically compares:
+*   **P1-P3**: Monolingual Baselines (Dense, Hybrid, Reranked).
+*   **P4**: Multilingual Dense Retrieval (Shared Vector Space).
+*   **P5**: Multilingual Hybrid Retrieval (Shared Dense + BM25 Fusion).
+*   **P6**: Multilingual Reranked Retrieval (Cross-Encoder Re-scoring).
 
-The research follows a structured experimental design to understand how retrieval quality and generation quality vary across languages and retrieval configurations.
+## 📂 Project Structure
 
-The study begins with **mono-lingual RAG evaluation** and then expands into **multi-lingual RAG systems**.
+*   `pipelines/`: Contains the code for each experiment (P1-P6).
+*   `docs/`: Contains detailed reports (`PROJECT_REPORT.md`).
+*   `Datasets/`: QA pairs and evaluation data.
+*   `outputs/`: Logs and result artifacts.
 
----
+## 🛠️ Setup Guide
 
-# 🎯 Research Objectives
+### 1. Prerequisites
+*   Python 3.10+
+*   Git
 
-The primary objectives are:
+### 2. Installation
+Clone the repository and install dependencies:
 
-* Evaluate embedding strategies for Indian languages
-* Compare vector search strategies (dense, hybrid, reranked)
-* Measure retrieval quality and answer quality
-* Analyze performance differences across languages
-* Measure latency and efficiency for real-world deployment
+```bash
+git clone https://github.com/nikhils2304/MajorProject_RAG_Research.git
+cd MajorProject_RAG_Research
+pip install -r requirements.txt
+```
 
-All experiments are conducted under controlled conditions:
+### 3. Environment Configuration (Important!)
+You must provide a Google Gemini API Key.
+Create a `.env` file in the root directory:
 
-> Only embedding strategy and retrieval strategy change.
-> All other variables remain constant.
+```bash
+touch .env
+```
 
----
+Add your key to `.env` (Do NOT commit this file):
+```
+GOOGLE_API_KEY=AIzaSy...YourKeyHere
+```
 
-# 🌏 Selected Languages
-
-The research will be conducted on the following languages:
-
-| Language    | Purpose                                        |
-| ----------- | ---------------------------------------------- |
-| **English** | Baseline, dataset creation, pipeline debugging |
-| **Hindi**   | High-resource Indian language                  |
-| **Tamil**   | Dravidian language representation              |
-| **Bengali** | Indo-Aryan language with different script      |
-
-These languages provide:
-
-* Strong corpus availability
-* Good LLM support
-* Script diversity
-* Reliable QA evaluation capability
-
----
-
-# 🧪 Experiment Design
-
-## Experiment Definitions
-
-| Experiment_ID | Embedding_Strategy | Search_Strategy | Description |
-| :--- | :--- | :--- | :--- |
-| **P1** | Monolingual | Dense | Mono-lingual dense retrieval |
-| **P2** | Monolingual | Hybrid | Mono-lingual hybrid retrieval |
-| **P3** | Monolingual | Reranked | Mono-lingual reranked |
-| **P4** | Multilingual | Dense | Shared-space dense |
-| **P5** | Multilingual | Hybrid | Shared-space hybrid |
-| **P6** | Multilingual | Reranked | Shared-space reranked |
-| **P7** | Translate→Embed | Dense | Pivot-based dense |
-| **P8** | Translate→Embed | Hybrid | Pivot-based hybrid |
-| **P9** | Translate→Embed | Reranked | Pivot-based reranked |
-
-### Phase 1 — Mono-lingual Experiments
-
-> **Values**: P1, P2, P3  
-> **Starting point**: P1: English (Monolingual + Dense) — extends to Hindi, Tamil, Bengali. This establishes the baseline RAG pipeline.
-
-### Phase 2 — Multi-lingual Experiments (Later Stage)
-
-> **Values**: P4, P5, P6 (Shared Space), P7, P8, P9 (Translation Pivot)
+> **Security Note**: This project uses `python-dotenv` to load keys. Never hardcode your API key in the scripts.
 
 ---
 
-# 📚 Dataset Creation Strategy
+## 🚀 Running Experiments
 
-Each language requires a high-quality QA evaluation dataset.
+### Experiment P4: Multilingual Dense Retrieval
+*Strategy: Shared-Space Retrieval using `BAAI/bge-m3`.*
 
-## Current Notebook Capability
+```bash
+python pipelines/6_experiment_p4/evaluate.py
+```
 
-A working notebook already exists that:
+### Experiment P5: Multilingual Hybrid Retrieval
+*Strategy: Dense Retrieval + BM25 (Sparse) fused via RRF.*
 
-* Ingests PDF documents
-* Generates QA pairs using Gemini
-* Critiques QA using LLM-as-Judge
-* Filters high-quality QA pairs
-* Builds vector index
-* Runs RAG pipeline
-* Computes evaluation metrics
+```bash
+python pipelines/7_experiment_p5/evaluate.py
+```
 
-Currently tested for:
+### Experiment P6: Multilingual Reranked Retrieval
+*Strategy: Dense Retrieval + Cross-Encoder Reranking (`BAAI/bge-reranker-v2-m3`).*
+*(Note: P6 is computationally intensive and requires a GPU).*
 
-> English QA generation and evaluation
-
----
-
-## QA Dataset Protocol (English P1)
-
-### Source
-
-PDF-based document corpus
-
-### QA generation target
-
-Generate:
-
-> 300–400 QA pairs
-
-Filter to:
-
-> 200–250 high-quality QA pairs
-
-### Filtering Criteria
-
-Each QA pair scored (1–5):
-
-* Groundedness
-* Relevance
-* Standalone clarity
-* Answer completeness
-
-Keep only:
-
-> All scores ≥ 4
-
-The filtered dataset becomes:
-
-> **English Evaluation Dataset v1.0 (Frozen)**
-
-This dataset will be reused across:
-
-* P1
-* P2
-* P3
+```bash
+python pipelines/8_experiment_p6/evaluate.py
+```
 
 ---
 
-# ⚙️ RAG Pipeline Structure
+## 📊 Results and Analysis
 
-Each experiment follows:
+For a detailed breakdown of metrics (Recall, BLEU, ROUGE, Latency) across all experiments, please see:
+👉 [**Full Project Report**](docs/PROJECT_REPORT.md)
 
-1. Extract text from PDFs
-2. Chunk documents
-3. Generate embeddings
-4. Store in vector database
-5. Retrieve top-k contexts
-6. Generate answer using LLM
-7. Compute evaluation metrics
-
----
-
-# 📊 Evaluation Metrics (Finalized)
-
-These are the official research metrics:
-
-| Metric              | Purpose                     |
-| ------------------- | --------------------------- |
-| **Recall@5**        | Strict retrieval accuracy   |
-| **Recall@10**       | Expanded retrieval accuracy |
-| **BLEU**            | Answer similarity           |
-| **Average Latency** | Efficiency                  |
-
-Optional diagnostics:
-
-* MRR
-* Faithfulness (later stage)
+### quick Summary (P5 Hybrid)
+| Language | Recall@10 | BLEU |
+| :--- | :--- | :--- |
+| **English** | 98.3% | 32.5 |
+| **Hindi** | **100.0%** | 42.0 |
+| **Bengali** | 97.1% | 28.0 |
+| **Tamil** | 88.8% | 17.6 |
 
 ---
 
-# 📈 Final Research Tables
-
-## Table 1 — Mono-lingual Performance (P1 - Dense)
-
-| Language | Experiment_ID | Recall@5 | Recall@10 | Bleu | Avg_Latency_ms |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **EN** | P1 | 0.9786 | | 33.12 | |
-| **HI** | P1 | 0.8130 | | 27.95 | |
-| **TA** | P1 | 0.6099 | 0.7309 | 7.57 | |
-| **BG** | P1 | 0.7356 | 0.8173 | 11.93 | |
-
-## Table 2 — Mono-lingual Performance (P2 - Hybrid)
-
-| Language | Experiment_ID | Recall@5 | Recall@10 | Bleu | Avg_Latency_ms |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **EN** | P2 | | | | |
-| **HI** | P2 | | | | |
-| **TA** | P2 | | | | |
-| **BG** | P2 | | | | |
-
-## Table 3 — Mono-lingual Performance (P3 - Reranked)
-
-| Language | Experiment_ID | Recall@5 | Recall@10 | Bleu | Avg_Latency_ms |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **EN** | P3 | | | | |
-| **HI** | P3 | | | | |
-| **TA** | P3 | | | | |
-| **BG** | P3 | | | | |
-
-## Table 4 — Multi-lingual Experiment Results
-
-| Experiment_ID | Recall@5 | Recall@10 | Bleu | Faithfulness | Latency_ms | Cost_per_1k_queries |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **P4** | | | | | | |
-| **P5** | | | | | | |
-| **P6** | | | | | | |
-| **P7** | | | | | | |
-| **P8** | | | | | | |
-| **P9** | | | | | | |
-
-## Table 5 — Cross-Lingual Recall Breakdown
-
-| Query_Language | Document_Language | Experiment_ID | Recall@10 |
-| :--- | :--- | :--- | :--- |
-| **HI** | EN | P4 | |
-| **TA** | EN | P4 | |
-| **ML** | EN | P4 | |
-| **BN** | EN | P4 | |
-| **HI** | EN | P7 | |
-| **TA** | EN | P7 | |
-
----
-
-# 🚀 Starting Experiment: P1 English
-
-### Goal
-
-Establish baseline RAG performance using:
-
-* English dataset
-* Monolingual embeddings
-* Dense retrieval
-
-### Expected Output
-
-| Language | Experiment | Recall@5 | Recall@10 | BLEU | Latency |
-| -------- | ---------- | -------- | --------- | ---- | ------- |
-| EN       | P1         | X        | X         | X    | X       |
-
-This becomes the baseline for the entire study.
-
----
-
-# 🗂 Research Workflow
-
-## Phase 1
-
-Generate and freeze English dataset
-
-## Phase 2
-
-Run P1 evaluation
-
-## Phase 3
-
-Run P2 and P3
-
-## Phase 4
-
-Repeat for Hindi, Tamil, Bengali
-
-## Phase 5
-
-Run multilingual experiments
-
-## Phase 6
-
-Fill final research tables and analysis
-
----
-
-# ⚠️ Experimental Constraints
-
-* Dataset must remain frozen after filtering
-* Same dataset used across P1–P3
-* Same LLM across experiments
-* Same chunking and embedding parameters
-* Only retrieval strategy changes per experiment
-
----
-
-# 📍 Current Status
-
-✔️ Languages finalized
-✔️ Metrics finalized
-✔️ Table structure finalized
-✔️ QA generation pipeline fixed for Tamil/Bengali
-✔️ P1 Experiments complete for all 4 languages
-
-### Next Steps
-
-1. Review P1 results and investigate potential for Hybrid search (P2)
-2. Begin multi-lingual experiment planning (P4)
+## Credits
+*   **Embedding Model**: `BAAI/bge-m3`
+*   **LLM (Judge/Generator)**: Google Gemini 2.0 Flash
+*   **Vector DB**: ChromaDB

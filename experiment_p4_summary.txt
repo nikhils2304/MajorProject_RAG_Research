@@ -1,0 +1,21 @@
+# Experiment P4 Summary (Multilingual Dense)
+
+Status: Complete.
+Strategy: Shared Multilingual Index (BAAI/bge-m3).
+Date: 2026-02-13
+
+## Results Table
+
+| Language | Recall@5 | Recall@10 | BLEU | ROUGE-L | Faithfulness | Cost/1k |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **English** | 0.9744 | 0.9786 | 33.72 | 0.5647 | 0.9615 | $0.089 |
+| **Hindi** | 0.9797 | 0.9959 | 40.62 | 0.4490 | 0.9837 | $0.119 |
+| **Tamil** | 0.8341 | 0.9283 | 15.46 | 0.1411 | 0.7937 | $0.122 |
+| **Bengali** | 0.9519 | 0.9615 | 28.13 | 0.0257 | 0.9471 | $0.093 |
+
+## Aggregate Scores (Average)
+*   **Recall@10**: 0.9661
+*   **BLEU**: 29.48
+*   **ROUGE-L**: 0.2951
+*   **Faithfulness**: 0.9215
+*   **Cost**: $0.106 per 1k queries
