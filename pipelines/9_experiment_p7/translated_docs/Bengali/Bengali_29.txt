@@ -1,0 +1,382 @@
+You learned about force in grades six and seven. You have seen that we cannot do anything without applying force. To move a stationary object, to change the direction of motion of a moving object, to make that motion faster or slower, we have to apply force. Is that all? Force is also needed to change the shape of an object. It is not possible to compress a spring to make it smaller or extend it to make it longer without applying force. It is surprising to think how many forces work in so many places within our body! When we stand, it is because of the forces acting in various places within the muscles and bones of our entire body.
+
+You will enjoy many more such things. You will remember the three formulas that scientist Isaac Newton told us about force and motion. You can stand because force is working somewhere. If you discuss among yourselves the various events happening around you, you will see how force is acting, and you will have fun thinking about it.
+
+You also learned about it in seventh grade. Let's see once again what we have learned from those formulas.
+
+From the first formula, we learn that to understand whether a force is acting on an object, we have to see if the object's velocity is changing. If the object's velocity does not change or if the object is stopped, it means that no force is acting on the object, or the sum of the forces acting on the object is zero.
+
+From the second formula, we learned that the stronger the force applied on an object, the greater the change in the object's velocity per second, meaning the greater the acceleration. If the force is doubled, the acceleration produced by that force will also be doubled.
+
+From the third formula, we understood that when an object applies a force on another object, the second object also applies an equal force in the opposite direction on the first object. If one of these two forces is called action, then the other force is called reaction.
+
+Now the question is, how will this force be measured? How will we know which force is greater and which is smaller?
+
+In grades six and seven, you learned that to know the amount of force, you have to calculate what happened due to the effect of that force. If you push a book on a table once with your hand and once your friend pushes it. The push that creates more velocity in the stopped book, definitely created more acceleration while applying the force. So, definitely more force has been applied to the book in that push. The amount of force applied on an object of a specific mass is calculated by looking at the effect of the force, i.e., by measuring the acceleration. We have also got an equation in this regard from Newton's formula.
+
+Force = Mass of the object * Acceleration produced in the object due to the force
+[i.e., F = ma (where F = force, m = mass, and a = acceleration)]
+
+The amount of force that, when applied on an object of one kilogram mass, creates an acceleration of one meter/second², is called one Newton force. This one Newton is the unit of measuring force in SI units. Newton is denoted by N. When you hold a one-kilogram weight in your hand, the weight applies a force of approximately 9.8 Newtons on your hand.
+
+We saw that if we have to measure force using the equation given by Isaac Newton, we need to know the value of acceleration.
+
+But the weight held in hand or your hand is both stationary, there is no acceleration. How to measure force in this case? Or suppose, you have tied a brick to a string (or rope) and hung it. And you are holding the other end of the string. You see that the brick is stationary, it has no acceleration. Yet you can feel the brick pulling the string downwards while holding it. Your hand is being pulled. How will force be measured in this case?
+
+The earth's pull is downwards on both the weight held in hand or the brick hanging from a string. This pull is what we call the gravitational force or the weight of the object. In sixth grade, you learned from Newton's formula that acceleration will be created if force is applied.
+
+Then think about why the weight or the brick is stationary? Why has no acceleration been created despite the application of gravitational force? Is someone else then applying an equal force on them in the opposite direction of the earth's pull?
+
+You are right. In the case of the weight, your hand, and in the case of the brick, the string is applying this opposite force. When the weight or the brick wants to go downwards due to the earth's gravitational pull, the weight applies a force on the hand, and the brick applies a force on the string, downwards. As a result, according to Newton's third formula, the hand also applies an equal force on the weight from bottom to top, and the string also applies an equal force on the brick from bottom to top. Therefore, because two equal forces are acting in opposite directions, the total force on the brick or weight has become zero. As a result, no acceleration is created.
+
+Even though no acceleration is created, two equal forces are working in opposite directions. What is the way to measure these two forces?
+
+Let's learn about an experiment.
+
+A spring is taken. It is hung from a hook. Now if a heavy weight or a piece of stone is hung from the other end of the spring, it will be seen that the spring has become a little longer. What will happen if, instead of the previous weight, a weight twice as heavy or something else is hung? Will the spring become longer than before? It can definitely be seen that the amount of expansion of the spring is also greater when a heavier object is hung.
+
+If you look closely, you will see that the expansion of the spring also doubles when an object of double the mass is hung.
+
+The weight or heavy stone piece hanging from the spring remains stationary, it has no acceleration. But due to the force applied by that hanging object on the spring, the length of the spring increases.
+
+If the force applied on the spring is greater, the amount of expansion of the spring is also greater - we can use this phenomenon to measure force.
+
+A scale and a hanging spring are taken side by side in the picture on the side. A pointer or indicator is attached to the hanging end of the spring as shown in the picture. Now, by hanging different weights from the hanging end of the spring, it is being seen which mark on the scale the pointer or indicator stays at. In this way, different readings of the indicator are possible for different weights. When no weight is hung, the place of the spring is named zero. When a weight of 1 kg mass is hung, the reading where it comes down is named 1 kg or 9.8 Newtons. That is, from the position of the indicator, it has to be understood that 1 kg or 9.8 Newtons of force has been applied on the spring. In this way, by looking at the position of the spring's indicator for objects of different masses like 2 kg, 3 kg, etc., how much force has been applied on the spring can be measured. Using this expansion of the spring due to the application of force, a force-measuring instrument called a spring balance has been created.
+
+Suppose, you pulled the spring balance from both sides and the spring balance pointer showed a reading of 3 kg. What does this mean? This means that the amount of force with which you have pulled the spring balance on each side, is equal to the force with which the earth pulls an object of 3 kg mass. The value of this force is (3 * 9.8) Newtons or 29.4 Newtons.
+
+Friction and its measurement
+
+You have learned about frictional force in grades six and seven. Here we will see how the frictional force is calculated.
+
+A box is placed on a table. And you are pulling the box with the help of a spring balance. By pulling with the spring balance, you can measure how strongly you are pulling. Suppose, the pointer of the spring balance is at the 1 kg or 9.8 Newton mark. That is, you are pulling the box to the right with a force of 9.8 Newtons. If the box remains stationary despite this pull and does not move to the right, then according to Newton's first formula, what conclusion can you come to? Someone must have applied a force of 9.8 Newtons on the box to the left - as a result of which the total force on the box has become zero. Now the question is, who applied this 9.8 Newton force to the left?
+
+Now if you place that box on another table, the surface of which is more smooth and slippery, then you may see that the box is moving to the right when pulled with that 9.8 Newton force. From this, it is understood that, in the case of the first table, the upper surface of the table itself had applied that force. When the table was changed and the box was placed on the slippery surface, the surface of the new table could not apply that same amount of force (9.8 Newtons). Therefore, it was understood that as soon as the box is pulled, a force is created at the contact of the bottom surface of the box and the upper surface of the table. As soon as the box is pulled, that force starts acting in the opposite direction of the pull and tries to prevent the box from moving. In the first case, the value of that force and the value of the pull are equal, 9.8 Newtons. So, in the first case, the sum of the two forces has become zero. And in the second case, the value of that force is less than the pull. As a result, the box has moved in the direction of the pull. This force created at the contact of two surfaces that is created against motion or the attempt to create motion is called frictional force.
+
+Now tell me, what is the value of that frictional force in the first case?
+
+You are right. The value of the frictional force in the first case is 9.8 Newtons, i.e., equal to the force with which it has been pulled to the right. Even when pulled parallel to a surface, if an object remains stationary on that surface, only then can we say that the value of the frictional force is equal to the value of the pull. If the value of the pull can be known with the help of a spring balance, then the value of the frictional force can also be known.
+
+But if the object starts moving due to the pull, then the value of the frictional force cannot be determined in this way by just looking at the reading of the spring balance. Although frictional force acts in that case as well.
+
+When an object remains stationary on a surface despite being pulled by applying force, then the frictional force that acts is called static friction. And when the object starts moving due to the pull, then the frictional force that acts is called kinetic friction.
+
+Now look at the pictures on the side.
+
+In picture 1, no one is pulling the box. Think and tell, is any frictional force acting on the box here?
+
+In picture 2, the box is being pulled with a force of 9.8 Newtons. But the box remains stationary. What is the value of the frictional force here? In which direction is the frictional force acting in this case?
+
+In picture 3, the box is being pulled with a force of (2 + 9.8) Newtons. Still, the box is not moving. What is the value of the frictional force in this case and what is its direction?
+
+In picture 4, the box is being pulled to the right with a force of (3 * 9.8) Newtons and the box is just starting to move to the right. Is it possible to determine the value of the frictional force in this case just by looking at the reading of the spring balance?
+
+Try to answer the following questions from the above experiments.
+
+When an object remains stationary on a surface despite being pulled, is the value of that frictional force fixed, or is it different for pulls of different values?
+
+If the value of the pull on the stationary object is increased step by step, then write in the table on the side how the value of the static frictional force will be.
+
+If the pull on the object continues to be increased, then will the value of the frictional force in the opposite direction also continue to increase? Or will the frictional force increase only up to a certain limit, and then the object will start moving instead of remaining stationary?
+
+In the picture on the side, two more experiments have been imagined. An object is placed on a wooden table and pulled. The value of the pull is increased until the object moves. By looking at the pointer of the spring balance, we can easily know how much the value of the frictional force is at different times. We can even determine how much pull is exactly needed for the object to start moving for the first time by looking at the indicator of the spring balance. That is, we can determine by keeping an eye on the spring balance what the maximum value of the frictional force is when the object is stopped on that surface, i.e., how much the frictional force had increased to the most.
+
+Suppose, in the same way as in picture 1,
+
+1) the object was placed and an experiment was conducted once and the maximum value of the static frictional force was determined. Then, by keeping the object as in picture 2, the experiment was conducted again and the maximum value of the static frictional force was determined again. It will be seen that in both cases, the maximum value of the static frictional force is the same.
+
+Now, by placing that object on a glass table, the experiments were conducted again, first as in picture 1 and then as in picture 2. This time too, the same maximum value of the static frictional force will be found in both cases. However, the same value found this time will not be the same as the maximum value when it was on the wooden table.
+
+Try to answer the following questions from the results of these experiments.
+
+When an object remains stationary on a specific surface, is the maximum value of the static frictional force between that object and that surface always the same, or does it change with the amount of pull given parallel to that surface?
+
+Does the maximum value of the frictional force depend on how an object is placed on a surface, i.e., whether the area that the object touches the surface is large or small? Is the maximum value of the frictional force greater if the area of the contact surface is larger?
+
+In the three pictures on the side, a box is being pulled by keeping it on the table in three different positions.
+
+First, just the box is placed and pulled. Then, by placing a 10 kg heavy weight on the box, the box is pulled.
+
+And in picture 3, by placing 2 10 kg weights on the box, the box is pulled.
+
+Look at these pictures and answer the following questions.
+
+Is the force with which the box is applying downwards on the table in picture 1 greater or smaller than the downward force given by the box on the table in picture 2?
+
+Is the value of the downward force that the box is applying on the table in picture 3 greater or smaller than the downward force given by the box on the table in picture 2?
+
+If the box is applying a force downwards on the table, then the table must also be applying an equal force upwards on the box. Because according to Newton's third formula, that is what is supposed to happen. Now tell me, in which picture is the table applying the greatest upward force on the box?
+
+In all three pictures, the box is being pulled to the right. That pull is being increased continuously until the box starts moving. By keeping an eye on the pointer of the spring balance, an attempt is being made to determine the maximum value of static friction.
+
+Try to answer the following questions by looking at the pictures.
+
+Between picture 1 and picture 2, in which case will the box start moving if the value of the pull is greater? In which of picture 1 and picture 2 is the maximum value of static friction greater?
+
+Between pictures 2 and 3, in which case will the box start moving if the value of the pull is greater?
+
+Now compare picture 2 and picture 3 and try to say, in which case will the maximum value of the static frictional force be greater? That is, in which case will more pull be required to move the box?
+
+From the answers to the above questions, now answer the following question.
+
+When an object sits stationary on a surface, then that object applies a force perpendicularly downwards on that surface and that surface also applies an equal force perpendicularly upwards on that object. If this perpendicularly applied force is greater, then will the maximum value of the static frictional force between that object and that surface also be greater?
+
+Let's write down what we have learned about frictional force.
+
+Frictional force
+
+Frictional force is active when an object is tried to be moved or when the object is moving over a surface.
+
+Always acts parallel to the two surfaces in contact.
+
+The frictional force that acts when an object remains stationary on a surface despite the application of push, pull or any kind of force like shove, hit, etc. is called static friction.
+
+Static friction has a maximum value.
+
+This maximum value remains the same for a specific object, on a specific surface.
+
+The greater the action-reaction force acting vertically between two surfaces, the greater the maximum value of the static frictional force acting parallel to that surface.
+
+Density
+
+Take two plastic bottles of the same size. Now fill one bottle with water. Fill the other bottle with heavily salted water.
+
+See which one is heavier.
+
+The two bottles are exactly the same in every way in their empty state. The amount of space inside the two bottles is the same. Then why did one become heavier than the other?
+
+The heavily salted water is definitely heavier than regular water. That is why a bottle full of heavily salted water will be heavier than the same size bottle full of regular water.
+
+Similarly, a spoonful of heavily salted water will definitely be heavier than a spoonful of regular water. In the same way, a bowl of glycerin will also be heavier than a bowl of regular water.
+
+Therefore, the weight of the same volume of heavily salted water is more than that of regular water. So, it can definitely be said that the weight of the same volume of heavily salted water is more than the weight of the same volume of regular water. The weight of the same volume of heavily salted water is more than the weight of the same volume of regular water. We call this volume “unit volume” whose value is one (1). For example, 1 liter, 1 cubic centimeter, 1 gallon. They are all unit volumes. The weight of unit volume of an object is called the density of that object.
+
+Therefore, the density of heavily salted water is more than the density of regular water. That is why the weight of one bottle of heavily salted water is more than the weight of one bottle of regular water of the same size, as a result of which the bottle of heavily salted water is heavier.
+
+Suppose, the volume of the bottle is 1 liter. Before filling it with water, the empty bottle was hung on a spring balance and the pointer of the spring balance did not move down. Therefore, it can be assumed that the weight of the bottle is so less that it can be assumed to be zero. Now, after filling it with water, the bottle was hung from the spring balance again. This time the pointer of the spring balance came down to the 1 kg mark. The weight of 1 liter volume of water was found to be 1 kg, i.e., the density of water is 1 kg/liter. Now, if we use the units gram for measuring weight and cubic centimeter for measuring volume, then what will be the density of water?
+
+1 liter of water = 1000 cubic centimeters of water.
+
+1 kg of water = 1000 grams of water.
+
+Therefore, we can write,
+
+The weight of 1000 cubic centimeters of water is 1000 grams.
+
+The weight of 1 cubic centimeter of water = 1000/1000 gram.
+
+Therefore, density = Weight of water / Volume of water = 1000 grams / 1000 cubic centimeters = 1 gram/cubic centimeter.
+
+Now try to answer the following questions.
+
+A bottle of 2-liter volume is completely filled with a liquid. By hanging the bottle on a spring balance, the weight of the bottle was found to be 4 kg. It is assumed that the empty bottle is so light that the pointer of the spring balance does not move down when it is hung on the spring balance. What is the density of the liquid taken in the bottle?
+
+Have you ever seen mercury? The shiny blob at the bottom of the thermometer is filled with mercury. Mercury is a liquid substance. The density of mercury is very high, 13.6 grams/cubic centimeter. Can you tell how many grams is 1 liter of mercury?
+
+Take some water in a bowl. Now pour a little mustard oil into that bowl.
+
+What did you see?
+
+Did the mustard oil float on top of the water or sink to the bottom?
+
+Now tell me, which liquid has a higher density? Water or mustard oil? If the weight of one liter of water is one kilogram, then tell me, will the weight of one liter of mustard oil be more or less than one kilogram?
+
+Liquid Pressure
+
+You learned about the pressure of liquids in the sixth grade. You also learned that the amount of force acting on a unit area is called pressure.
+
+A block of 10 kg weight is placed on the table on the side. With how much force is the earth pulling the block downwards?
+
+The earth pulls an object of 1 kg weight with a force of 9.8 Newtons. So, the earth is pulling an object of 10 kg weight with a force of (9.8 * 10) Newtons or 98 Newtons.
+
+Can you tell why the iron block remains stationary despite being pulled downwards by the earth with a force of 98 Newtons?
+
+Since the earth's pull on the block is downwards, the block pushes downwards on the table. The value of that push is equal to the weight of the block, i.e., 98 Newtons. If we call this push of the block on the table action, then the reaction force given by the table on the block will also be 98 Newtons and its direction will be upwards.
+
+As a result, the sum of the 98 Newton downward force given by the earth on the block and the 98 Newton upward force given by the table is zero, which is why no acceleration has been created in the block. That is why the block remains stationary.
+
+Now if the question is asked what is the amount of pressure created on the table due to the block?
+
+We saw that the block is applying a force of 98 Newtons on the table. Now it needs to be known, over how much area on the table has this force been applied?
+
+If the area of the contact surface of the table and the block is 0.25 square meters, then the force given by the block on the table has been applied over an area of 0.25 square meters.
+
+If the amount of force given over an area of 0.25 square meters is 98 Newtons,
+
+Then, the amount of force on 1 square meter area, i.e., on a unit area = 98 Newtons / 0.25 square meters = 392 Newtons/square meter.
+
+Therefore, the pressure given by the block on the table = Force / Area = 98 Newtons / 0.25 square meters = 392 Newtons/square meter.
+
+Now look at the tub on the side, which contains 10 kg of water. The area of the floor of the tub is 0.25 square meters. Determine the amount of pressure that the water applies on the floor of the tub, i.e., on the bottom of the tub.
+
+The earth is pulling the 10 kg of water downwards with a force of (10 * 9.8) Newtons or 98 Newtons. That is, the weight of 10 kg of water is 98 Newtons. But the water remains stationary. Therefore, the floor of the tub has given an upward force of 98 Newtons on the water. According to Newton's third formula, the water has also given a force of 98 Newtons on the floor of the tub.
+
+As a result, the amount of pressure on the floor of the tub = Force / Area = 98 Newtons / 0.25 square meters = 392 Newtons/square meter.
+
+In the case of a solid, we calculated pressure from the force exerted by the block on the table. In the case of a liquid, we calculated pressure from the force exerted by the water on the bottom of the tub.
+
+The liquid water not only applies force on the bottom of the tub but also applies force on the walls of the tub. If any hole is made in the wall of the tub, then water comes out through it. It can be understood just by seeing this that, in the case of liquids, pressure should also be calculated on the side walls. Now we will try to know more about the pressure of liquids.
+
+Some more about liquid pressure
+
+In the two pictures below, a big wide tub and a tall water bottle have been taken. The bottle holds about five times less water. A hole has been made near the bottom in both the tub and the bottle.
+
+Now, water has been filled in both the tub and the bottle and they have been placed near the edge of the table.
+
+If you look closely, you will see that the water coming out of the hole in the bottle is not coming out with as much speed and is not going as far. But the water coming out of the hole in the tub is coming out with much more speed and is going further. See if the amount of water that the earth pulls in the tub is more than the amount of water the earth pulls in the bottle. Because if the bottle holds 1 kg of water, then the tub holds 5 kg of water. Then the question is, why is water coming out more strongly through the hole in the tub?
+
+Notice, the height of the water in the bottle (h1) is greater than the height of the water in the tub (h2).
+
+It can be seen in experiments that the closer the hole is to the bottom, the more strongly the water comes out. (The experiment can also be done with a 2-liter bottle and another one smaller than that.)
+
+The height of the water surface from the hole, the more strongly the water comes out.
+
+Also, notice another thing. The volume of the water in the tub is more, but the floor area of the tub is also much larger than that of the bottle. If you want to place multiple bottles like that on the floor of the empty tub, how many bottles will fit?
+
+At least six bottles will fit. Now let's do a calculation.
+
+Weight of the water in the bottle = 1 kg.
+
+Weight of the water in the bottle = (1 * 9.8) Newtons = 9.8 Newtons.
+
+Let's assume that the area of the floor of the bottle is 4 square meters.
+
+Therefore, the pressure of the water on the floor of the bottle = Force / Area = 9.8 Newtons / 4 square meters = 2.45 Newtons/square meter.
+
+Now, weight of the water in the tub = 5 kg
+
+Weight of the water in the tub = (5 * 9.8) Newtons = 49 Newtons. The floor area of the tub is about 6 times the floor area of the bottle.
+
+Therefore, the floor area of the tub = 6 * 4 square meters = 24 square meters (approximately).
+
+Therefore, the pressure of the water on the floor of the tub = Force / Area = 49 Newtons / 24 square meters = 2.04 Newtons/square meter (approximately).
+
+Now tell me, in which container is the water pressure more at the bottom __ in the bottle, or in the tub?
+
+Therefore, it is clear that the speed of the liquid coming out through the hole depends on pressure, not on force. Again, it was also seen that pressure is greater where the height of the liquid surface is greater.
+
+Let's do another experiment.
+
+Take a plastic bottle. Now make a total of four holes on the wall of the bottle very close to the floor, one each on all four sides. Keep in mind that all the holes should be of the same size. At least as big a hole should be made as can be made by touching the plastic with a hot thick nail. This is also important for the experiment done with the tub and bottle on the previous page.
+
+By filling the bottle with water, see how the speed of the water coming out through the holes is decreasing. As the water surface is coming down, the speed of the water coming out through the holes is also decreasing. The height of the water surface from all these holes in the bottle is always the same. As a result, when the height of the water surface decreases with the water coming out, it decreases in the same way for all the holes. And that is why the speed of the water coming out through these holes also decreases in the same way.
+
+What did you understand from this experiment? Does the pressure of a liquid at a place act only downwards? Remember, the pressure of a liquid at a place acts equally in all directions.
+
+Pressure and Density of Liquid
+
+In two plastic bottles made of the same size and exactly the same, a hole was made near the bottom of the wall, at the same height from the bottom. Two narrow pipes made of plastic that can be bent, exactly the same, were attached to the two holes separately, and the two systems were placed as in the picture on the next page (Figure No. 18). Kerosene oil was filled in these plastic pipes using a needleless injection syringe. Now, one of the two bottles was filled with water, and the other was filled with the same volume of heavy salt water. In this situation, just by looking at the height of the kerosene column of the long arms of the two pipes, it will be seen that,
+
+in the plastic pipe connected to the bottle in which heavy salt water has been kept, the height of the kerosene column is more. In both the bottles, the height of the liquid surface from the hole is the same. In the case of both liquids, the pressure of the liquid near the hole should be the same. Then why is the value of pressure higher in the case of heavy salt water?
+
+Do this simple experiment yourself and verify the truth of the above discussion.
+
+Then, does the amount of pressure depend on something else besides the height of the liquid?
+
+The density of heavy salt water is greater than that of water. Again, it was seen from the experiment that, even with the same height, the pressure is also greater in the case of heavy salt water. Then does the pressure of a liquid also depend on the density of the liquid?
+
+Therefore, it is clear that, inside a liquid, how much the pressure of the liquid will be at a place depends on the height of the liquid surface at that place and on the density of that liquid.
+
+Look carefully at the picture on the side. On the right side of a U-shaped pipe,
+
+the quantity of liquid in the large container is more, so the volume is more, but
+
+the height of the liquid surface is less. On the left side, in the small container, the quantity of liquid and
+
+the volume of the liquid are both less, but the height of the liquid is more.
+
+The same liquid has been taken in both containers and the
+
+valve attached to the connecting pipe is closed. Now, if the
+
+valve is opened, then from which pipe to which pipe will the liquid flow? You have done a similar
+
+experiment in sixth grade. You have seen that the direction in which the liquid will flow is determined
+
+by the height of the liquid surface. The direction of the liquid flow does not depend on the quantity or volume of the liquid, or the amount of gravitational force of the earth on the liquid. That is, not force, but pressure determines the direction of flow of a liquid.
+
+After opening the valve in the middle,
+
+(1) In Figure (1), in which direction will the liquid flow? From A to B, or from B to A?
+
+(2) In Figure (2), in which direction will the liquid flow? From A to B, or in the opposite direction?
+
+(3) What is the direction of flow of the liquid in Figure (3)?
+
+If in Figure (1), (2) or (3) the liquid flows from A to B, or from B to A, then will that flow continue, or will that flow stop on its own at some point?
+
+When will the flow of liquid stop?
+
+(4) In Figure (4), the amount of liquid in each pipe is different. Will there be any flow of liquid there? The height of the liquid in all the pipes has been drawn the same. Is that how it is supposed to be?
+
+Try to find the answer by discussing among yourselves.
+
+Take a tub and fill it with some water. Now, take a rubber pipe that is about three to four feet long.
+
+Both ends of the rubber pipe are open. Fill the pipe completely with water and close both ends with your thumbs. Now, immerse one end of the pipe in the water in the tub and remove your finger. And hold the other end of the pipe high, with your finger still closing it.
+
+The bottom end of the pipe is now open and immersed in the water in the tub. But even then, why didn't the water in the pipe fall into the tub?
+
+Looking at the picture, tell why water did not flow from A to B? At point A,
+
+the height of the water surface is less than the height of the water at point B, yet water
+
+did not go from A to B.
+
+Even though the height of the water surface at point A is less, why is the amount of pressure
+
+at point A not less than the amount of pressure at point B? The reason for this is air pressure.
+
+Air pressure will act, as a result of which, the amount of pressure at point A or point B is not just
+
+the pressure of the liquid. It is the combined pressure of the liquid and the air. But the reason for the pressure at point B is
+
+the height of the liquid inside the pipe. Now, if you remove your finger from the closed end of the pipe,
+
+then why did the water fall into the tub from the pipe?
+
+Now air pressure is also acting on the upper end of the pipe, as a result of which the amount of pressure at
+
+point B has become more than that at point A or point B and the water has come out through point B.
+
+Now let's assume that the rubber pipe that was taken to do this experiment
+
+is 13 meters long. Now, if the rubber pipe, which is almost the same height as a three-story building, is immersed
+
+with its upper end closed in the water-filled tub, it will be seen that the water continues to come out from the pipe into the
+
+tub until the water level drops 1.7 meters from the closed end. That is, as soon as the height of the water
+
+inside the pipe becomes approximately 10.3 meters from the surface of the water in the tub, the water flow
+
+stops. What did you understand from this? When the
+
+height of the water was more than 10.3 meters,
+
+the pressure of the water was more than the air
+
+pressure. That is why water came out from the pipe
+
+and fell into the tub. As soon as the height of the
+
+water became approximately 10.3 meters, the water
+
+pressure and the air pressure became equal and the water in
+
+the pipe stood still. It is understood from this that the
+
+amount of pressure that 10.3 meters of tall water exerts is
+
+equal to the air pressure.
+
+The Italian physicist Torricelli had done this same experiment, with mercury instead of water. He had seen
+
+that the amount of pressure that 76 cm tall mercury exerts is equal to the air pressure.
+
+Therefore, it is understood from these experiments that, the amount of pressure that air exerts under normal
+
+conditions is equal to the amount of pressure that 10.3 meters tall water column exerts and the amount
+
+of pressure that 76 cm tall mercury column exerts.
+
+Where 10.3 meters tall water is needed to create the same amount of pressure, just 76 cm of mercury creates that pressure. Why does

@@ -1,0 +1,142 @@
+Bridging the Gap Between Development and Employment in India
+
+This article is based on the article titled "Growth need not generate jobs" published in The Hindu Business Line on 08/01/2026. The article underlines that economic growth does not always automatically translate into job creation. It highlights how productivity-driven growth, automation, formalization, and the dominance of the service sector have weakened the ‘growth-employment’ relationship. The pace of economic development in India has remained consistently strong; GDP is estimated to grow at approximately 7.4% in the financial year 2025-26, reflecting robust domestic demand and investment flows. However, the labor market response has not been uniform, as official data from the Periodic Labor Force Survey (PLFS) 2023-24 indicate a slight decline in the overall unemployment rate, reaching approximately 3.2%, with a clear division between rural and urban areas. Although the labor force participation rate and the worker-population ratio have improved, a large portion of workers are still engaged in informal or low-quality employment. Thus, the gap between rapid GDP growth and relatively weak job creation underlines concerns of jobless growth, where economic output expands far more rapidly than employment opportunities.
+
+What is the current development performance of different sectors of the Indian economy?
+
+Primary Sector
+
+*   Agriculture and Allied Activities: The agricultural sector in India has recorded an average annual growth of 5% from financial year 2017 to 2023.
+
+    *   Strong performance in animal husbandry, dairy, fisheries, and horticulture has mitigated climate-related risks in crop production.
+    *   The government's focus on irrigation, agricultural infrastructure, digital agriculture, and value chains is likely to strengthen productivity, diversification, and farmer income in the future.
+*   Mining and Quarrying: The mining and quarrying sector supports India's industrial and infrastructural expansion by providing raw materials such as coal, iron ore, limestone, and critical minerals.
+
+    *   Growth in production in recent years reflects the increasing demand from the construction, energy, and manufacturing sectors. Policy reforms in mineral auctions, exploration, and critical mineral strategy have made mining a strategic contributor to long-term development and energy transition.
+    *   For example, India is the second largest producer of aluminum in the world and among the top 10 producers of refined copper and the fourth largest producer of iron ore.
+
+Secondary Sector:
+
+*   Manufacturing Sector: According to PIB data, the manufacturing sector has emerged as a key pillar of development with a strong growth of around 9.9% in recent quarters.
+
+    *   It includes labor-intensive industries (textiles, garments, food processing), capital-intensive industries (cement, steel, automobiles), and technology-based sectors (electronics, pharmaceuticals, engineering goods).
+
+        *   For example, Small and Medium Enterprises (MSMEs) contribute more than 30% to India's Gross Domestic Product (GDP) and 45% to exports. They are the second largest employer in India after agriculture.
+    *   Initiatives like PLI schemes, Make in India, and supply chain diversification are strengthening India's manufacturing competitiveness and export potential.
+
+        *   For example, more than ₹1.76 lakh crore has been invested through the PLI scheme, leading to an increase in production, exports, and employment.
+*   Construction and Infrastructure: The construction sector remains a major driver of growth and job creation due to record public capital expenditure on roads, railways, ports, housing, and urban infrastructure.
+
+    *   The sector was expected to grow by 9.4% in financial year 2024-25, indicating strong infrastructure development and significant multiplier effects in cement, steel, transportation, and related services.
+    *   This sector is extremely important for attracting private investment and for regional development.
+*   Electricity, Gas, Water Supply, and Renewable Energy: The electricity, gas, water supply, and other utility services sector, contributing about 2.1% to gross profit, recorded moderate but steady growth at constant prices in the financial year 2025-26.
+
+    *   This expansion was driven by increasing energy demand from households, industries, and services, as well as continuous investment in grid modernization and transmission infrastructure.
+    *   Rapid capacity growth in solar, wind, and other renewable energy sources has strengthened energy security, reduced dependence on fossil fuels, and supported India's climate commitments.
+
+Tertiary Sector:
+
+*   Trade, Transportation, Tourism, and Communication Services: Trade, hotels, transportation, communication, and broadcasting-related services are estimated to grow at 7.5% at constant prices in the financial year 2025-26, indicating a strong recovery in consumption-based services.
+
+    *   This growth is supported by a 7.0% increase in real private final consumption expenditure (PFCE), the expansion of logistics and warehousing, improvements in transportation infrastructure, and higher digital connectivity.
+*   Financial, Real Estate, and Professional Services: Financial, real estate, and professional services are estimated to grow strongly at 9.9% at constant prices in the financial year 2025-26, making it one of the main drivers of the expansion of the tertiary sector.
+
+    *   The main factors behind this performance have been continuous credit growth, the increasing formalization of the economy, fintech-based financial inclusion, and increasing demand for residential and commercial real estate.
+    *   With a 7.8% increase in Gross Fixed Capital Formation (GFCF), these services strengthen overall GDP growth through capital accumulation, investment facilitation, and productivity growth in the agriculture, manufacturing, and service sectors.
+*   IT, Digital Services, R&D, and Knowledge Economy: India's IT, digital services, research and development (R&D), and knowledge-based activities are continuously strengthening the service sector, contributing significantly to the service-led real gross profit growth of 7.3% in financial year 2025-26.
+
+    *   The expansion of software and IT-enabled service exports, rapid adoption of digital public infrastructure, growth of startups, and expansion of research-oriented services have promoted high-value output and skilled employment.
+
+What is the current employment situation in India?
+
+*   Key Macroeconomic Indicators
+
+    *   Unemployment Rate (UR): Approximately 4.7% by the second half of 2025, indicating a notable improvement.
+    *   Labor Force Participation Rate (LFPR): Approximately 55.8%, reflecting increasing participation in the active labor market.
+    *   Youth Employment (15–29 years): An estimated 11% increase in youth recruitment in 2026, although ‘skill gaps’ remain a barrier.
+*   Sector-wise Changes and Key Points
+
+    *   Growth in the Manufacturing Sector: The impact of PLI schemes and Industry 4.0 has increased the demand for high-skilled positions such as IoT engineers, automation specialists, and semiconductor technicians.
+    *   Expansion of the Gig Economy: Driven by the expansion of rapid commerce and delivery services in Tier-2 and Tier-3 cities, the gig workforce is expected to create approximately 20 lakh new jobs in 2026.
+    *   Dominance of the Service Sector: Professional services, finance, and insurance sectors are leading the recruitment scenario in the first quarter of 2026; India has recorded the second strongest recruitment outlook globally with a net employment outlook of 52%.
+*   Qualitative Trends
+
+    *   Formalization: Record-level growth in the Employees' Provident Fund (EPFO), often reaching more than 20 lakh subscribers in peak months, indicates a shift from informal cash-based employment to organized, social security-supported employment.
+    *   Women's Participation in the Workforce: Supported by flexible work models and government initiatives like the Stand-Up India scheme, the women's full-time leave percentage (LFPR) has increased to approximately 35-41% (based on survey criteria).
+    *   Impact of AI: While automation is reducing some entry-level manual roles, it is creating a wide-scale demand for ‘skill upgradation’ for AI-enabled talent in IT and Fintech.
+
+Despite these strong development prospects and high GDP growth rates in India, economic activity has not yet been able to create enough high-quality jobs to absorb the youth entering the workforce every year, resulting in competition for formal positions.
+
+Why has India's development journey not translated into sufficient job creation?
+
+*   Structural Shift Towards Capital-Intensiveness: High-level automation is being adopted in manufacturing and infrastructure projects to maintain global competitiveness, leading to development being driven now by “machines instead of humans”.
+
+    *   India has largely bypassed the traditional “manufacturing-first” development stage and transitioned directly to a service-dominated economy, which is naturally less labor-absorbing for unskilled workers.
+    *   Despite the continuous expansion of the service sector (Service PMI, December 2025), the recruitment process has been slow due to cost pressures and efficiency-based strategies.
+
+        *   Employment in the service sector is concentrated in low-level, informal sectors, and business surveys show that the ratio of recruitment is not expanding due to cost and productivity pressures.
+        *   As a result, service-dominated development sustains broad economic activity, but its ability to create large-scale sustainable employment for medium-skilled workers remains limited.
+*   Informalization and Low Job Quality: Despite a moderate headline unemployment rate, pressure on India's labor market remains partially hidden, while job quality remains weak.
+
+    *   According to the ILO–IHD India Employment Report 2024, approximately 82% of the workforce is engaged in the informal sector and approximately 90% are employed informally, where there is a lack of contracts, social security, and protection.
+    *   Most of the increase in employment occurs in need-driven self-employment and casual work, such as retail trade and temporary activities, which have low wages, income insecurity, and limited mobility, weakening the link between growth and inclusive development.
+*   Skill Mismatch and the Paradox of “Education Without Livelihood”: Sufficient formal, skill-appropriate jobs have not been created in line with increasing educational attainment, resulting in increasing unemployment among graduates and frustration among youth.
+
+    *   The ILO–IHD India Employment Report 2024 shows that the number of educated youth (secondary level and above) among the unemployed has increased from 35.2% in 2000 to 65.7% in 2022.
+    *   According to the India Skills Report 2025, despite increasing employability, only 54.8% of Indian graduates are considered ‘job-ready’ for their respective industries.
+*   Regional Differences and Weak Urban Employment Sources: PLFS (Periodic Labor Force Survey) data on general employment and regular wage/salaried jobs show a clear spatial concentration: states like Maharashtra, Tamil Nadu, Gujarat, Karnataka, and Uttar Pradesh have a disproportionately high share of regular formal employment, while eastern and central states have a much higher share of self-employment and casual labor.
+
+    *   This indicates that cities with metropolises and industrial clusters create relatively more sustainable employment, while smaller cities lacking manufacturing density, formalization of small and medium enterprises (SMEs), and urban infrastructure remain weak absorbers of employment, despite the growing workforce.
+*   Regulatory Hindrance and Limitations of Firms: Complex compliance requirements and outdated rigid labor codes (although despite recent 2025 reforms) prevent small firms from hiring enough people to transform them into larger enterprises.
+
+    *   This ‘regulatory barrier’ forces businesses to remain small or ‘limited’, where they do not have sufficient scale to provide job security, training, or competitive salaries to their employees.
+    *   This is why more than 99% of the total number of micro, small and medium enterprises (MSMEs) in India are micro-enterprises.
+*   Premature Skill Degradation in the Gig Economy: The rapidly increasing popularity of ‘quick commerce’ and gig-platforms is acting as a 'labor sponge', employing millions of young people, but it provides ‘non-upgrading’ employment, which lacks skill development or social security.
+
+    *   This creates a workforce that has ‘employment’ but is ‘less productive’ and engaged in roles that will eventually be replaced by drone delivery or AI-driven logistics, creating future unemployment.
+    *   According to government estimates, the number of gig and platform workers could increase to approximately 23.5 million by 2029-30. Research shows that youth entering the gig economy after school experience ‘skill erosion’, reducing their chances of later moving into formal office roles.
+
+What measures can be adopted to improve job creation while accelerating development in India?
+
+*   Restructuring the Development Strategy Towards Employment-Priority: Employment should be explicitly included as a key objective in India's development strategy, not just as a by-product of GDP expansion.
+
+    *   Employment growth elasticity should be prioritized in policy-making and those sectors and technologies that create more jobs per unit of output should be promoted, especially in labor-surplus situations.
+    *   Integrating employment targets into industrial, infrastructure, and investment policies can ensure that development remains inclusive and socially sustainable.
+*   Strengthening Labor-Intensive Manufacturing: Labor-intensive industries such as textiles, garments, leather, footwear, food processing, toys, and light engineering have immense potential for large-scale job creation.
+
+    *   Targeted incentives, simplified compliance, cluster-based infrastructure, and export facilitation can help these sectors absorb additional labor (especially from the agricultural sector).
+    *   Aligning PLI-type support with employment outcomes rather than just production can further enhance job creation.
+*   Expansion and Productivity Increase of Small and Medium Enterprises (MSME): Small and Medium Enterprises (MSMEs) in India are the backbone of job creation.
+
+    *   Improving access to affordable credit, technology, digital platforms, market access, and skill development support can significantly increase their capacity to create jobs.
+    *   Compliance burden should be reduced, along with formalization through GST, enterprise registration, and digital payments, so that businesses remain viable and their growth is not hampered.
+*   Promoting Infrastructure-Based Employment: Continuous public investment in infrastructure, housing, urban development, and rural connectivity can create large-scale direct and indirect employment.
+
+    *   The employment multiplier rate in the construction sector is very high and supports related sectors such as cement, steel, transportation, and services.
+    *   Employment creation in different sectors can be maximized through timely project implementation and decentralized infrastructure planning.
+*   Transformation in Agriculture and Non-Agricultural Rural Employment: Improving productivity and income in agriculture through diversification, value addition, food processing, agricultural logistics, and related activities can create both agricultural and non-agricultural jobs.
+
+    *   Promoting rural non-agricultural enterprises, agricultural processing clusters, and Farmer Producer Organizations (FPO) can accommodate additional labor, as well as increase rural income and resilience.
+*   Service-Led Job Creation Beyond High-Level Skills: Although IT and financial services accelerate development, the expansion of labor-adjusting services such as tourism, hospitality, healthcare, education, logistics, retail, and personal services is needed for job creation.
+
+    *   Investment in urban services, medical tourism, healthcare economy, and local service delivery can create a large number of jobs at different skill levels.
+*   Skill Development, Re-Skilling, and Education-Industry Coordination: A dynamic labor market requires continuous skill development, re-skilling, and advanced skill development to suit industry needs. Accelerating vocational education, apprenticeships, and industry-related training programs can improve employability and productivity.
+
+    *   Special attention should be paid to digital skills, green skills, and future technologies to ensure workforce readiness and to ensure that low-skilled workers are not excluded.
+    *   Apprenticeship programs under NAPS should be strengthened to minimize the gap between education and employment. Apprenticeships provide opportunities for learning as well as income generation, increase readiness for employment, and reduce recruitment risks for companies (especially MSMEs).
+*   Labor Market Reform with Worker Security: Simplifying labor laws while ensuring worker protection, social security, and portability of benefits can incentivize companies to increase employment.
+
+    *   Effective implementation of labor codes, universal social security coverage for informal and gig workers, and easy employment while protecting their rights can reduce informality and improve job quality.
+*   Promoting Employment in a Green and Environment-Friendly Economy: The transition to a green economy ensures significant job potential in renewable energy, energy efficiency, waste management, electric mobility, and climate-adaptive infrastructure.
+
+    *   Similarly, the care economy (healthcare, childcare, elderly care, and social services) can create dignified and gender-equal employment, supporting long-term human development.
+*   Promoting Formalization and Urban Employment Ecosystem: Urban job creation can be strengthened by supporting manufacturing-service relationships, startup ecosystems, urban MSME clusters, and innovation centers.
+
+    *   Along with formalization through digital platforms, there should also be incentives that reduce the cost of compliance and encourage companies to grow instead of remaining small.
+*   Improving Data, Monitoring, and Policy Coordination: Robust labor market data and real-time monitoring of employment outcomes are essential for evidence-based policy-making.
+
+    *   Better coordination between the Ministries of Finance, Labor, Industry, Education, and Skill Development can ensure that development policies are aligned with employment objectives at both the national and state levels.
+
+Conclusion:
+
+India's jobless growth indicates a structural shift towards productivity and technology-based expansion, which strengthens broad economic stability and global competitiveness. The challenge is not in the lack of growth, but in linking it more closely with job creation. By promoting labor-intensive sectors, small and medium enterprises (MSMEs), skill development and apprenticeship programs, and green and care economies, India can transform growth into quality jobs. This balanced approach promotes SDG 8 (Decent work and economic growth), SDG 9 (Industry, innovation and infrastructure) and SDG 10 (Reducing inequalities) while maintaining high growth.

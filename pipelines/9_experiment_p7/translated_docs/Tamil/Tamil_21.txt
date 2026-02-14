@@ -1,0 +1,356 @@
+Unit 2: Elections, Political Parties, and Pressure Groups
+
+Learning Objectives:
+
+*   Learn about the election system in India.
+*   Understand the different types of elections in India.
+*   Learn about political parties.
+*   Understand the functions of national and state parties.
+*   Understand the pressure groups in India.
+
+Introduction
+
+The election is a method by which people vote and elect a representative to fulfill all the requirements for the constituency as defined in the Constitution and to enact laws in the parliament.
+
+2.  1 Election System in India
+
+The Indian election system is adapted following the election system of England. India is an egalitarian, secular, democratic, and republic nation, and is the world's largest democracy. The Indian constitutional system came into effect on January 26, 1950.
+
+The election system of our country is structured according to the following rules mentioned in the XVth part of the Indian Constitution, from section 324 to 329:
+
+(i) According to Section 324 of the Indian Constitution, an independent election commission is formed to ensure free and fair elections in the country. Currently, the Election Commission consists of one Chief Election Commissioner and two Election Commissioners.
+
+(ii) Preparing the list of voters related to parliamentary elections, defining constituencies, etc., the Parliament can enact laws.
+
+(iii) Preparing the list of voters related to state legislative elections, defining constituencies, etc., the State Legislative Assembly can enact laws under the Constitution.
+
+2.  1.  1 Election Procedure
+
+The head of the government at the national level is the Prime Minister. He is elected through the members of the Lok Sabha (lower house) of the Indian Parliament. In democratic representative countries like ours, voting in elections is the best way to make our voice heard.
+
+In Tamil Nadu, according to the custom of the 'Kudavolai' system during the Chola period, village representatives were elected.
+
+January 25th is celebrated as National Voters' Day in India.
+
+1.  1.  2 NOTA (None Of The Above) Introduction
+
+In a democratic country, if the voters do not wish to elect any of the candidates contesting in the election, the voters can choose the option ‘None of the Above’ (NOTA) in the voting machine. Rule 49-O of the Election Conduct Rules, (1961) describes this procedure.
+
+Voter Verified Paper Audit Trail (VVPAT) Benefits
+
+(i) Voter casts their vote by pressing the button in front of the candidate’s name on the electronic voting machine. In 2014, the Election Commission introduced the opportunity for voters to know whether the vote cast was recorded correctly. It is briefly referred to as VVPAT (Voters Verifiable Paper Audit Trail) in English.
+
+In the 2014 general election, NOTA was introduced for the first time. India is the 14th country in the world to introduce NOTA.
+
+In the 2014 general election, NOTA was introduced for the first time. India is the 14th country in the world to introduce NOTA. In the voting machine for the Tamil Nadu constituency, NOTA has a symbol.
+
+2.  1.  3 Types of Elections in India
+
+Two types of elections are held in India. They are Direct Elections and Indirect Elections.
+
+Direct Election
+
+In a direct election, voters directly elect their representatives. People who have completed 18 years of age participate in the direct election method and register their votes. Here are some examples of the direct election method.
+
+(i) Electing Members of Parliament (MP) in Lok Sabha elections.
+
+(ii) Electing Members of the Legislative Assembly (MLA) in legislative assembly elections.
+
+(iii) Electing members and heads of local bodies like Village Panchayat, Town Panchayat, Municipality, and Corporation.
+
+Benefits
+
+(i) Since voters directly elect their representatives, the direct election method is considered to be a strong democracy.
+
+(ii) It creates awareness about government activities and teaches people to elect qualified representatives. Also, it encourages people to play an important role in politics.
+
+(iii) It motivates people to get involved in intense political activities.
+
+Disadvantages
+
+(i) The direct election method is very expensive.
+
+(ii) Illiterate voters are misled by false propaganda. Sometimes they are misled by caste, religion, and other divisions.
+
+(iii) Since conducting direct elections is a very big task, it is a big task for the Election Commission to ensure free and fair elections at every polling station.
+
+(iv) Sometimes some political party candidates influence voters to cast their votes through money, goods, or services, which is another challenge.
+
+(v) Sometimes during election campaigns, violence, riots, law and order problems occur, and people's daily life is affected.
+
+Indirect Election (Representative Election)
+
+The method by which representatives elected by the people vote and elect is an indirect election. This method is followed in the presidential election.
+
+Benefits
+
+(i) Indirect elections are less expensive to conduct.
+
+(ii) The indirect election method is suitable for big countries.
+
+Disadvantages
+
+(i) Since the number of voters is less, there is a high chance of corruption, bribery, and horse-trading.
+
+(ii) People do not directly participate in electing their representatives. Since representatives elected by the people participate in this method, the people’s representation is considered a less democratic method. Therefore, it may not reflect the true wishes of the people.
+
+2.  2 Political Parties
+
+Political parties play a key role in democratic government. These political parties act as a bridge between the people and the government.
+
+2.  2.  1 Meaning of Political Party
+
+A political party is an organization of people with a shared ideology and specific goals to contest in elections for dominance in the government. A political party has three components: the leader, the executive committee members, and the followers.
+
+How is the President of the Indian Republic elected?
+
+The President of India is elected by an electoral college consisting of the following members:
+
+1.  Elected members of both houses of Parliament.
+
+2.  Elected members of the Legislative Assemblies of all states and union territories in India.
+
+Note: Nominated members in both houses of parliament and the state legislative assemblies are not part of this group.
+
+3.  2.  2 Types of Party Systems
+
+Party systems in the world can be classified into three categories:
+
+(i) Single-Party System - Only one ruling party participates. Opposition parties are not allowed in this system. (e.g., China, Cuba, Former Soviet Union)
+
+(ii) Two-Party System - Only two major parties participate. (e.g., United States of America, England)
+
+(iii) Multi-Party System - More than two parties participate. (e.g., India, Sri Lanka, France, Italy)
+
+4.  2.  3.  Types of Political Parties
+
+Political parties in India are divided into two main categories based on the area where they get votes: 1) National Parties 2) State Parties.
+
+Political Parties
+
+National Parties State Parties
+
+Ruling Opposition Ruling Opposition
+
+Parties Parties Parties Parties
+
+National Parties
+
+A party that has the recognition of a state party in at least four states gets the status of a 'National Party'. All political parties must register with the Election Commission of India. Although the Election Commission of India treats all political parties equally, it provides some special concessions to national and state parties. These parties are assigned unique symbols. Only the authorized candidate of a party can use that party's symbol. The number of recognized national parties as of 2017 is seven.
+
+State Parties
+
+Apart from the seven national parties, the Election Commission has classified a large number of major parties in the country as state parties. These parties are generally referred to as "regional parties". The Election Commission of India recognizes a party as a state party based on the number of seats won in the Lok Sabha election or the state legislative election or the percentage of votes secured.
+
+Recognition of Parties
+
+A party registered with the Election Commission of India must fulfill any one of the following requirements to gain recognition as a national party:
+
+(i) In the Lok Sabha election or the state legislative election, it must have secured at least 6% of the total valid votes in at least four states.
+
+(ii) It must have won at least 2% of the seats in the Lok Sabha. Also, it must have been elected from at least three states.
+
+(iii) It must have recognition as a 'State Party' in at least four states.
+
+Functions of Political Parties
+
+*   Parties contest in elections. Candidates nominated by parties face tough competition in most democratic countries.
+
+*   Parties put forward their policies and programs in the constituencies to elect themselves.
+
+*   Political parties play a key role in enacting laws in the country. Systemic laws are debated and passed in the parliament and legislative assemblies.
+
+*   Political parties form and run governments.
+
+*   Parties that lose in the election serve as the opposition party. They criticize the government's shortcomings and wrong policies and put forward various opinions.
+
+*   Political parties shape public opinion. They also bring important events to the public's attention.
+
+*   The functions of political parties are a bridge between the government and the people.
+
+2.  2.  4 Role of the Opposition Parties in a Democracy
+
+In democracy, there can be a two-party system like in the United States of America or a multi-party system like in India and France. The party with the majority support of the people becomes the ruling party, and the party with the remaining support of the people becomes the opposition party. The leader of the opposition party plays an important role in all the democracies. He gets the status of a cabinet minister. He opposes the wrong policies of the ruling party that affect the public. As the head of the Public Accounts Committee, he examines the activities of the government departments and audits the public money spent for the welfare of the people. Similarly, he also plays an important role in electing the head and members of the Central Vigilance Commission. The opposition parties play a responsible role and reflect the people's fair demands and wishes in democracy.
+
+5.  3 Pressure Groups
+
+The term 'Pressure Groups' originated in the United States of America. A group that actively works to protect and promote general interests is called a pressure group. It is called so because it pressures the government to bring changes in government policies.
+
+Pressure groups are also called 'Interest Groups' or private interest groups. However, they are different from political parties. They do not contest in elections. They do not aim to capture political power.
+
+Examples of Pressure Groups
+
+1.  Federation of Indian Chambers of Commerce and Industry (FICCI)
+
+2.  All India Trade Union Congress (AITUC)
+
+3.  All India Kisan Sabha (AIKS)
+
+4.  Indian Medical Association (IMA)
+
+5.  All India Students Federation (AISF)
+
+6.  All India Sikh Students Federation
+
+7.  Young Bengal Association (YBA)
+
+8.  Tamil Sangam
+
+9.  Tamil Nadu Farmers Association
+
+10. Narmada Bachao Andolan
+
+11. 1 Pressure Groups in India
+
+Currently, there are a large number of pressure groups in India. However, they are not as developed as in countries like America or Western countries like England, France, and Germany.
+
+The function of the interest groups that work to protect specific interests by influencing government policies is called pressure groups. They do not align with any political party. But they are very powerful in influencing indirect decisions. Pressure groups perform various functions such as representation, political participation, education, policy formation, and policy implementation.
+
+Political Participation
+
+Pressure groups can be called another face of politics. Pressure groups expand their influence by gathering public support through political activities like petitions, campaigns, and demonstrations. Such activities attract a lot of young people.
+
+Education
+
+Many pressure groups conduct research, maintain websites, publish opinions on government policies, and engage in activities such as gathering opinions from high-level educators, scientists, and prominent celebrities, and gaining support from experts.
+
+Policy Formation
+
+Although pressure groups are not policy makers, they do not stop participating in policy-making processes. These pressure groups make a strong contribution by providing information to the government, providing advice, and constantly advising in the policy-making processes.
+
+6.  4 People's Group and Participation
+
+7.  4.  1 People's Group
+
+It is necessary to gather people to drive social activities towards improving people's lives as a whole. Sometimes it is necessary to immediately gather people for rescue, relief, and other emergency services when natural disasters like earthquakes, tsunamis, floods, and other natural disasters occur.
+
+8.  4.  2 Participation in Democracy
+
+A democratic system can function successfully only when people participate widely in parliamentary, legislative, and local elections. At the same time, democracy can succeed only when every citizen and small local group participates in specific programs like tax and revenue collection, environmental protection, cleanliness and hygiene, physical health, and providing alternatives to counterfeit drugs.
+
+Therefore, we must keep in mind that there is no government better than democratic government. To create a better society and country, we, the people of India, must unite with the central and state governments to eliminate the suffering of human life.
+
+Review
+
+*   The Prime Minister is elected by the members of the Lok Sabha.
+*   Elections are classified into two types: direct elections and indirect elections.
+*   Political parties consist of three components: a leader, executive committee members, and followers.
+*   Political parties in India are divided into two categories: 1. National parties 2. State parties
+*   The number of national parties recognized in 2017 is seven.
+*   The term "pressure group" originated in America.
+*   There are a large number of pressure groups in India.
+
+I. Choose the correct answer
+
+1.  India has adopted the election system of which of the following countries?
+
+a) United States of America b) England c) Canada d) Russia
+
+2.  The Election Commission of India is a
+
+a) Independent organization b) Legal organization c) Private organization d) Public institution
+
+3.  The constitutional section that governs the establishment of the Election Commission of India is
+
+a) Section 280 b) Section 315 c) Section 324 d) Section 325
+
+4.  Which part of the Indian Constitution speaks about the Election Commission?
+
+a) Part III b) Part XV c) Part XX d) Part XXII
+
+5.  Who recognizes/accredits the various political parties as national parties or state parties?
+
+a) President b) Election Commission c) Parliament d) President on the recommendation of the Election Commission
+
+6.  Assertion (A): The Indian Constitution directs the Election Commission to function independently.
+
+Reason (R): It ensures to conduct free and fair elections in the country.
+
+a) (A) and (R) are both true, and (R) explains (A).
+
+b) (A) and (R) are both true, but (R) does not explain (A).
+
+c) (A) is true and (R) is false.
+
+d) (A) is false and (R) is true.
+
+7.  NOTA (None Of The Above) was introduced in the year
+
+a) 2012 b) 2013 c) 2014 d) 2015
+
+8.  The country that coined the term pressure groups is
+
+a) United States of America b) England c) Former Soviet Union d) India
+
+9.  Assertion (A): There are a large number of pressure groups in India.
+
+Reason (R): Pressure groups are not developed in India as in America.
+
+a) (A) and (R) are both true, and (R) explains (A).
+
+b) (A) and (R) are both true, but (R) does not explain (A).
+
+c) (A) is true and (R) is false.
+
+d) (A) is false and (R) is true.
+
+II. Fill in the blanks
+
+1.  The Election Commission of India consists of ___________ members.
+
+2.  National Voters' Day is observed on ___________.
+
+3.  ___________ Party system is followed in India.
+
+4.  The number of national parties accredited in 2017 is ___________.
+
+5.  Narmada Bachao Andolan is a ___________.
+
+III. Match the following
+
+1.  National Party - Trade Unions
+2.  Single Party System - United States of America
+3.  Two Party System - China
+4.  Pressure Groups - Seven
+
+IV. Answer the following questions briefly
+
+1.  Describe the election system in India.
+
+2.  Explain what a political party is.
+
+3.  Differentiate between the two-party system and the multi-party system.
+
+4.  What is meant by pressure groups?
+
+V. Answer the following questions in detail
+
+1.  Discuss the advantages and disadvantages of direct elections.
+
+2.  What are the functions of political parties?
+
+3.  What are the functions of pressure groups in India?
+
+VI. Activities and Projects
+
+1.  Compare the policies, programs, and ideologies of national parties and state parties.
+
+VII. Thinking Questions
+
+1.  Elections are considered important in representative democracy. Why?
+
+2.  What are the underlying principles and importance of universal adult franchise?
+
+3.  Discuss the advantages and disadvantages of democracy.
+
+4.  Discuss the multi-party system.
+
+VIII. Life Skills
+
+1.  Conduct a mock election in your classroom.
+
+Web Resources
+
+eci.nic.in (The Election Commission of India)
+
+https://en.wikipedia.org/wiki/ List_of_political_parties_in_ India

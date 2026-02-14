@@ -1,0 +1,117 @@
+Speedy Justice in Consumer Courts: Structural Deficits and Reform Imperatives
+
+Introduction
+
+Recent reporting on increasing delays in consumer courts, despite statutory timelines under the Consumer Protection Act, 2019, highlights deep structural and capacity constraints, raising concerns about access to justice for ordinary consumers.
+
+Scale and Evidence of the Problem
+
+*   High and Growing Backlog of Cases: According to data presented by the Ministry of Consumer Affairs in Parliament, as of January 30, 2024, 5.43 lakh cases were pending before District, State, and National Consumer Commissions. In 2024, the commissions received 1.73 lakh new cases but disposed of only 1.58 lakh, resulting in a net increase of approximately 14,900 cases. This trend continued in 2025, with 78,031 new cases filed versus 65,537 disposals by July.
+
+*   Regular Violation of Statutory Timelines: Section 38(7) of the Consumer Protection Act, 2019, provides for disposal within 3 months (without inquiry) and 5 months (with inquiry). Parliamentary questions and Law Commission observations indicate that a substantial share of cases exceeds these limits, often stretching for several years.
+
+*   Human Cost of Delays: Empirical accounts from states show that elderly consumers, small entrepreneurs, and rural litigants repeatedly travel long distances to reach State and National Commissions, often without getting a hearing—gradually turning low-cost forums into tests of endurance.
+
+Structural and Administrative Reasons
+
+*   Severe Vacancies in Consumer Commissions: Official data as of August 19, 2025, shows 18 President posts and 62 Member posts vacant in State Commissions, and 218 President and 518 Member posts vacant at the District level. The Parliamentary Standing Committee on Consumer Affairs has repeatedly highlighted vacancies as a major cause of pending cases.
+
+*   Infrastructure and Capacity Deficiencies: CAG audits and departmental reviews have pointed to limited courtrooms, inadequate registry staff, and uneven implementation of digital case management systems across states, constraining daily hearings and effective scheduling.
+
+*   Procedural Delays Despite Legal Restraint: While the Act discourages adjournments, inadequate service of notice, delayed filing of affidavits, and repeated requests for additional evidence are routinely entertained. The Department of Consumer Affairs has acknowledged that procedural laxity accounts for a significant share of adjournments.
+
+*   Complexity of Modern Consumer Disputes: Insurance claims, medical negligence, financial services, and e-commerce disputes require technical expertise. Studies by consumer rights groups highlight that the absence of subject-matter experts forces commissions to seek expert reports, delaying adjudication.
+
+*   Appeal-Driven Backlog: The three-tier structure (District-State-National) easily allows cases to be taken upwards. NCDRC’s annual reports show that a large proportion of cases are appeals rather than original complaints, adding to the pendency burden at higher forums.
+
+Governance and Economic Implications
+
+*   Erosion of Consumer Confidence: OECD and World Bank consumer policy studies indicate that delayed redressal undermines market discipline and incentivizes unfair trade practices.
+
+*   Reduced Access to Justice: Delays disproportionately affect the elderly, informal workers, and small entrepreneurs, undermining substantive equality and the right to timely justice guaranteed by Article 21.
+
+*   Impact on Ease of Doing Business: Effective consumer dispute resolution is a key component of contract enforcement and market confidence. Protracted delays increase transaction costs and legal uncertainty.
+
+Existing Measures and Their Limitations
+
+*   E-Filing Portal and Virtual Hearings: While digital filing has improved access, government reviews cite limited impact due to uneven digital literacy, infrastructure gaps, and delays in hybrid hearings.
+
+*   Legal Provisions Without Enforcement: Statutory timelines and adjournment restrictions exist, but the lack of monitoring and accountability mechanisms undermines compliance.
+
+The Way Forward
+
+*   Timely Filling of Vacancies: Adopt a statutory appointment calendar with central monitoring, as recommended by Parliamentary Committees.
+
+*   Capacity and Infrastructure Expansion: Scale up the number of benches, registry staff, and full-fledged digital caseflow management systems, learning from the e-Courts Phase III experience.
+
+*   Specialization and Expert Panels: Create domain-specific benches or empanel certified experts to expedite technically complex disputes.
+
+*   Adjournment Accountability: Mandate written reasons for undue delays and impose cost penalties, strictly enforcing Section 38 of the Act.
+
+*   Rationalization of Appeals: Introduce leave-to-appeal or higher monetary thresholds to reduce frivolous upward movement of cases.
+
+*   Regional Benches of National Commission: Decentralize the National Consumer Disputes Redressal Commission to reduce litigant travel costs and pendency.
+
+Conclusion
+
+Despite a progressive legal framework, consumer courts are plagued by vacancies, infrastructural deficits, and procedural laxity. Data-driven reforms focused on capacity, accountability, and specialization are essential to restore the promise of speedy and affordable consumer justice.
+
+Source: The Hindu
+
+Why Private Investment Remains Subdued Despite Rapid GDP Growth
+
+Introduction
+
+Despite India registering GDP growth above 8%, private corporate investment has remained stagnant for over a decade. Recent analyses highlight that companies are deleveraging and holding financial assets rather than expanding production capacity.
+
+Current Status of Private Investment in India
+
+*   Persistent Stagnation in Private Capital Expenditure (Capex): According to JP Morgan estimates, private corporate investment has remained around 12% of GDP since 2011-12, showing little responsiveness even during high-growth phases.
+
+*   Declining Share in Total Investment: The private sector’s share in Gross Fixed Capital Formation (GFCF) declined to 34.4% in 2023-24, the lowest since 2011-12, even as overall GFCF reached 33.7% of GDP in 2024-25.
+
+*   Mixed Signals from Alternative Indicators: CareEdge Ratings reports that capex of nearly 2,000 listed non-financial firms rose 11% to ₹9.4 trillion in 2024-25. However, the Ministry of Statistics’ private capex survey indicates a 26% drop in investment intentions for 2025-26, suggesting weaker confidence going forward.
+
+*   Low Capacity Utilization: The Reserve Bank of India reports that manufacturing capacity utilization struggles to cross 75%, the level considered necessary for new investment. Since 2012-13, this threshold was surpassed in only 10 out of 53 quarters.
+
+Reasons for Subdued Private Investment
+
+*   Excess Capacity and Demand Uncertainty: With low utilization of existing units, firms see little rationale for expansion. Consumption growth remains uneven, while exports face global slowdowns and trade uncertainties.
+
+*   Financialization of Corporate Balance Sheets: A study by the National Institute of Public Finance and Policy shows that for BSE 500 companies, financial investments constituted nearly 25% of total assets by 2025, reflecting a preference for cash and financial assets over physical capital expenditure.
+
+*   Deleveraging and Risk Aversion: According to Bank of Baroda, the interest coverage ratio of over 3,000 non-financial firms rose from 2.6 in 2020-21 to 5.97 in the first half of 2025-26, signaling stronger balance sheets but also increased caution.
+
+*   Cost and Regulatory Hurdles: The Federation of Indian Chambers of Commerce & Industry cites high land prices, raw material costs, lengthy approvals, non-tariff barriers, and impediments to accessing advanced machinery as key deterrents.
+
+*   Policy and Global Uncertainty: Geopolitical tensions, supply-chain restructuring, and shifting trade policies add to uncertainty for long-term private investment.
+
+Government Measures to Attract Private Investment
+
+*   Corporate Tax Reforms: Reducing corporate tax to 22% (15% for new manufacturing units) to improve post-tax returns on investment.
+
+*   Increased Public Capital Expenditure: The central government’s capex has more than tripled since 2019, aiming to crowd in private investment through infrastructure development.
+
+*   Production Linked Incentive (PLI) Schemes: Covering 14 sectors, PLI aims to de-risk and improve economies of scale, particularly in electronics, pharmaceuticals, and renewable energy.
+
+*   Ease of Doing Business and Financial Reforms: GST implementation, the Insolvency and Bankruptcy Code (IBC), digital approvals, and bank recapitalization have improved credit flow.
+
+*   Trade and Manufacturing Support: Logistics reforms, industrial corridor development, and targeted trade agreements to support export-oriented private investment.
+
+The Way Forward
+
+*   Boost Demand and Capacity Utilization: Sustain consumption growth through employment generation, rural income support, and urban wage growth.
+
+*   Enhance Policy Certainty: Stable tax regime, predictable regulations, and speedy dispute resolution to reduce investor uncertainty.
+
+*   Factor Market Reforms: Easier land access, labor flexibility, and time-bound environmental clearances.
+
+*   Deepen Global Value Chain Integration: Trade facilitation and export competitiveness to create assured demand for private manufacturers.
+
+*   Risk Sharing and MSME Support: Expand credit guarantees, blended finance, and development finance institutions to mitigate risks for private investment.
+
+Conclusion
+
+India’s growth momentum cannot be sustained without a revival in private investment. Strong corporate balance sheets must translate into capacity expansion, driven by demand revival, policy certainty, and structural reforms.
+
+Source: Indian Express

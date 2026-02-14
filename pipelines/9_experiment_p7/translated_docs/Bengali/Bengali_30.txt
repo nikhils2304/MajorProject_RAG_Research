@@ -1,0 +1,481 @@
+Gravity and Gravitation
+
+Why does rain always fall from the sky towards the Earth? Why do fallen leaves from trees always fall to the ground? Why does the Earth revolve around the Sun? Why doesn't the moon fall onto the Earth like leaves from trees?
+
+These events are all part of the game of gravity, or gravitation. In sixth grade, you learned that when a ball is dropped from above, it falls downwards due to the Earth's gravitational pull.
+
+The Earth pulls all objects with gravitational force. That's why when you hold a book in your hand, you feel a downward pull. The more books you hold, the stronger this feeling becomes.
+
+Spring balances are made to measure the weight of an object.
+
+In the previous chapter, you saw how the Earth's gravitational pull is used to weigh objects.
+
+In sixth grade, you also learned that it's not just the Earth that attracts all objects close to it; any two particles in this universe attract each other with equal force along the line connecting them.
+
+This force is called gravitation. In reality, gravity is also a gravitational force. The gravitational force that acts between the Earth and any other object around it is called gravity.
+
+Scientist Isaac Newton expressed the value of this gravitational force with a mathematical relationship.
+
+That is, F = G*(m1*m2)/r^2
+
+Here, F = gravitational force, m1 and m2 = the masses of the two particles, r = the distance between the two particles along a straight line.
+
+G is called the "universal gravitational constant" because the value of G remains the same everywhere in this universe and doesn't depend on what medium is between the two particles.
+
+In the SI system, the unit of G is N*m^2/kg^2
+
+Through various experiments, the value of G has been calculated to be 6.67 x 10^-11 N*m^2/kg^2 in the SI system.
+
+In seventh grade, while studying geography, you learned that if an object is thrown upwards from the Earth's surface at a minimum speed of 11.2 km/s, it will escape the Earth's attraction.
+
+You may have heard that rockets can travel and escape the Earth's gravitational pull. Is that really the case? Let's try to understand what's actually happening.
+
+Ricky and Thidi 8
+
+Let's say two particles with masses m1 and m2 are at a distance r and they attract each other with a gravitational force F.
+
+(35 0.00102-
+2
+
+The masses of the particles m1 and m2 are not changing, and the value of the gravitational constant G is also constant. So, is there any change in G*m1*m2?
+
+In this situation, if the distance r between the two objects is gradually increased, how will the value of F change?
+
+The numerator G*m1*m2 is constant, if the denominator r increases, then G*m1*m2/r^2 will decrease. That means the mutual gravitational force F between the objects will decrease.
+
+If r continues to increase in this way, the value of F will continue to decrease.
+
+So, can you find a value of r for which F = 0?
+
+No matter how large the value of r is, you will get some value for F, which will never be zero. That is, the gravitational influence of any object extends to an infinite distance, although that influence becomes very weak. So, no matter how far you go from the Earth, the effect of Earth's gravity will still be there.
+
+In reality, it is seen that after a certain distance, the gravitational influence of an object becomes so weak that it is almost beyond perception. Therefore, the gravitational influence is considered almost non-existent after that distance.
+
+Newton's law of gravitation speaks of two point masses. But the Earth, the Sun, the Moon, etc., are they point masses? So, how will the law of gravitation be applied in these cases?
+
+No matter how large two objects are, if the distance between them is very large compared to their diameters, then those two objects can be considered as point masses.
+
+Also, the Earth, the Sun, the Moon, and other planets are all almost spherical. In the case of a spherical object, the gravitational force can be calculated by assuming that all the mass of that object is concentrated at its geometric center. Therefore, to determine the gravitational force of the Earth on any particle outside the Earth, the distance of that particle from the center of the Earth is taken as the value of r.
+
+Mathematical Problem 4: If the mass of one of two particles of equal mass is kept unchanged and the mass of the other is tripled, and the distance between them is increased to 5 times the original distance, how many times will the gravitational force acting between them be compared to the previous force?
+
+Let's assume that the mass of each of the particles was m unit and the distance between them was r unit.
+
+2
+
+F1 = G*(m*m)/r^2
+
+... the gravitational force acting between them, F1 = G*m^2/r^2
+
+G. (4031
+
+In the second case, the gravitational force acting between them, F2 = G*(m*3m)/(5r)^2 = 3/25 * (G*m^2/r^2) = 3/25 * F1
+
+Therefore, the gravitational force acting between the particles will be 3/25 times the previous force.
+
+You have learned that any two objects in this universe attract each other along a straight line. Then shouldn't every object on Earth collide with every other object? But that doesn't happen. So, does the law of gravitation not apply to objects on Earth? Let's calculate and see.
+
+BETA?
+
+Let's assume that m1 and m2 are two 1 kg particles on the Earth's surface, 1 meter apart. As a result, the amount of force with which they are attracting each other is assumed to be F Newtons.
+
+2017
+
+1, _ _ : 6.67 10%16. _ 6.67
+
+Here,
+
+1.00 18 78232375848574857656685578 400006.67
+
+That is, a gravitational force of 6.67 divided by ten thousand crore (10^10) Newtons will act between the two particles.
+
+Now let's see how much force the Earth is attracting a 1 kg point mass on the Earth's surface. Let's assume that the attractive force is F2 Newtons.
+
+Mass of the Earth = 5.96 x 10^24 kg
+
+Radius of the Earth = 6370 km = 6370 x 10^3 m = the distance between the particle on the Earth's surface and the center of the Earth.
+
+F2 = G*(Mass of the particle * Mass of the Earth) / (Distance of the particle from the center of the Earth)^2
+
+. 0101
+
+F2 = (6.67 x 10^-11 * 1 * 5.96 x 10^24) / (6370 x 10^3)^2
+
+F2 = 9.797 Newtons.
+
+9.797 Newtons of force is much, much greater than 0.0000000000667 Newtons.
+
+Therefore, you can surely understand that the force with which the Earth pulls the two 1 kg particles on the Earth's surface is so much greater than the mutual attraction force between those two objects that its effect is not felt in reality.
+
+Using Newton's law of gravitation, the formula for the gravitational force on a unit mass on the Earth's surface is F = G*(m*M)/R^2
+
+Where, M = Mass of the Earth, R = Radius of the Earth
+
+Let the gravitational pull of the Earth on a unit mass be denoted by 'g'.
+
+g = GM/R^2
+
+So, if the value of the gravitational force of the Earth on an object of mass m (i.e., the weight of the object) is denoted by W, then it can be written as
+
+W = mg
+
+Or, W = mg
+
+Science? & Science
+
+Drop a playing ball from above. The ball will fall downwards due to gravity.
+
+What was the velocity of the ball just before you released it? But was the velocity of the ball still zero in the next moment? Then the velocity of the ball increased with time. That is, an acceleration has been created in the ball. You must have understood which force is responsible for this acceleration.
+
+The acceleration created in a freely falling object due to the influence of gravitational force is called gravitational acceleration.
+
+According to Newton's laws of motion, Force = Mass * Acceleration (F = ma). So, what should be the acceleration due to the gravitational force on an object?
+
+F = ma, where F is the gravitational force on an object of mass m, whose value is
+
+Then, g = GM/R^2 * m, or, a = GM/R^2 = g
+
+Therefore, it is seen that 'a' is independent of the mass (m) of the object.
+
+Therefore, the value of gravitational acceleration will be the same for objects of any mass.
+
+Therefore, it is seen that the value of the gravitational force on a unit mass and the value of gravitational acceleration are equal.
+
+In the SI system, the average value of g is 9.8 m/s^2.
+
+In the above equation, since G and M are constants, the value of g must depend on R.
+
+Is the value of R equal everywhere on Earth?
+
+Then is the value of g equal everywhere on Earth? Is the weight of an object (W = mg) equal everywhere on Earth?
+
+It has been calculated that the average gravitational acceleration of the Moon is 1/6 times the average gravitational acceleration of the Earth.
+
+If you drop a small piece of paper and a piece of stone together from the same height, what do you see? Did the stone hit the ground before the paper because the stone is heavier?
+
+Galileo Galilei (1564-1642), an Italian scientist, later proved that if light or heavy objects are dropped together from the same height, they will touch the ground at the same time.
+
+It is said that Galileo dropped a solid iron sphere and a wooden sphere of the same volume together from the top of the famous Leaning Tower of Pisa in Italy. Everyone was surprised to see that the iron sphere, which was much heavier, and the light wooden sphere fell almost together and touched the ground almost simultaneously.
+
+BETA?
+
+Let's do an experiment.
+
+Take a one taka coin. Cut a piece of paper smaller than the coin. The size of the piece of paper should not be larger than the coin in any way.
+
+Now drop the coin and the piece of paper separately from the same height.
+
+What did you see?
+
+The coin fell first and the piece of paper fell later.
+
+Now place the piece of paper well on top of the coin and drop the coin along with the piece of paper from above as shown in the picture.
+
+What did you see now? The coin is much heavier than the piece of paper, so why did they touch the ground together?
+
+At first, when dropped separately, the coin was able to overcome the air resistance, but the piece of paper could not. When dropped together, since the coin and the piece of paper overcame the air resistance together, the coin and the paper fell together in this case.
+
+Now think and say, if there were no air resistance, if the coin and the paper were dropped separately, would they fall at the same time or would the coin fall first?
+
+Galileo gave three laws for an object falling freely from rest without any resistance. The essence of the laws is
+
+(i) All objects falling freely from the same height and from rest fall down at the same rate.
+
+(ii) The velocity of a falling object increases with increasing time.
+
+(iii) The distance traveled by a falling object increases with increasing time.
+
+Throw a piece of stone straight upwards while standing on the ground. Why does the speed of the stone decrease as it goes higher?
+
+Why does the direction of that speed reverse and the stone come back to your hand?
+
+You must have guessed that the Earth's gravitational pull is the reason for this.
+
+Due to the pull of gravity, acceleration occurs in the direction of gravity. As a result, the upward velocity decreases and at one point, it starts to increase in the direction of gravity. That's why the stone comes back.
+
+Now throw a piece of stone at an angle to the ground. Observe the trajectory of the stone.
+
+Why is this trajectory like this?
+
+In this case also, the pull of gravity is towards the ground. Observe the direction of the stone's velocity and the direction of acceleration in the picture.
+
+Ricky and Thidi 8
+
+Surely, you can understand that the pull of gravity is responsible for changing the direction of the velocity and turning back towards the ground. Due to the pull of gravity, the velocity of such moving objects changes and the object returns to the ground in a curved path as shown in the picture.
+
+If the stone was thrown even harder at an angle, you can understand what kind of path it would return to by looking at the picture below.
+
+Surely, you can understand that as you throw harder and harder, there will come a time when instead of returning to Earth, the stone will revolve around the Earth.
+
+Even during this revolution, the velocity of the stone is changing in the direction of gravity.
+
+But the path has become circular.
+
+Artificial satellites sent into space from Earth revolve around the Earth in this way as a result of being thrown in this manner.
+
+Static Electricity and the Concept of Charge
+
+There are so many mysteries of science hidden in the events that happen around us every day. These everyday events give birth to thousands of questions, and by seeking the answers to these questions, scientists discover the unknown rules of nature, and various formulas or principles of science are created. We will now try to find out which rules of science can be known from a few such common events that we see.
+
+A metal knife or blade does not attract a piece of thermocol in a normal state. But while cutting thermocol with that metal knife or blade, small pieces of thermocol get stuck to the knife or blade. It is not easy to remove them even with vigorous shaking.
+
+Although the event is temporary.
+
+After combing dry hair in winter, if the comb is brought very close to several pieces of paper immediately, the pieces of paper get stuck to the comb.
+
+Although after some time the comb returns to its previous state. But before combing the hair, the comb does not attract the pieces of paper at all.
+
+In winter, if an inflated balloon is rubbed well against the sweater you are wearing and released, it is seen that it sticks to the sweater and does not fall off. But if you just touch the balloon to the sweater without rubbing it, it does not stick to your sweater and falls off.
+
+68 HNI
+
+BETA?
+
+If you observe each of the above events carefully, you will see that the knife or blade,
+
+plastic comb, inflated balloon, each of these things has friction with something else. And after friction, each object has developed the ability to attract. But without friction, there is no creation of any attractive power between them.
+
+So, is there any relationship between friction and attraction power?
+
+When an object acquires the power to attract small objects due to friction with another object,
+
+that state is called the electrified state.
+
+Let's try to know more about this electric charge through some experiments.
+
+If two inflated balloons are held side by side, there is no attraction or repulsion between them (Picture: 3).
+
+Now take those two inflated balloons and rub them well with a woolen sweater (Picture: 4). Now hang the two balloons side by side with the help of thread (Picture: 5).
+
+The two balloons moved away from each other. That is, the two balloons
+
+Although the two balloons are rubbed with the same object (woolen sweater). Then surely the same state has been created in both balloons.
+
+have acquired the ability to attract. If such a change occurs in an object due to friction, it is said that an electric charge has been created in that object.
+
+This type of electricity created in an object due to friction is called frictional electricity or charge.
+
+Do the electric charges created in the balloons repel each other?
+
+Surely of the same kind. Then do two objects electrified with the same type of charge repel each other?
+
+Again, when a balloon and a woolen sweater are rubbed together, they attract each other.
+
+If the balloon and the sweater have produced electric charges of different nature?
+
+Then it can be said that _
+
+Are the electrified states of the sweater and the balloon different?
+
+(i) Electric charges of the same kind repel each other.
+
+(ii) Electric charges of different kinds attract each other.
+
+1 4
+(ग
+रः
+Picture 85
+
+Science? & Know
+
+Take six pieces of wide Sellotape of 10 cm size.
+
+Attach a small piece of paper to the adhesive side of each end
+
+so that if you hold the Sellotape at that end, the adhesive does not stick to your hand. That paper attached end should
+
+be the handle to hold the Sellotape. Now stick three Sellotapes on a table £) 1
+
+or mirror surface and write "B" on them. Stick the other three Sellotapes lengthwise on top of the three Sellotapes written as "B" in such a way that the lower tape is covered by the upper tape. Now write "T" on the three upper tapes.
+
+Now hold the two tapes written as "T" with their paper-attached ends in both hands and pull them up quickly. Then bring the adhesive opposite side of those two tapes hanging from your hands closer to each other. What did you see? The two pieces written as "T" moved away from each other, that is, they repelled each other.
+
+ए
+
+What did you see now? This time also the two pieces are repelling each other.
+
+Now lift the two pieces written as "B" in the same way and bring the two opposite sides of the adhesive closer.
+
+(ब
+
+Now, lift the remaining two Sellotapes together quickly and separate them from each other and bring their opposite sides of the adhesive close. What did you see? This time the two pieces attracted (ए
+
+ए
+
+The type of electric charge created in the two Sellotapes written as "" is of the same kind or of different kinds?
+
+The electric charge created in the two Sellotapes written as "" is of the same kind or of different kinds?
+
+Is the electric charge produced in the Sellotape written as "" and the electric charge produced in the Sellotape written as "" of the same kind or of different kinds?
+
+When two objects are rubbed against each other, is the electric charge created in the two objects of the same kind or of different kinds?
+
+are expressed by the algebraic signs ++, and "- " respectively.
+
+The initial indication about the nature of electricity was obtained from the experiments of the famous scientist Benjamin Franklin. Although he could not come to a correct conclusion on this matter. These two
+
+types of electric charges are named positive electricity and negative electricity.
+
+So, when an object is rubbed with another object,
+
+How?
+
+Whose charge will be named positive (+) and whose charge will be named negative (-), it will be decided by
+
+Observe the list on the next page. If any two objects in the list are rubbed against each other, the charge of the object whose name is above in the list will be called positive (+). And the charge of the object whose name is below in the list will be called negative (-).
+
+BETA?
+
+For example__ If glass is rubbed with silk, glass will be charged positively (+), and silk will be charged negatively (-), because glass is above silk in the list. 1) Wool or fur
+
+If a glass rod is rubbed with a woolen muffler, and an ebonite 2) Glass
+
+rod is rubbed with a silk handkerchief. Now bring the muffler and the 3) Paper
+
+ebonite rod closer. What will happen tell me attraction or repulsion? 4) Silk
+
+What would happen if the glass rod was brought close to the ebonite rod? 5) Wood
+
+What would happen if the muffler and the piece of silk were brought closer? 6) Human body
+
+You have seen what the nature of the charges of two objects should be for an attraction or repulsion force to act between them. But what is the way to know how strong that attraction or repulsion force will be between the charged objects? How is that attraction or repulsion force calculated?
+
+To calculate the electric force acting between two charged objects, the French scientist Charles Augustin de Coulomb discovered a formula.
+
+C
+
+The formula is written below __
+
+ए:482
+
+Here, q1 and q2 are the charges of the charged objects, r is the distance between the charged objects, and F is the magnitude of the electric force acting between the two objects (whether it is attraction or repulsion). The value of e depends on what material is in the area between the charged objects. For example, if there is air in the area between the charged objects, then the value of e will be 1.
+
+If the charged objects are kept in air or vacuum, it will happen, it will not happen if there is water.
+
+You
+
+know that a straight line can be drawn to measure the distance between two objects correctly only when the objects are two point-shaped. In this formula of Coulomb, the charged objects are considered as point-shaped objects.
+
+You
+
+know that a unit of measuring force is dyne. The amount of force that needs to be applied on an object of 1 gram mass to create an acceleration of 1 cm/second^2 in the object, that amount of force is called 1 dyne force. The unit of measuring distance is centimeter or
+
+We will now learn a way in this matter.
+
+You
+
+know. But how are electric charges q1 or q2 measured?
+
+If two point-shaped objects with the same amount of charge are kept at a distance of 1 cm from each other in vacuum, then a repulsion force will act between the objects. If the value of this repulsion force is 1 dyne, then it is said that the amount of charge of each of the objects is 1 esu (electromagnetic unit) or 1 statcoulomb. 1 esu or 1 statcoulomb is the unit of measuring charge. We know this way of measuring charge as 'Gauss's way'.
+
+BETA?
+
+In this way, the value of e for vacuum is taken as 1. Gauss is a scientist who has contributed a lot in the field of electricity.
+
+There is also another way to measure charge, which is called the SI way. In this way, the unit of measuring force is 1
+
+Newton, the unit of measuring distance is 1 meter, and the value of e for vacuum cannot be taken as 1.
+
+The value of e for vacuum needs to be taken as 9 x 10^9
+
+Newton x (meter)^2
+
+(Coulomb)^2
+
+Now observe the formula carefully.
+
+The numerator of the right side of the formula is q1.q2, and the denominator is 1e2. Let's assume that the objects are the same and kept in the same place. As a result, the value of q1q2e is not changing. Now if the distance between the objects decreases, that is, if the denominator e2 of the fraction becomes smaller, will the value of the quotient (F) increase or decrease?
+
+Again, if the value of q1q2 is kept the same and the value of e2 increases, what will be the change in the value of the quotient F in that case?
+
+So it was seen that in the same medium, if the distance between two point charges increases, the value of the attraction or repulsion force between the charges decreases. Again, if that distance decreases, the value of that force increases.
+
+Why does the creation of charge occur in an object due to friction? You have read in seventh grade that__
+
+(i) All substances are made of atoms.
+
+(ii) An atom is made of three types of particles __ electron, proton, and neutron. (The only exception is common hydrogen, whose atom does not have any neutrons)
+
+(iii) Electron is a negatively (-) charged particle, proton is a positively (+) charged particle, and neutron has no electric charge, that is, neutron is neutral.
+
+In an atom, the total amount of positive (+) charge of the protons is equal to the amount of total negative (-) charge of the electrons of that atom. As a result, the total charge of an atom is zero and the atom is neutral.
+
+Now think and tell, why are all the objects around us generally uncharged or neutral, since all substances are made of atoms, and the atoms are neutral?
+
+Now the question is, how do those neutral objects get electric charge after friction?
+
+In seventh grade, you have learned that in the center of the atom, protons and neutrons stay together. The cluster in the center is called the nucleus. It is very difficult to separate protons or neutrons from the nucleus.
+
+Electrons spin around that nucleus in different orbits. Like planets spinning around the sun. It is almost impossible to separate protons from an atom, but it is not difficult to remove an electron from its orbit. Removing electrons from an atom is not as easy as adding electrons to an atom. During chemical reactions, atoms give and take such electrons. A negatively charged atom or group of atoms is called an anion. A positively charged atom or group of atoms is called a cation.
+
+Now fill in the table below.
+
+Therefore, it can be said that
+
+If an atom accepts an electron, the atom becomes negatively charged.
+
+If an electron leaves an atom, the atom becomes positively charged.
+
+Now the question is, why does one become positively and the other negatively electrified when two objects made of different materials rub against each other?
+
+So, does the "electron addition and removal" thing happen here?
+
+Actually, when two objects made of different materials rub against each other, electrons come out of one object, as a result, the number of protons in that object becomes greater than the number of electrons. As a result, the object becomes positively charged.
+
+But where do those electrons go?
+
+Since the other object becomes negatively charged, surely those electrons join the atoms of the second object. Naturally, then the number of electrons in that substance increases more than the number of protons.
+
+So it was seen that one substance loses as many electrons as the other substance accepts exactly that many electrons, so equal amounts of electric charge of opposite nature are produced in those two objects at the same time.
+
+Now let's look at another event.
+
+After combing dry hair with a plastic comb in winter, it attracts neutral pieces of paper. What is the reason for this? Although the comb becomes electrified due to friction with the hair, the pieces of paper are not rubbed against anything.
+
+BETA?
+
+You know that opposite electric charges attract each other and similar electric charges repel each other.
+
+So, if an electrified object is brought close to a neutral object, does opposite charge create in the neutral object? Otherwise, how is attraction possible?
+
+Let's assume that a positively charged object is brought close to a neutral object. The reason for an object to be neutral is that there are equal amounts of positive and negative charges in that object.
+
+Now when a positively charged object is brought close to a neutral object, the negative charges inside the neutral object feel the attraction of the positive object and move towards the positive object. Because of the presence of the electrified object, one end of the neutral object
+
+becomes negatively charged and the other end behaves like a positively charged object.
+
+The electrified comb attracts the neutral piece of paper because the positive object
+
+attracts the negative end of the neutral object.
+
+This phenomenon is called electric induction.
+
+Due to the presence of an electrified object in this way, opposite electric charges gather at both ends of a neutral object.
+
+If the object creating the induction is removed, the temporarily induced object returns to its previous state.
+
+You saw that opposite electric charges attract each other and similar electric charges repel each other. This type of
+
+attraction or repulsion is called "force". The name of this force is electric force or static electric force.
+
+From Newton's formula, you have learned that due to the effect of force, velocity changes, as a result, acceleration is created. The velocity changes in the direction in which the force acts, that is, acceleration is in the direction of the force.
+
+A significant example of the motion caused by the effect of electric attraction force is the motion of electrons inside an atom. The nucleus at the center of the atom is positively charged, because
+
+there are no other charged particles there except protons. And the electron is a
+
+negatively charged particle. As a result, electric
+
+attraction force acts between the nucleus and the electron. As a result, the direction of velocity of the moving electron
+
+is constantly changing.
+
+And that bending happens towards the center. Because of this, the
+
+electron can spin around the nucleus.
+
+See in the picture, the arrow
+
+marks (v) indicating the velocity of the electron are bending towards the center of the circle. It is possible only because the electric attraction force is pulling along the diameter of the circle (F).
+
+The same kind of thing happens during the revolution of planets around the sun, but there is no electric attraction force there, instead there is gravitational force.

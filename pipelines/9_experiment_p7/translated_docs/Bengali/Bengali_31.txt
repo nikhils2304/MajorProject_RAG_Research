@@ -1,0 +1,553 @@
+In seventh grade, you learned that the heat required to raise the temperature of an object depends on the amount of temperature increase, the mass of the object, and the material the object is made of.
+
+The heat required to raise the temperature of an object depends on:
+7) The mass of the object
+
+We will now learn in more detail how the heat required to raise the temperature of an object depends on the factors mentioned above.
+
+?) You know that the amount of heat required to raise the temperature of a specific mass of water by 25°C is twice the amount of heat required to raise the temperature of the same mass of water by 50°C.
+
+Similarly, the amount of heat needed to raise the temperature of 1 cup of water by 10°C will be half the amount needed to raise it by 25°C. So, how many times more heat will it take to raise it by 35°C?
+
+1) You also know that it takes twice as much heat to raise the temperature of 2 cups of water by 1°C than it does for 1 cup of water. So how many times more heat will it take to raise the temperature of 3 cups of water?
+
+Now, suppose it takes 3 units of heat to raise the temperature of 1 gram of water by 5°C.
+Then it will take 20 units of heat to raise the temperature of 2 grams of water by 1°C.
+And it will take 2 * 2 = 4 units of heat to raise the temperature of 2 grams of water by 2°C.
+
+Can you guess why?
+
+Now, look at the following calculation.
+
+Amount of heat absorbed or released = 40
+Mass * Temperature increase or decrease = 2 * 20 = 40
+Similarly,
+
+It will take (5*6) = 30 units of heat to raise the temperature of 5 grams of water by 6°C.
+
+In that case,
+
+Amount of heat absorbed or released = 30
+Mass * Temperature increase or decrease = 5 * 6 = 30
+
+That is, it appears that for the same substance (water),
+
+Amount of heat absorbed or released / (Mass * Temperature increase or decrease) = constant
+
+This remains the same no matter how much the mass and temperature increase of the object change.
+Suppose, in the case of water, that value is 1, but if the substance is different, the value of "!" is also different.
+
+Now, if we want to find the value of "!", we need to know the value of "3". But we haven't defined a unit for measuring "3" or heat yet. So how will the value of "?" be determined?
+
+So let's define a unit for measuring "3" or heat.
+
+The amount of heat required to raise the temperature of 1 gram of pure water by 1°C is called one unit of heat. This unit of heat is named "calorie".
+
+Now let's see what value of "||" is obtained for water by defining the unit of heat in this way?
+
+___3___
+
+1
+
+According to the definition of 1 calorie, for water, 3 = 1 calorie when ] = 1 gram and £ = 1°C.
+
+Therefore 1 = 1 calorie / gram °C
+
+Can you guess why?
+
+Now let's do an experiment.
+
+[7 ]
+
+60 grams of water at 25°C
+
+Mass of the object = 120 grams
+Temperature =
+
+Let's take 60 grams of water at 25°C. An object with a mass of 120 grams at a temperature of 100°C is dropped into the water. Will there be any change in the temperature of the water and the object if left like this for a while?
+
+The temperature of both the water and the object will become equal after a while. Suppose this temperature is 50°C.
+
+Then the temperature of the water will increase by (50-25) = 25°C. That is, the water will absorb some heat. And the temperature of the object will decrease by (100-50) = 50°C. That is, the object will lose some heat.
+
+The amount of heat the object released is exactly the amount of heat the water absorbed.
+You know 3 = 1 * | * .
+The amount of heat absorbed by the water is,
+
+3 = 60 * 1 * (50-25) calories = 1500 calories
+
+(Here 0 = 60 grams, 1 = 1 calorie/gram °C and (50 -25 = 25°C)
+
+And the amount of heat released by the object is,
+
+3 = 120 * | * (100 - 50) calories = 6000 || calories
+
+€Here ] = 120 grams, £ = 100-50 = 50°C and || is unknown]
+
+Since the amount of heat released by the object and the amount of heat absorbed by the water are the same, we can write,
+
+6000.  1500
+So, | = 1500 = 0.25
+
+For this object, a value of 0.25 is obtained when 1 = 1 is assumed for water. If something other than 1 were assumed for water, the value of 1 for the object would be different. That is, the value of "1" is relative.
+
+Therefore, in the relation 3 = 1 * 1 * (1, "1" is called specific heat. ! is the change in temperature |
+
+Can you guess why?
+
+Specific heat is usually expressed by s. According to the discussion on the previous page, the value of 5 is different for different substances.
+
+The heat required to increase the temperature of a unit mass of any substance by 1 degree is called the specific heat of that substance.
+3 = 0 * 3 * (1-0) is the expression for measuring heat absorbed or released. Here, ( is written instead of "!", where "0" is the initial temperature and "1" is the final temperature. Applying this formula,
+
+Fill in the blank spaces below.
+
+Mass Substance (Specific heat of substance) Temperature increase or decrease Heat absorbed or released
+
+0.  * * (6-) 0 calories.
+
+3 = 0 * * (6-)
+
+Change of State and Concept of Latent Heat
+
+The transformation of a substance from one state to another as a result of the application or removal of heat is called a change of state.
+
+If a cup of water is heated for some time, its temperature increases. However, if ice at a temperature of 0°C is heated to melt, if its temperature is measured before the ice has completely melted, it is found that the temperature is still 0°C. Here, the ice absorbs heat and turns into water, but its temperature does not change. This phenomenon is called melting.
+
+In this way, most solids melt into liquids when heated. In that case too, the phenomenon occurs at some specific temperature. This temperature is different for different types of solids. This specific temperature is the melting point of those solids.
+
+Can you guess why?
+
+You have seen that melting wax
+
+decreases as the temperature increases. You also know that water in the refrigerator freezes to form ice. When a liquid solidifies, the liquid releases heat. The event in which a liquid releases heat and turns into a solid is called solidification. The temperature of the liquid does not change during this change of state.
+
+Freezing point.
+
+The adjacent table shows some substances
+
+When a liquid releases heat, it eventually solidifies. In that case too, the phenomenon occurs at some specific temperature. This temperature is different for different types of liquids.
+This specific temperature is the
+
+Melting point and freezing point of several substances are shown.
+Note that the melting points of the substances
+and freezing points are equal.
+
+Melting Point (°C) Freezing Point (°C)
+
+Copper 1063 1063
+Gold 1083 1083
+Glass, butter, fat, wax, pitch etc. (approx. 1200) (approx. 1200)
+
+Remember, glass, butter, fat, wax, pitch, etc. do not have any specific melting point or freezing point. The melting point and
+
+For these substances, the melting point and freezing point
+
+freezing point are not equal.
+
+Volume Change during Melting and Solidification
+
+When a solid turns into a liquid, will the volume of the substance increase or decrease?
+
+Generally, the density of a substance increases when it turns into a liquid.
+
+Let's do an experiment.
+
+In one of the two test tubes, take some wax and in the other, take a piece of ice. Heat the two test tubes to melt the wax.
+
+Small melting wax. Now put a piece of ice into the test tube containing the melted wax. What happened?
+Solid pieces of wax, like in image #1, will sink in liquid wax. Although the solid pieces of wax will melt very quickly in contact with hot liquid wax. But the piece of ice will float on the melting ice water, like in image #2.
+
+Can you guess why?
+
+The density of solid wax is greater than the density of liquid wax. But the density of solid ice is less than the density of water.
+
+When water turns into ice, does the volume increase or decrease?
+
+When liquid wax turns into solid wax, does the volume increase or decrease?
+
+Some liquids increase in volume when they turn into solids, meaning the density decreases. A few other substances like this are cast iron, brass, etc.
+
+If there is a metal statue cast in a mold at home, try to find out what metal the statue is made of. Why are the statues that are made by melting metal and casting it in a mold made using special metals?
+
+If two pieces of ice are held together for a while, they stick together. Many of us have had this experience. But why does this happen?
+
+The volume of water produced by melting ice is less than the volume of ice. Increasing the pressure helps melting. Therefore, increasing the pressure decreases the melting point of ice. So, when pressed, the melting point at the junction of the two pieces of ice decreases and the ice melts into water. When the pressure is removed, the melting point increases again and the melted part turns back into ice. As a result, the two pieces of ice stick together.
+
+During melting, the volume of substances like ice, cast iron, etc. decreases. For these substances, increasing the pressure decreases the melting point. That is, they melt at lower temperatures under higher pressure.
+
+Since the melting point changes with increasing or decreasing pressure, it is necessary to mention the pressure when determining the melting point of a substance. If the melting point of a substance is equal to a pressure of 76 cm of mercury,
+
+Can you guess why?
+
+it is the melting point of the substance at standard atmospheric pressure. This is called the normal melting point of the substance. The normal freezing point is also determined in this way.
+
+Increasing the pressure on ice by an amount equal to one atmospheric pressure decreases the melting point of ice by approximately 0.0007°C.
+
+During melting, the volume of substances like lead, aluminum, etc. increases. For them, increasing the pressure increases the melting point, meaning they melt at a higher temperature than before.
+Wax expands during melting. Increasing the pressure inhibits the melting process, so the melting point increases. Increasing the pressure by an amount equal to one atmospheric pressure increases the melting point of wax by approximately 0.04°C.
+
+The fuse wire used in electrical lines needs to have a very low melting point. If much more current than needed flows through the wire, it heats up and there is a chance of fire. Because the fuse wire has a low melting point, the wire melts at a low temperature and the current stops. This fuse wire is made by mixing lead and tin. The melting point of the alloy of lead and tin is lower than that of both lead and tin.
+
+Let's do an experiment.
+
+Place two ice cubes of the same shape and volume in two bowls. Sprinkle salt on one of the ice cubes. See if the two ice cubes melt into water at the same time? Think and say whether adding salt has increased or decreased the melting point of the ice?
+
+Freezing mixture: Mixing salt with ice reduces the temperature of the mixture. This low-temperature mixture is used for preserving fish, transporting medicine in a cold state from one place to another. Ice and salt are mixed in specific proportions.
+
+Now think and say, on what factors does the melting point of a substance depend?
+
+In seventh grade, we learned that when a substance is transformed from one state to another without changing the temperature, the substance takes or releases some amount of heat. That amount of heat for a unit mass of a substance is called the latent heat of change of state.
+
+The latent heat of fusion of ice is 80 calories/gram. This means that it takes 80 calories of heat to convert 1 gram of ice at 0°C to 1 gram of water at 0°C at standard atmospheric pressure.
+
+Why doesn't water turn into ice if a hole is made in a piece of ice and water is kept in it?
+
+You know, to convert 1 gram of water at 0°C to 1 gram of ice at 0°C, it is necessary to extract 80 calories of heat from the water.
+The object that can absorb heat from 0°C water is an object whose temperature is less than 0°C. The temperature of the water that was kept in the hole in the ice cube was initially equal to the room temperature, i.e., more than 0°C.
+
+Now who will take the heat? Water or ice? Some of the ice will melt by taking heat from the water.
+
+Can you guess why?
+
+0°C. Now, the temperature of both the water and the ice will be 0°C.
+
+Now can the ice absorb any more heat from the water? Since the water can release latent heat,
+
+0
+
+Therefore, it will not solidify.
+
+Evaporation
+
+If you wash your hands with water and hold your washed hands in the open air without wiping them, your hands will dry after a while. Where does the water on your hands go? If you take water in a container and put it on the stove to boil, all the water will eventually boil away and the container will be empty. Where does this water go?
+
+You know that the water turns into vapor and mixes with the air. For the same reason, wet clothes dry. If the floor is mopped with water, it also dries. The water in rivers, canals, and ponds dries up in summer.
+
+But we know that water needs to absorb heat to turn into vapor. For the liquid on our hands to turn into vapor, it has received the necessary heat from the surroundings or from within itself. If you pay attention, you will see that we have not applied heat separately from the outside for this process. That liquid is probably
+
+Evaporation
+
+The process of water turning into vapor is very slow.
+
+Not only water evaporates this way. Spirit or any such volatile liquid evaporates very quickly in this way. The gradual vaporization of a liquid from its surface at any temperature is called evaporation.
+
+€€
+
+Soak two pieces of cloth of the same size in water in the same way. Wring out both pieces in the same way.
+
+[2] Which piece of cloth dried first?
+
+Then it can be said that that water has turned into vapor from its surface.
+
+Now hang one piece of cloth to dry with a few wrinkles. Next to it, hang the other piece of cloth open to dry.
+
+Evaporates that quickly.
+
+In the rainy season, there is more water vapor in the air. But in winter, there is less water vapor in the air. Wet clothes dry quickly in winter because water evaporates quickly from the wet cloth.
+
+Also, the rate of evaporation depends on the pressure on the surface of the liquid, air circulation, etc.
+
+So now let's see what we have learned about evaporation -
+
+(1) If the surface area of ​​the liquid is larger, evaporation is faster.
+
+(2) Evaporation does not require any special temperature to be achieved. If the temperature of the liquid is high,
+
+Evaporation is faster.
+
+(3) Evaporation is faster if there is air circulation above the liquid.
+
+(4) The rate of evaporation depends on the nature of the liquid. For example, spirit
+
+Spirit evaporates very quickly.
+
+Can you guess why?
+
+What happens to sweat during that time?
+
+Sweat drying means the watery part of the sweat evaporating.
+
+What is needed for this change of state of that water?
+
+The heat that is needed for evaporation
+
+[R is needed, where will that water absorb it from?
+
+The latent heat required for evaporation of water
+
+A feeling of comfort occurs because when latent heat is absorbed from the body, it creates a feeling of coolness in the body. So
+
+Pouring spirit or ether on the hands feels very cold.
+
+You have seen many dogs panting with their tongues out in summer. The wetness on the tongue
+
+Think and say,
+
+Boiling
+
+[From where is the latent heat collected? One way to keep a dog's body cool
+
+Why does the thermometer reading decrease if a wet cloth is wrapped around the bulb of the thermometer?
+
+Place a pot of water on a burning stove, and the water starts to boil and evaporates very quickly.
+
+Is the process.
+
+When water boils vigorously, there is a constant upheaval in the entire body of water, but when examined with a thermometer, the temperature of the water does not change at that time.
+
+The process of rapid evaporation from all parts of a liquid at a certain temperature
+
+This process is called boiling.
+
+The specific temperature at which a pure liquid starts to boil and that temperature remains constant as long as boiling continues, is called the boiling point of that liquid.
+Some factors that affect the boiling point of a liquid:
+
+(1) Nature of the liquid. The boiling point of different liquids is different.
+
+(2) Presence of dissolved substances in the liquid. If in a liquid
+
+If any substance is dissolved, the boiling point of the liquid usually
+
+Increases. For example, pure water boils at a temperature of 100°C.
+But if salt is added to the water, the boiling point of that solution is
+
+(3) Pressure on the liquid surface. During boiling, the liquid is
+
+Converts to steam. The volume increases when the liquid converts to steam.
+
+Now think, will increasing the pressure hinder the boiling process or will it help the boiling process?
+
+Can you guess why?
+
+Since increasing the pressure hinders the boiling process, the boiling point increases. Therefore, when determining the boiling point of a substance, it is determined at a certain pressure. For example, the boiling point of water at standard atmospheric pressure is 100°C.
+
+Why does food cook faster when cooking with the lid pressed down on the pot?
+Will the lid of the pot allow the water vapor produced inside to escape?
+
+As more steam accumulates in the pot, the pressure of the water vapor increases. This will increase the boiling point of the water, and the water will boil at a higher temperature than the temperature at which it would boil in the open air. As a result, the food will cook faster. In a pressure cooker, water is boiled at a temperature higher than 100°C, according to this principle. As a result, the food cooks faster.
+
+Will reducing the pressure on the liquid increase or decrease the boiling point of the liquid?
+
+During boiling, will reducing the pressure hinder or facilitate the change of state of the liquid?
+Reducing the pressure on the liquid facilitates the transformation of the liquid into vapor, which reduces the boiling point of the liquid.
+
+Get an injection syringe from the drugstore.
+Now remove the needle. If you
+immerse the mouth of the injection syringe
+in water and pull the piston on the other side
+towards you, water will enter the syringe
+through the piston. Then if you push that piston back in the opposite direction, the water will come out again. Now when
+your mother heats water to make tea, take some water from there with the injection syringe before the water starts boiling.
+Now close the mouth of the syringe with your finger as shown in the picture
+and pull the piston of the injection syringe backwards
+and see if the water starts boiling?
+Now the temperature of the water inside the syringe is less than 100°C. Even then, why did the water start boiling?
+When you hold the syringe's pointed mouth shut with your finger and pull the piston, the vapor inside the syringe expands. Its volume increases, which reduces the pressure. A beautiful example of the boiling point decreasing due to low pressure
+is the water in the syringe starting to boil.
+The heat required to vaporize the unit mass of a liquid at a constant temperature at the boiling point, is
+called the latent heat of boiling of that liquid.
+The latent heat of steam of 537 calories/gram means that at standard atmospheric pressure, it takes 537 calories of heat to convert one gram of water at a temperature of 100°C into one gram of steam at the same temperature.
+
+Can you guess why?
+
+Condensation
+If you put ice inside a glass, water droplets form outside the glass. This is the reverse process of evaporation. The event of vapor turning into liquid is called condensation.
+Clouds, dew, and fog are formed because of the condensation of water vapor in the atmosphere.
+Clouds: Water evaporates from ponds, rivers, lakes, seas, wet soil, and living bodies. This:
+Water vapor-filled air is lighter than cool and less water vapor-filled air.
+That's why warm and moist air rises. As the height increases, the pressure decreases, so the particles of that air increase the distance between themselves and the air cools.
+Then the water vapor present in the air condenses around dust particles and other particles floating in the air and floats in the air as water droplets. This is what we call clouds.
+
+Air saturated with water vapor: Take some water in a tea cup and add a little salt. Stir with a spoon. After a while, you will see that the solid grains of salt are no longer visible. That is, the salt has dissolved in the water. If you continue to dissolve salt in this way, there will surely come a time when the amount of salt that can be dissolved in that amount of water will be dissolved. That solution is then called a saturated solution of salt. If you add more salt, it will settle at the bottom of the solution. But if you add some water to that solution again, that salt will dissolve back into the solution. Or if you increase the temperature of the solution, that salt will also dissolve in the solution. Now suppose you are given a saturated salt solution at a temperature of 50°C. If you gradually decrease the temperature of that solution, what will happen? Surely some salt will settle.
+
+Similarly, if a specific amount of air at a specific temperature is filled with the most amount of water vapor that it can hold, then that air is said to be saturated with water vapor.
+
+Fog: Fog is seen in the morning in winter. As the day progresses, the air in a large area nearby gradually cools and becomes saturated with water vapor. That water vapor condenses and accumulates as water droplets on dust particles floating in the air and floats. This is called fog.
+
+So why does the fog disappear as the day progresses? Why does smog form in big cities or industrial areas?
+
+Can you guess why?
+
+Dew: Many of you have seen dew accumulate on leaves or blades of grass when you wake up in the morning in winter. Dew does not fall in the evening, but during the late night or early morning.
+During the day, objects near the earth's surface get heated by the sun's heat. As a result, the air layer adjacent to those objects also gets heated. After sunset,
+the earth's surface starts to cool by releasing heat. Then the air layer adjacent to the earth's surface also slowly cools. As the temperature decreases, the air adjacent to the earth's surface becomes saturated with water vapor. What will happen if the temperature decreases further? Just as salt settled from the water, water vapor will separate from the air as water droplets and form dew. It takes quite some time for this suitable condition to form for dew to fall. That is why dew does not fall in the evening, but dew falls late at night.
+
+A wooden scale is immersed in boiling water. After a while, the side of the
+wooden scale that is out of the water.
+
+Even though one end of the scale has a higher temperature and the other end has a lower temperature, very little heat has flowed from the hotter end to the less hot end. As a result, the other end of the wooden scale can be held. But much more heat has flowed from the hotter end to the less hot end of the steel spoon. As a result, the less hot end has also gradually become very hot and cannot be held. Heat is possible from one end of the same object to the other end due to heat flow.
+
+Therefore, it is seen that heat cannot flow easily through wood, but heat flows easily through steel.
+
+This method of heat flowing through a solid substance is called conduction. In this method, the substance itself does not undergo any displacement, or the particles of the substance do not undergo any displacement, only heat flows from one end to the other. The substances through which heat can flow easily are good conductors of heat. The substances through which heat cannot flow easily are poor conductors of heat.
+
+Copper, aluminum, and steel are good conductors of heat. That's why cooking utensils are made of these metals.
+
+Write in the table below.
+
+Name of the utensil What or what metals are made of What are the poor conductors of heat?
+
+Some experiments with good and poor conductors of heat.
+
+Take a wooden pencil. Wrap a thin piece of paper around one end. Hold the paper wrapped around the pencil in the flame of fire. You will see that the piece of paper burns very quickly.
+
+Can you guess why?
+
+Now take a metal rod, such as the handle of a pair of tongs, the handle of a trowel, etc. Wrap the same type of thin paper around it as before. Hold the paper wrapped around the metal in the flame of fire as before. You will see that the paper wrapped on top does not burn as quickly.
+
+This happens because metal is a good conductor of heat. Metal takes heat from the burning flame and quickly sends it away. So, the paper wrapped on metal is slow to get hot. Therefore, the paper does not catch fire quickly.
+
+So try to understand why the paper on wood burned quickly.
+
+A thin piece of paper the size of a page of a notebook is folded into four. Three folds are kept on one side and a little water is kept in the middle. If the thin side of the paper with water is held in the flame of fire, the water starts boiling in a while, but the paper does not catch fire. The temperature required for paper to burn is much higher than the boiling point of water. The piece of paper used is very thin, so heat flows very quickly through it into the water. As a result, the water keeps boiling, but the paper does not burn at that temperature.
+
+But if the piece of paper is
+
+If you make a bag of thick paper like this and keep water in it and do the previous experiment, the paper will burn. The heat will not be able to go quickly into the water through the thick paper. As a result, the temperature of the part of the paper that is in contact with the flame of fire will increase very quickly, and the paper will burn.
+
+A test tube is filled with three-quarters of water.
+A piece of ice is wrapped with iron wire and dropped into the water in the test tube. The weight of the iron wire should be such that the piece of ice sinks in the water. The surface of the water in the test tube is heated with an intense flame as shown in the picture until it boils. What can be observed? Is the ice at the bottom of the test tube melting quickly when the surface of the water in the test tube is boiling and turning into steam? It is seen that when the water on top of the test tube is boiling, the ice at the bottom of the test tube is hardly melting. So is water a good conductor of heat?
+
+Many of you have had the experience that if you wear a thick sweater made of yarn in winter, you feel warm. But instead, if you wear two thin sweaters made of the same type of yarn, you feel even warmer. Now let's try to find out why you feel warmer.
+
+When ice is transported from one place to another, sawdust is applied on the ice. Sometimes, jute is wrapped around it. There is space in the middle of the sawdust where air enters. Air is a poor conductor of heat. Sawdust or jute is also a poor conductor of heat. Heat from the outside cannot go through the sawdust into the ice, so the ice cannot melt.
+
+Elephants apply dust on their bodies. One reason is that when dust is applied, air gets trapped in the gaps between the dust particles. Air is a poor conductor of heat. Therefore, the heat coming out of the body cannot be transported well by air. So elephants feel comfortable in winter.
+
+Why do we wear woolen clothes in winter?
+Why do we feel comfortable when we cover ourselves with a blanket in winter?
+Why do birds sometimes sit with their feathers puffed up in winter?
+
+If you pay attention, it is clear that in all the above cases, heat is not conducted because air is a poor conductor of heat.
+The materials used to build houses need to be poor conductors of heat.
+
+Can you guess why?
+
+Straw and soil are poor conductors of heat. That's why straw-roofed mud houses, igloos: Thule in Greenland
+are cool in summer and warm in winter. Homes of Eskimos in the region
+
+Ice is a poor conductor of heat. That's why igloos are made of ice.
+They know that in summer the top of the pond water is as warm as the lower part of the pond water is not as warm.
+And the opposite is true in winter. This happens because water is a poor conductor of heat.
+
+So which layer of water do the animals that live in water feel comfortable in during summer and winter? In the upper layer of water or in the lower layer?
+
+Heat Convection
+_-_--------- /7 -/ 2___ Shows convection flow.
+The density of air decreases.
+The stove is not burning. So the
+The density of air in all parts is the same. --7----
+
+You must have noticed that if you put your hand next to a burning stove, it feels as hot as if you put your hand above the stove. Why is that?
+The air very close to the stove heats up by taking heat from the stove and expands in volume. As a result, the density of that air decreases and the air becomes lighter. But the density of the air higher up remains the same. That is, the air will keep getting heavier as you go upwards from the fire. Heavy air comes down due to the pull of the earth. Relatively hot and light air goes up and takes that place. That is, higher temperature air itself carries heat here.
+So it is seen that during heat transfer in the convection process, the particles of the heated part of the substance themselves carry heat from the lower temperature part to the upper cooler part. That is
+In this process, heat transfer is not possible without a medium. Again, it is not possible in a gravity-free
+place. In this method, heat is never transferred from top to bottom or sideways.
+Take some water in a beaker and put a few pieces of potassium permanganate into it. Now slowly heat the place in the beaker where the pieces of potassium permanganate are, and notice which way the purple water (potassium permanganate solution) is rising. Then is that purple water coming down again?
+
+The purple water flow in the water is helping to understand the convection process of heat spreading.
+
+Can you guess why?
+
+Convection Current:
+
+When the hot part of a liquid or gas is relatively light, it rises up
+and the cold part is heavy, it goes down. This results in a circular flow of liquid or gas, which
+is called a convection current.
+
+In a pot, a
+Metal
+
+Wax candle
+
+Melted
+Take some water
+and put the wax candle in the middle, then if you put a chimney over it, you will see
+that the wax candle is extinguished. If air enters
+, air also enters through the chimney
+, the wax candle will go out. If
+There is not enough oxygen.
+The bottom of the chimney has water in it, so there is no
+
+Wax candle and chimney
+The wax candle will not extinguish if is
+Is given, because the light is
+Can be
+
+The air that we exhale is warmer and
+Because lighter air is waiting and it is
+And the outside air through the doors or windows
+For that the light has to burn
+
+Air Circulation (407010801077):
+More and less warm compared to the air in the house. Because of the door above the wall in the room
+
+With the air is a little healthier
+Because air pressure
+
+Is more. Therefore, this light air to
+Be done and for that there is a window or
+Air through and to
+
+The amount of oxygen in the room
+
+If there is no proper arrangement for the air to flow in the room, the amount of oxygen inside the room decreases compared to the need. Then kerosene or coal
+In the combustion process, poisonous carbon monoxide gas can be produced in addition to carbon dioxide. As a result, the residents of the house may die in their sleep. Again, airflow occurs because there is a convection flow. Sea breeze, land breeze,
+Trade winds are created because of convection flows.
+Radiation
+A burning candle is standing. A thermometer is held under the flame of the candle as shown in the picture.
+Will the thermometer reading show a change in temperature?
+Is air a good conductor of heat?
+Then can heat reach the bulb of that thermometer through the conduction process through the air medium?
+Again, in which direction does heat go in the convection process?
+From top to bottom or from bottom to top? Then will heat be able to reach the bulb of the thermometer in this experiment through the convection process?
+According to the above discussion, there was a change in the temperature of the bulb of the thermometer. But heat did not go to the bulb of the thermometer through conduction or convection methods.
+Then in which process did heat flow?
+This method of heat flow is called radiation. Conduction or convection processes require a medium for heat flow. But there is no medium for heat in most of the part between the sun and the earth. Then in which method does heat come to the earth from the sun? That method is called radiation.
+We feel warm when we sit next to a fire in winter. Does the heat spread in all directions when you turn on a bulb?
+Which process is used for heat transfer here?
+This heat transfer process cannot be called conduction because air is a poor conductor of heat.
+Since heat is flowing sideways as well as in all directions at the same time, this type of heat transfer is also not convection. Then
+This heat flow has happened through the radiation process.
+Radiation: The process by which heat spreads from a hot object to a relatively less hot environment
+and does not require a medium for spreading is called radiation.
+
+Can you guess why?
+
+Thermos flask
+
+If we want to keep an object at the same temperature for a long time, we
+keep that object in a thermos flask. English scientist Sir James Dewar
+
+Invented this flask. So another name for this flask is
+
+Dewar
+
+Structure: This is a two-walled
+
+bottle
+
+flask. Dewar flask keeps cold drinks cold for a long time, as well as hot water keeps hot for a long time.
+
+Outside surface and
+Inner surface of the outer wall has a coating of copper.
+The space between the two walls is made as vacuum as possible. The bottle
+
+In the middle of the
+Container, there are packing of
+
+The mouth of the flask is
+Closed with a lid made
+
+Of cork etc., which are poor conductors of heat.
+By the flask’s lid.
+
+The principle behind it: The glass in the
+Flask is a poor conductor of heat.
+
+As far as possible, the space between the walls is
+Vacuum. So, due to lack of conduction, the transfer of heat is disrupted.
+The two shiny surfaces which are present in the surface
+The heat comes back after reflection. So, conduction and
+Convection of heat cannot occur through radiation in

@@ -1,0 +1,221 @@
+Language is the vehicle of thought. That is, language was invented for the purpose of expressing and exchanging different emotions of our minds. In the sixth grade, you learned how sentences can be classified into three categories according to their structure: simple, compound, and complex. This division is entirely structure-dependent and relies on the agreement of different terms in a sentence and the presence or absence of multiple clauses/dependent clauses. In the discussion of sentences, another aspect is just as essential as its structure. That is its meaning or subject matter. Here, we must understand the attitude of the speaker towards the subject or event of the sentence. And this emotion, which is called mood in English, is discussed with great importance in grammar. Because in real-life situations, the sentences we use in the process of exchanging emotions are inevitably linked to the movement and different gestures of body parts like eyes, face, head, hands, shoulders, and various types of vocal projection.
+
+Gestures like nodding to indicate "yes" or "no," or waving a hand to beckon someone closer are called paralanguage or quasi-language. Their use is more common in real life. It is possible to evoke different and diverse emotions by saying the same sentence in different intonations, quickly or slowly, whispering or roaring. From this manner of speaking, it is possible to get a clue about the speaker's attitude towards the subject or event described in the sentence. You may recall the story "Patol Babu, Film Star" that you read in seventh grade; how Patol Babu, initially disappointed to have the opportunity to say only one word of dialogue, discovered the infinite possibilities of that one word:
+
+"Ah, ah, ah, ah, ah—" Patol Babu repeatedly rehearsed in various tones, gradually discovering a wonderful thing. He began to utter that "Ah" in various tones in a strangely nasal voice. He discovered a wonderful thing. Uttering that "Ah" in different tones and in different ways expresses different states of mind. The way a person says "Ah" when pinched is not at all the same way they say "Ah" after drinking a cold sherbet in the heat. These two "Ah" sounds are completely different; again, a different kind of "Ah" comes out when suddenly tickled in the ear. Besides, there are many other kinds of "Ah" sounds—a long "Ah," a disdainful "Ah," an affectionate "Ah," a short "Ah," a long "Ah," a shouted "Ah," a soft "Ah," a loud "Ah," a deep "Ah," and again, "Ah" starting deep and raising the tone to a high pitch—Ah—amazing! Patol Babu felt as if he could write an entire dictionary with that one word."
+
+This is true for any spoken sentence. It is quite difficult to express this emotional aspect of a sentence in written or printed form. Except for the effective use of quotation marks and the analysis of the speaker's attitude, the writer is essentially helpless in this regard. As a result, in most cases, the reader has no other option but to rely on inference in the context of the conversation. In the sixth grade, in the context of the structural discussion of sentences, you learned about affirmative (asti + arthak) or yes-sentences and negative (na + arthak) or no-sentences. In the discussion of the types of sentences based on emotion or meaning, it is essential to talk about these two types of sentences.
+
+Classification of sentences based on meaning:
+
+Affirmative and Negative Sentences: In an affirmative or yes-sentence, the structure is affirmative or positive, and in terms of meaning, there is an expression of acceptance.
+
+On the other hand, in a negative sentence, along with the negative structure, there is a sense of denial in meaning. In the Bengali language, two words play a major role in making a sentence negative: "na" (না) and "noy" (নয়).
+
+The use of the word "na" is much like an adverb. In examples like "yabo na" (যাব না - will not go) and "khabo na" (খাব না - will not eat), it can be seen that "na" seems to be analyzing the defect or quality of the verb it is attached to.
+
+The word "na" usually sits before the non-finite verb and after the finite verb. For example, "na niye jeo na" (না নিয়ে যেও না - do not take away). However, it should be remembered that in ancient Bengali, this "na" used to sit before the finite verb. In an early-medieval Bengali book called 'Shri Krishna Kirtan,' we will see such a sentence: "So hi pathe mahadani na boloyo." The placement of "na" after the finite verb in negative sentences is the result of a specific evolution of the Bengali language.
+
+The past tense form of the word "na" is "ni"; for example, "jai » ni" (যাই » নি - went » not).
+
+In cases where the answers to questions are only yes/no, even in the past tense, the word "na" is used in the negative question, not "ni." For example, "Vidyasagar-o ki chhotobelay dushtu chilen na?" (বিদ্যাসাগরও কি ছোটোবেলায় দুষ্টু ছিলেন না? - Was Vidyasagar also naughty as a child?)
+
+The use of the word "noy" is a bit different. "Noy" mainly sits after nouns; for example, "e tomar kaj noy" (এ তোমার কাজ নয় - this is not your work). Sometimes, complex structures are created by forming "emon noy" (এমন নয় - it is not like that), "ta noy" (তা নয় - that is not so), etc. For example,
+
+"Emon noy je ami porte khub bhalobashi." (এমন নয় যে আমি পড়তে খুব ভালোবাসি - It is not like I love to read very much.)
+
+Or
+
+"Mone bhabna chhilo na ta noy." (মনে ভাবনা ছিল না তা নয় - It's not that there were no thoughts in my mind.)
+
+In the second example, we will see that the use of two types of negative words has made the entire sentence affirmative, that is, a yes-sentence.
+
+Indicative or Declarative Sentences: These types of sentences contain a statement of an event or feeling. Although no specific attitude is expressed beyond the description of a feeling or event, the speaker's sense of certainty is particularly noticeable in these types of sentences. For example,
+
+"Bhinno bhinno somoye bhinno bhinno beej pakiya thake" (ভিন্ন ভিন্ন সময়ে ভিন্ন ভিন্ন বীজ পাকিয়া থাকে - Different seeds ripen at different times.)
+
+"Tar eklar amote kichu ashe jay na." (তাঁর একলার অমতে কিছু আসে যায় না - His disapproval alone doesn't matter.)
+
+It is clear from the above examples that declarative sentences can be both affirmative and negative. A sentence in which an event or feeling is established through a statement is called an affirmative or positive indicative sentence. For example,
+
+And a sentence in which the existence of an event or feeling is acknowledged through a statement is called a negative declarative sentence. For example,
+
+"Ami ekhane salrajyo sthapon korite ashi nai." (আমি এখানে সাল্রাজ্য স্থাপন করিতে আসি নাই - I have not come here to establish a kingdom.)
+
+Interrogative Sentences: These sentences are indicative of the speaker's questioning expression. In these types of sentences, a sense of inquiry about a feeling, subject, or event becomes prominent. For example,
+
+"Tomra keu Khush-hal Khan Khattaker gajal jano?" (তোমরা কেউ খুশ-হাল খাঁ খ্টকের গজল জানো? - Do any of you know Khush-hal Khan Khattak's ghazal?)
+
+"Dorja khulchhilo na keno?" (দরজা খুলছিল না কেন? - Why wasn't the door opening?)
+
+That is, interrogative sentences can also be both affirmative and negative. However, there is room for more detailed discussion on this.
+
+There are two distinct types of questioning expressions: 1. Wh-questions or Q-questions and 2. Yes/No - questions
+
+Wh-questions or Q-questions include the technique of creating questions using adverbs, adverbs, pronouns, or adjectives with words like "ki" (কী - what), "keno" (কেন - why), "kivabe" (কীভাবে - how), "kara" (কারা - who), "kothay" (কোথায় - where), "kokhon" (কখন - when), "kobe" (কবে - when), "kemon kore" (কেমন করে - how), etc. Just as these question elements in Bengali start with "k," the question elements in English like Who, What, Where, When, Why, etc., start with "W." For this reason, the questions created through them are called Wh-questions or Q-questions.
+
+"Begun chhara ar ki khao na?" (বেগুন ছাড়া আর কী খাও না? - What else do you not eat besides eggplant?)
+
+"Ko-khana boi re?" (ক-খানা বই রে? - How many books!)
+
+In these cases, if the structure of the question sentence is affirmative, its meaning is also affirmative. And if the structure is negative, the meaning also becomes negative. In the examples above, the first and third question sentences are affirmative, while the second sentence is negative.
+
+Yes/No-Questions: The characteristic of this type of question is that its answer is always yes or no. When asked, "Ki khabe?" (কী খাবে? - What will you eat?), the answer to this question can be countless, numerous.
+
+But if I ask, "Khabe ki?" (খাবে কি? - Will you eat?),
+
+Then the answer can only be yes or no.
+
+Note that the first example is an example of a Q-question. In this case, the interrogative pronoun "ki" always sits before the verb.
+
+On the other hand, in the second example, the conjunction "ki" sits at the end of the sentence and creates a verb-related question.
+
+It cannot be said that in this type of question, if the structure is affirmative, the meaning will also be positive. The opposite is also true, that is, a question with a negative structure can be affirmative in meaning. For example, "Desher ei durdine tumi ki tup kore bose thakbe?" (দেশের এই দুর্দিনে তুমি কি টুপ করে বসে থাকবে? - Will you sit idly by in this time of crisis for the country?)
+
+Although the structure of the above question is affirmative, the expectation of a negative answer is hidden within the question itself.
+
+Again, if I say, "Ei bipode tumi ki nijeke jonoshebaye niyojito korbe na?" (এই বিপদে তুমি কি নিজেকে জনসেবায় নিয়োজিত করবে না? - In this danger, will you not dedicate yourself to public service?), then we will see that no matter how negative the structure of the question is, there is a strong positivity within it.
+
+Other types of questioning expressions include, respectively:
+
+Tag Questions: A tag question is used to seek support in spoken discourse. For example,
+
+"Tumi jabe, tai to?" (তুমি যাবে, তাই তো? - You will go, won't you?)
+
+These types of questions are created by adding conjunctions like "kemon" (কেমন - how), "na" (না - no), "tai na" (তাই না - isn't it), "acchha" (আচ্ছা - okay), "naki" (নাকি - or).
+
+Questions of Social Conversation: Their main goal is to express courtesy. Although grammatically correct, these are actually pseudo-questions, such as, "Bhalo achen to?" (ভালো আছেন তো? - Are you well?),
+
+"Ki, bajare chollen?" (কি, বাজারে চললেন? - What, are you going to the market?), etc.
+
+Confrontational Questions: The speaker's confrontational attitude is reflected in this type of question. In this case, there may or may not be consistency between structure and meaning. For example,
+
+In both of the above examples, we will see that although the structure is affirmative, the negative answer is hidden within this defiant expression.
+
+Exclamatory Sentences: These types of sentences express emotions such as sorrow, joy, and various related outbursts. For example,
+
+"Ah, ki aram!" (আঃ, কী আরাম! - Ah, what comfort!)
+
+"Ei roilo toder picnic—ami chollam!" (এই রইল তোদের পিকনিক—আমি চললাম! - Here's your picnic—I'm leaving!)
+
+Exclamatory sentences can also be both affirmative and negative.
+
+Imperative Sentences: These types of sentences express feelings of command, advice, request, prayer, or prohibition, etc. Through this type of sentence, the speaker's desire, choice, or moral position is indicated. Since the statement is desired in accordance with the speaker's desire, this type of sentence is called an imperative sentence. Imperative sentences are also affirmative and negative in terms of structure and feeling. For example,
+
+"Egiye cholo." (এগিয়ে চলো - Move forward.)
+
+Don't waste time in vain.
+
+From the first three examples above, it can be seen that in imperative sentences, if the verb is in the general form of the second person or "tumi" (you)-form, that is, not in the "tui" (you - informal) or "apni" (you - formal) form, then the verb is almost always combined with the "o" vowel. For example—"Byartha praner aborjona puriye fele agun jwalo" (ব্যর্থ প্রাণের আবর্জনা পুড়িয়ে ফেলে আগুন জ্বালো - Burn the waste of a futile life and light the fire).
+
+There are other sentence types as well, such as conditional sentences, compound sentences, complex sentences, etc. These can be discussed in later classes. For now, let's arrange the eight main types of Bengali sentences according to their emotional nature in a chart:
+
+Transformation of Sentences Based on Meaning
+
+From Affirmative/Positive Declarative Sentence to Negative Declarative Sentence:
+
+Roma remained silent. » Roma did not speak./ Roma did not say anything.
+
+Chatterjees sit on the porch every day and finish off hordes of elephants and rhinos. » It's not that the Chatterjees don't sit on the porch every day and finish off hordes of elephants and rhinos.
+
+These are all small artists. » None of these are very "big artists."
+
+It has been raining continuously for days. » There is no end to the rain that has been falling continuously for days.
+
+Beni's face became serious. » Beni's face did not remain cheerful.
+
+I will make a place there. » I will not leave without making a place there.
+
+You have all seen the branches of dry trees. » Who among you has not seen the branches of dry trees?
+
+There was no shortage of gossip in their village. » There was no end to the gossip in their village.
+
+This custom had been going on for the past fifteen years. » There was no other custom besides this that had been going on for the past fifteen years.
+
+Seeing the man's persistence, doubt also arose in the sutarmagur's voice. » Seeing the man's persistence, the sutarmagur could not help but feel doubt in his voice.
+
+From Negative Declarative Sentence to Affirmative/Positive Declarative Sentence:
+
+Of course, the movement of trees is not suddenly visible. » Of course, the movement of trees is almost invisible.
+
+After going to England, don't reply to my letter until I send one. » Reply to this letter only after I send a letter from England.
+
+We were a group of young men, we didn't have much work. » We were a group of young men, we had very little work.
+
+Besides, you may not have been so fat then. » Besides, you were probably quite thin then.
+
+That imprisoned life is not as painful where the blows of oppression and humiliation are as low as possible. » That prison life is comparatively less painful where the blows of oppression and humiliation are as low as possible.
+
+Hair will not have any other work after the tiffin break at one o'clock. » Hair had only one job after the tiffin break at one o'clock.
+
+Ranjan did not leave the house all day. » Ranjan was at home all day.
+
+You don't have to give me the album. » It's okay if you don't give me the album.
+
+The man didn't know. » It remained unknown to the man.
+
+After death, I will not need any freedom. » I need all the freedom I need before death.
+
+From Affirmative/Positive Declarative Sentence to Interrogative Sentence:
+
+There seems to be the scent of wet pain in the sun. » Is there not the scent of wet pain in the sun?
+
+Forest, plains, empty lands—I have wandered in vain on all paths. » Have I not wandered in vain on all paths—forests, plains, empty lands?
+
+Many of you have seen the shimul tree. » Many of you have seen the shimul tree, haven't you?
+
+The bumblebee used to go humming beside the blooming flowers. » Didn't the bumblebee go humming beside the blooming flowers?
+
+Beyond all restrictions, there is the right to existence. » Beyond all restrictions, is there no right to existence?
+
+Only the desert is the howling of the dry wind. » Besides the howling of the dry wind, what else is there in the desert?
+
+A faint and broad forehead with betel-chewing lips, as if there was a shadow of disdain. » Apart from a shadow of disdain on the betel-chewing lips and broad forehead, what else is there?
+
+We all joined in with Manikadi's applause. » Could we all help but join in with Manikadi's applause?
+
+Half of Asia has been shaken by the heroic steps of the Macedonian victors. » Hasn't half of Asia been shaken by the heroic steps of the Macedonian victors?
+
+I can give eggs, but you have to take them out of the box yourself. » I can give eggs, but can you take them out of the box yourself?
+
+Nilu walked up to the flower garden crossing and saw. (In negative sentence)
+
+It could not be understood from outside, but who knows, maybe that life was no longer good for him. (In yes-sentence)
+
+The door on that side is closed. (In a no-sentence)
+
+He has a big problem. (In exclamation sentence)
+
+The old man turned his eye away. (Question mark)
+
+During lunch, no one but a cat stays close to him. (Yes-note sentence)
+
+Where will I go to hide my face if I see your downfall? Question
+
+If these words reach his ears, do you think he will spare you? Yes-note sentence)
+
+You will not understand the meaning of people. (Yes-note sentence)
+
+Ma said, what did we know so much, my dear! Indicator sentence)
+
+How is the sales in the store, hey? (Name the type of question sentence)
+
+You have to move forward. (In an imperative sentence)
+
+A man with soot-stained hands holding a torch is standing. (In a no-sentence)
+
+Don't say anything more, sir. (Yes-note sentence)
+
+Kashinath laughed at the mention of the tip. (No-sentence)
+
+The age is probably twenty-seven-twenty-eight. (Question mark sentence)
+
+Well said. (Exclamation sentence)
+
+You have to wake up very early in the morning and run a lot. (Imperative sentence)
+
+It is sweating even in the month of Ashwin today. (No-sentence)
+
+I feel like something is suspicious, the incident is not so false. (Yes-note
+
+sentence)

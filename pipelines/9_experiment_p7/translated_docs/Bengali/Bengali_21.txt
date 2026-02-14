@@ -1,0 +1,102 @@
+The smallest portion of a word that is uttered in a single effort of the vocal organs is called a syllable (দল) or অক্ষর (351-18916). Here, the smallest effort means a stress or beat (ঝোঁক). That is, the number of times a stress is needed while pronouncing a word, that is the number of syllables the word contains. Again, some words are pronounced at once or have only one stress; that is, they have only one syllable. Let's clarify the matter with a few examples: The word “ব্যাকরণ” (grammar) requires three stresses to pronounce, ব্যা-ক-রণ্‌. Similarly__
+
+মাছ__ মাছ (one syllable)
+
+দল-__ দল্‌ (one syllable)
+
+ছন্দ_ ছন্দ (two syllables)
+
+বাংলা_ বাং-লা (two syllables)
+
+সম্মোহন_সম্‌-মো-হন্‌ (three syllables)
+
+কলকাতা-কল্‌-কা-তা (three syllables)
+
+ভারতবর্ষ__ ভা-রত্-বর্ষ (four syllables)
+
+রবীন্দ্রনাথ__ র-বীন্দ্র-নাথ্‌ (four syllables)
+
+বিবেকানন্দ__বি-বে-কা-নন্-দ (five syllables)
+
+From the examples above, it is clear that words are formed with one or more syllables. And just as a word can be monosyllabic, it can also be polysyllabic [for example: পাখি (bird) has two syllables, ধান (rice) has one syllable]. These syllables can be divided into two parts: 1. Open syllable (স্বরান্ত বা মুন্তদল) (9790 95118919) 2. Closed syllable (ব্যগ্জনান্ত বা রুদ্ধদল) (01939 951181019).
+
+1. Open syllable (স্বরান্ত বা মুস্তুদল): A syllable that ends with a vowel sound or a syllable that has only one vowel sound, is called an open syllable. For example: আসে -__ আ-সে-_ here both syllables are open. Because they end in a vowel sound, their pronunciation is prolonged, hence they are open syllables.
+
+2. Closed syllable (ব্যগ্জনান্ত বা রুদ্ধদল): A syllable that ends with a consonant sound is called a closed syllable. For example: দুষ্ট __ দুষ্ট-_ here “দুষ” is a closed syllable and “ট” is an open syllable. Similarly, "মিশ", "মাছ", "বিল", "চল", "রাগ" etc. are all closed syllables. No more sounds can be added after a closed syllable, otherwise it becomes two syllables. For example: মন্‌+টা - মনটা (two syllables, মন - closed syllable / টা - open syllable)
+
+Among the vowel sounds, অ, আ etc. are full vowels (পূর্ণস্বর) in open syllables and আর, আউ, আও etc. are compound vowels (যুক্তস্বর) in closed syllables. In other words, a full vowel that can accommodate a half vowel (খণ্ডস্বর) at the end is an open vowel (মুক্তস্বর). But a full vowel that cannot accommodate any more half vowels at the end is a closed syllable. For example, in the syllable “দা”, “ও” can be joined as a half vowel. So “দা” is an open syllable. But in the syllable “দাও”, no more sounds can be added as a half vowel. So “দাও” is a closed syllable.
+
+Now let’s analyze the number of syllables and their type in different words:
+
+আমার (mine) : আ - মার্‌ (two syllables: আ - open syllable, মার্‌ - closed syllable)
+
+আশৈশব (since childhood) : আ-শৈ-শব (three syllables: আ- open syllable, শৈ - open syllable, শব - closed syllable)
+
+গ্রামবাসী (villager) : গ্রাম্‌-বা -সী (three syllables: গ্রাম - closed syllable, বা - open syllable, সী - open syllable)
+
+চন্দ্রবদনা (moon-faced) : চন্‌- দ্রো- ব-দ-না (five syllables: চন্‌ - closed syllable, দ্রো - open syllable, ব - open syllable, দ - open syllable, না - open syllable)
+
+নির্মল (clean) : নির্‌ - মল (two syllables: নির্‌ - closed syllable, মল - closed syllable)
+
+ভৈরব (Bhairav) : ভৈ-রব্‌ (two syllables: ভৈ - open syllable, রব্‌ - closed syllable)
+
+ভুল্‌ (mistake) : ভুল্‌ (one syllable: ভুল্‌ - closed syllable)
+
+মন্‌চোরা (heart stealer) : মন্‌- চো -রা (three syllables: মন্‌ - closed syllable, চো - open syllable, রা - open syllable)
+
+**1. Choose the correct option:**
+
+1.1 In grammar, the word "দল" (syllable) means:
+(a) Letter (b) Petal (c) Crowd (d) Group of letters
+
+1.2 I read in the eighth grade. The total number of syllables in the sentence is:
+(a) 4 (b) 7 (c) 9 (d) 10
+
+1.3 Syllable analysis of the word "উচ্চারণ" (pronunciation) will be:
+(a) উ-চ্চারণ (b) উচ্‌-চা-রণ (c) উদ্‌-চারণ (d) উচ্চা-রণ
+
+**2. Answer the following questions:**
+
+2.1 What is "দল" (syllable)?
+
+2.2 Indicate the classifications of "দল" (syllable).
+
+2.3 Analyze a word with three closed syllables.
+
+2.4 Write a word that has three syllables.
+
+2.5 What do you mean by open syllable (মুক্তদল)?
+
+2.6 Why is a closed syllable (রুদ্ধদল) named so?
+
+2.7 What is a "হলন্ত" word?
+
+2.8 What is an "মুক্তস্বর" (open vowel)?
+
+2.9 What do you mean by "রুদ্ধস্বর" (closed vowel)?
+
+2.10 Why is an open syllable (মুক্তদল) called a vowel-ending syllable (স্বরান্ত অক্ষর)?
+
+**3. Write which of the last syllables in the following words are closed syllables (রুদ্ধদল) and which are open syllables (মুক্তদল):**
+
+ব্যাকরণ (grammar)
+
+জলছবি (watercolor)
+
+বাসযাত্রী (bus passenger)
+
+তাৎপর্য (significance)
+
+পাকারাত্তা
+
+অকালবোধন
+
+সমাধান (solution)
+
+নবেন্দু
+
+টেনিদা (Tenida, a fictional character)
+
+কবিতা (poem)
+
+ধানদুর্বা, শ্যামলিমা, কন্ঠস্বর, নৌকাডুবি, পাঁচফোড়ন, শীর্ষেন্দু, ধাধা, শেষ, আকাশপাতাল,

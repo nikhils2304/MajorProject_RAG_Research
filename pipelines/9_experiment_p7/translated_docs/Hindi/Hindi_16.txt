@@ -1,0 +1,187 @@
+Revitalizing India's Manufacturing Sector
+
+This article is based on the article "Keeping India open and secure" published in The Financial Express on 15/01/2026. The article mentions that India's manufacturing growth depends on imports, global capital and technology accessibility, and strong protection of strategic sectors. It calls for replacing broad restrictions like Press Note 3 with a transparent, risk-based investment screening system to promote exports.
+
+For Prelims: Make in India, PLI Scheme, MSME Sector, Manufacturing Sector, FDI, Index of Industrial Production, Global Value Chain, Disguised Unemployment
+
+For Mains: Current status and development of the manufacturing sector, major issues and solutions.
+
+India is reviewing its Foreign Direct Investment (FDI) framework, especially Press Note 3 (PN3), to boost manufacturing exports in the electronics, automobile, and renewable energy sectors. Export competitiveness depends on the import of intermediate and capital goods like integrated circuits and batteries. Recent reforms like the rationalization of the Goods and Services Tax (GST), elimination of Quality Control Orders (QCO), and new labor codes indicate that India is moving towards a risk-based FDI evaluation system. However, a weak ecosystem and regulatory uncertainty are hindering manufacturing growth. Addressing these shortcomings is crucial for making India a globally competitive manufacturing hub.
+
+What is the current status of India's manufacturing sector?
+
+§ Contribution to GDP and Production: The manufacturing sector contributes about 16-17% to India's GDP and has regained momentum after a weak position in fiscal year 2024. This sector is of central importance for increasing manufacturing to 25% of GDP in India's medium-term target.
+
+o According to the Ministry of Statistics and Programme Implementation, manufacturing gross profit growth in fiscal year 2025 was higher than in fiscal year 2024, due to automobiles, electronics, and capital goods.
+
+§ Industrial Production: Manufacturing output has increased, which is reflected in the continuous expansion in industrial production and improvement in capacity utilization levels.
+
+o The Index of Industrial Production (IIP) registered a growth of 6.7% in November 2025 as compared to the previous year, due to a growth of 8.0% in the manufacturing sector.
+
+o According to the 65th round of RBI's OBICUS survey, the production capacity of manufacturing companies increased to 76.8% in the March 2024 quarter, while it was 74.7% in the December 2023 quarter.
+
+§ Manufacturing PMI: The strength of the manufacturing sector is reflected in the HSBC India Manufacturing PMI (Purchasing Managers' Index).
+
+o India's manufacturing PMI remains consistently in the expansion zone (above 50), indicating broad improvement in new orders, output, and employment. This reflects improvement in both domestic consumption and export-based demand.
+
+§ Exports: Manufacturing exports are shifting towards high-value sectors, especially electronics, pharmaceuticals, and automobiles, strengthening India's role in global value chains.
+
+o For example, electronics exports increased eight times from ₹38,000 crore to ₹3.27 lakh crore during fiscal year 2024-25, led by mobile phone manufacturing clusters in Tamil Nadu and Uttar Pradesh under the PLI scheme.
+
+Press Note 3 (2020)
+
+§ Introduction: With the objective of controlling potential opportunistic acquisitions of Indian companies during the Covid-19 pandemic, the government issued Press Note 3 (2020) in April 2020.
+
+o Under this rule, any investment from countries that share a land border with India, or where the beneficial owner is from such countries, can only be made through government approval, not automatically.
+
+o This rule is also effective retrospectively: If there is a change in ownership of any existing or future foreign investment and the actual owner falls into this category, the requirement of new approval applies.
+
+o Press Note 3 was implemented through amendments to FEMA rules, which allowed legal action in case of its violation. The right of enforcement is reserved with the Reserve Bank of India (RBI) and the Directorate of Enforcement (ED).
+
+What are the major reforms taking place in India's manufacturing sector?
+
+§ Growth in manufacturing sector with Make in India and PLI scheme: Make in India has shown recent positive trends, which include record FDI, significant growth in the electronics/auto sector, and success of the defense and pharma sectors, which are promoting self-reliance and employment generation.
+
+o Under PLI, significant growth in production and employment has been seen in sectors like electronics, medical equipment, and automobiles, which has supported India's exports and reduced import dependence.
+
+o This scheme has accelerated large-scale expansion in the manufacturing sector, resulting in investments of approximately ₹2 lakh crore in 14 priority sectors by the end of the year 2025.
+
+• For example, domestic production of mobile phones has increased from ₹18,000 crore in 2014-15 to ₹5.45 lakh crore in 2024-25, a 28-fold increase.
+
+o Furthermore, India introduced the National Manufacturing Mission (NMM) in the Union Budget of 2025-2026, which is an important initiative to promote India's manufacturing development.
+
+§ Implementation of Four Labor Codes: The historic implementation of the four labor codes at the end of the year 2025 has replaced the fragmented structure of the colonial era with an integrated compliance system.
+
+o With this, manufacturers can adjust the number of employees according to the global demand cycle (Fixed Term Employment) and ensures a uniform safety net.
+
+• For example, for the first time in the country, social security benefits have been provided to unorganized, gig, and platform workers under sections 113 and 114 of the Social Security Code, 2020.
+
+§ Promotion of Foreign Investment: The government is reorganizing strategic policies to attract global capital. For example, the Government of India has liberalized Foreign Direct Investment (FDI) in the defense sector to 74% through the automatic route and 100% through the government route.
+
+o Its objective is to strengthen domestic production and enhance manufacturing capabilities through advanced technology.
+
+o Government data shows that equity inflows in the form of Foreign Direct Investment (FDI) in the manufacturing sector have increased by 69%, from ₹8.37 lakh crore (US$ 97.7 billion) in 2004-14 to ₹14.15 lakh crore (US$ 165.1 billion) in 2014-24.
+
+§ Commercialization and Autonomy of Semiconductors: In the year 2025, the India Semiconductor Mission (ISM) stepped from the 'policy' to the 'production' phase.
+
+o The objective of this strategic shift is to become independent from Chinese supply chains by establishing a domestic manufacturing system.
+
+• This step is important not only for electronics but also for protecting the auto and defense sectors from global chip shortages.
+
+o For example, by August 2025, India had approved 10 semiconductor projects in six states, with a total investment of ₹1.60 lakh crore.
+
+• Furthermore, four major units (Tata Electronics, Micron, CG Power, Kaynes) are scheduled to start commercial production in 2026.
+
+§ Logistics Optimization through PM Gati Shakti: The 'Gati Shakti' platform has successfully reduced departmental barriers, which has enabled multidimensional connectivity and greatly reduced transportation time.
+
+o The structural deficiency of high logistics costs is being addressed by integrating railways with ports and roads, due to which Indian exports were previously more expensive than those of Vietnam.
+
+o For example, India's logistics costs have decreased from 14% to 7.97% of GDP. Also, 118 Gati Shakti Cargo Terminals were commissioned by the end of 2025 to facilitate freight transportation by rail.
+
+§ Formalization of MSMEs through Digital Public Infrastructure: The 'Digital Public Infrastructure' model (ONDC + Udyam) has made a significant contribution in integrating MSMEs into the formal economy. By increasing access to markets and credit, small manufacturers are being taken out of the trap of 'dwarfism', enabling them to directly supply to large global OEMs without expensive intermediaries.
+
+o For example, more than 5.70 crore MSMEs are registered on the Udyam registration and support platform as of June 2025.
+
+• Furthermore, a program of the Indian government supported by the World Bank, Raising and Accelerating MSME Performance (RAMP) scheme, with an outlay of ₹6,062.45 crore, aims to promote the development, market access, finance, and technology of the Micro, Small and Medium Enterprises (MSME) sector.
+
+§ Indigenization and Increase in Exports in the Defense Sector: The aggressive notification of 'Positive Indigenization Lists' has effectively secured the domestic market, forcing foreign industrial manufacturers to form joint ventures for local production instead of direct sales.
+
+o This structural protection has allowed private companies to evolve from equipment suppliers to full-system integrators, which has greatly reduced import dependence and also opened up the global export market.
+
+o Defense production reached a record level of ₹1.54 lakh crore in fiscal year 2025, while exports reached an all-time high of ₹23,622 crore.
+
+§ Bio-Manufacturing Revolution (BioE3 Policy): With the implementation of the BioE3 policy (Biotechnology for Economy, Environment, and Employment), India is in a position to lead the 'Green Industrial Revolution' by replacing petrochemical-based manufacturing with bio-based alternatives. By integrating high-performance bio-manufacturing with AI, this policy creates a new industrial sector for the production of sustainable chemicals, smart proteins, and materials.
+
+o This policy focuses on 6 thematic areas, including biochemicals and functional food items. The government is establishing Bio-AI hubs and bio-foundries to take innovations from the laboratory to commercial production.
+
+§ Regional and State-Led Industrial Development Initiative: States are promoting strategic manufacturing zones and export clusters for the decentralization and expansion of industrial development, which support both small and medium enterprises and large manufacturers.
+
+o The Saurashtra region of Gujarat is being developed as a multi-sectoral manufacturing and export zone, in which clusters of ceramics, automotive parts, and defense manufacturing are being integrated.
+
+o In addition, state-level business and investment summits such as Vibrant Gujarat and Global Investors Summit have facilitated large MoUs, which have accelerated the establishment of factories and capacity expansion.
+
+What are the major issues related to India's manufacturing sector?
+
+§ Low share in GDP and global manufacturing: Despite continuous reforms and development, India's manufacturing sector is limited to 16-17% of GDP.
+
+o Unlike China or Vietnam, India has not reached the Lewis Turning Point, as surplus labor is still trapped in agriculture or informal services and has not been included in productive manufacturing.
+
+• Furthermore, India's share in the global manufacturing market is only 2.8%, while China's share is 28.8%, which is quite impressive.
+
+o The agricultural sector still employs about 42-45% of the workforce, while its contribution to the gross domestic product (GDP) is only 15%, which indicates large-scale disguised unemployment. At the same time, the manufacturing sector employs only 11-12% of the workers, which is significantly lower than the comparative levels of East Asian economies at the same level of development.
+
+§ Excessive Dependence on Imports for Important Inputs: India's manufacturing is highly dependent on imported intermediate and capital goods, especially in high-technology sectors such as electronics and semiconductors. The domestic industry has not yet developed upstream inputs, which can reduce value addition and sensitivity.
+
+o In fiscal year 2023-24, India's total import of electronic products reached approximately $34.4 billion, out of which more than $12 billion came directly from China and $6 billion from Hong Kong, which together supply more than half of these important parts used in 'Made-in-India' products such as smartphones and TVs.
+
+• Furthermore, the import of semiconductors remains very high, with chips worth more than ₹1 lakh crore being imported in the year 2021-22, which highlights India's almost complete dependence on external manufacturing systems.
+
+§ 'Missing Middle' of MSMEs: India's manufacturing sector is affected by a continuous lack of capacity in the MSME structure, where more than 95% of manufacturing enterprises are micro or small units, many of which are operating informally and operating below efficient capacity.
+
+o In contrast, East Asian manufacturing clusters, especially in China, operate with dense networks, specialized suppliers, shared infrastructure, and patient credit, due to which even small firms can take advantage of agglomeration economies.
+
+§ Logistics and Infrastructure Obstacles: India's manufacturing competitiveness has long been weakened by logistics and infrastructure inefficiencies, and recent reform initiatives have only partially reduced the gap.
+
+o Although India's logistics costs have decreased from 13-14% of GDP to about 7.97%, multi-modal connectivity is still weaker than best practice countries such as South Korea.
+
+o This results in long port delays, high inventory costs, and low reliability in time-sensitive exports, which reduces India's competitiveness in just-in-time global value chains.
+
+§ Skill Mismatch and Labor Productivity: The irony of India's manufacturing sector lies in the availability of abundant labor but unequal skills and low factory productivity, which indicates the gap between the availability of the workforce and industrial requirements.
+
+o Although millions of workers enter the workforce in India every year, less than 5% of the workforce has received formal vocational or technical training, while this figure is more than 50% in countries such as South Korea and Germany.
+
+o As a result, advanced manufacturing sectors such as electronics, precision engineering, and semiconductor packaging often depend on foreign technicians, expatriate supervisors, or expensive in-house training, which increases production costs and slows down the pace of expansion.
+
+§ Regulatory Uncertainty and Policy Pressure: India's manufacturing investment environment remains plagued by regulatory uncertainty and policy pressure, where frequent rule changes, layered approvals, and discretionary approval increase the cost of deploying long-term capital.
+
+o This is evident from Press Note 3 (2020), which makes prior government approval mandatory for Foreign Direct Investment (FDI) from land-bordering countries.
+
+o The opaque approvals of these schemes, which are created for national security purposes, take 6-12 months, which has delayed investment in low-risk sectors such as auto components, renewable energy, and embedded electronics accessories in global supply chains.
+
+§ Carbon Border Risk (Green Wall): The sector's heavy reliance on coal-fired electricity makes Indian exports vulnerable to 'green protectionism' such as the European Union's Carbon Border Adjustment Mechanism (CBAM).
+
+o As western markets are taxing 'embedded carbon', India's cost advantage in steel, aluminum, and cement is rapidly declining compared to green energy-powered competitors.
+
+o For example, although India's CBAM-affected exports to the European Union are only 0.2% of its GDP, the iron and steel sector accounts for 90% of these exports, which may be severely affected.
+
+§ Technology and Research and Development Gap: The progress of India's manufacturing sector is hampered by the continuously existing technology and research and development gap. India's research and development expenditure is less than 1% (approximately 0.7%) of the gross domestic product (GDP), while it is more than 2-3% in advanced industrial economies such as South Korea and Japan.
+
+o Furthermore, the share of global patents in the Indian manufacturing sector is low, proprietary designs are limited, and leadership in standards is weak, which forces companies to compete at the lower levels of global value chains.
+
+What measures are needed to strengthen the manufacturing sector?
+
+§ Strengthening Domestic Value Chains and Technical Capabilities: India needs to address the structural weakness of assembly-based manufacturing by undertaking intensive manufacturing in upstream segments such as components, materials, equipment, and capital goods.
+
+o In the absence of a domestic ecosystem for semiconductors, power electronics, precise machinery, and industrial inputs, manufacturing remains vulnerable to import shocks and is able to earn only marginal profits.
+
+o Therefore, incentive schemes like PLI should be based on verifiable increases in local value addition, supplier indigenization, and technology assimilation, rather than gross production.
+
+§ Control over 'Missing Middle': Manufacturing competitiveness requires fewer but stronger firms, which are supported through patient financing, cluster-based shared facilities, and structured relationships with large anchor firms.
+
+o Without enabling small and medium-sized enterprises to develop into globally competitive medium-sized manufacturers, India will have many companies but very little industrial power.
+
+§ Re-establishing the Job Creation Role of the Manufacturing Sector: Manufacturing policy should explicitly address the problem of jobless growth, where production increases but does not absorb additional labor.
+
+o For this, it is necessary to prioritize labor-intensive and medium-skill sectors such as component manufacturing, food processing, light engineering, and industrial services over highly capital-intensive assembly.
+
+• Employment outcomes should become a key criterion for the success of industrial policy, not a by-product.
+
+§ Shifting Logistics Reform from Cost Reduction to Reliability: Although core logistics costs have fallen, the Indian manufacturing sector is still struggling with unreliable delivery timelines, port congestion, and fragmented multimodal connectivity.
+
+o For global manufacturers, predictability is often more important than average cost. Strengthening rail-road-port integration, reducing turnaround time, and ensuring digital coordination in logistics chains are essential for Indian companies to integrate into global value chains on time.
+
+§ Minimizing the Gap Between Skill and Factory Productivity: The abundance of labor in India cannot be transformed into manufacturing power unless it consistently balances with factory skill, process discipline, and quality control capabilities.
+
+o The focus should shift away from short-term skill development goals and focus on workplace-based education, apprenticeship integration, and continuous skill upgradation, especially in advanced manufacturing sectors.
+
+§ Increasing the Intensity of Industrial Research and Development and Innovation: Without continuous investment in practical research and development, product development, and process innovation, manufacturing cannot move forward in the value chain.
+
+o Public policy should encourage private research and development by supporting industry-academic collaboration, shared testing facilities, and risk-sharing for early-stage industrial innovation.
+
+§ Ensuring Regulatory Foreseeability and Policy Credibility: Investment in the manufacturing sector depends as much on policy certainty as it does on incentives. Frequent regulatory changes, delays in approvals, and opaque decision-making processes increase the cost of long-term capital and encourage companies to postpone or redirect investment.
+
+o National security-based regulations should be equipped with clear timelines, transparent criteria, and predictable processes, so that risk management does not turn into a mere tendency to avoid risk.
+
+Conclusion:
+
+The key challenge for India's manufacturing sector lies in transforming widespread production and policy incentives into deep capabilities, productive employment, and technological self-reliance. An effective and reliable strategy should aim to increase the share of the manufacturing sector to about 18–20% in terms of employment, reduce import dependence by strengthening local value addition, and increase investment in industrial research and development to a level of 1.5–2% of GDP. Only by moving beyond a production-focused approach and transitioning to innovation and productivity-driven manufacturing can structural transformation, inclusive job creation, and long-term economic stability be ensured.

@@ -1,0 +1,934 @@
+Unit
+Map Skills
+7
+Learning Objectives
+
+Introducing maps
+
+Reading a map using the elements of a map
+
+Learning about how map information is obtained through aerial photography, satellite remote sensing, land surveying methods, and other technologies
+
+Learning about current map technologies such as Geographic Information System (GIS), Global Navigation Satellite System (GNSS) and Global Positioning System (GPS), and Web Maps
+Introduction Maps act as location guides.
+A cartographer is someone who can hold maps in their hands
+collects, studies, interprets and views the world in a single sweep.
+and creates maps and charts for political, A map is worth a thousand words.
+cultural and educational purposes. Basic map literacy is necessary to understand
+and interpret a map. Elements of maps such as
+7.1.1. Map and Cartography scale, symbols, and signs are introduced through this lesson.
+Surveying is the process of measuring and recording the land.
+Maps and cartography Through this information is collected and maps are created.
+In addition, maps are drawn as if viewing the land area from above.
+This lesson introduces modern map A map is a small representation of the earth's surface
+technologies such as remote sensing, Global on paper/cloth or any flat surface.
+Positioning System (GPS), Geographic Information Maps depict the world entirely or
+System (GIS), Global Navigation Satellite System partially. Maps are drawn using scales and directions.
+(GNSS) and 21st century many details can be learned using the symbols
+Web Maps. and colours used on the map.
+The art of creating maps is called cartography.
+7.1 Map as a Tool
+7.1.2. Elements of a Map
+A map is a geographer's
+basic tool. It clearly and effectively explains A map should contain elements such as title, scale,
+the earth's surface through maps, words, and direction, grid system, projection, map reference, and signs.
+symbols. As an integral part of geography
+A. Title
+education, maps also serve as a
+This refers to the purpose or theme of the map.
+location guide. (e.g., India - Natural Features, World - Political, Tamil Nadu - Road Map).
+
+B. Scale
+
+The scale is used to draw the
+entire world on a paper. Scale is the ratio of the
+
+distance between two points on the map and the
+
+distance between the same two points on the earth's
+
+surface. Scales are shown on the map in three ways.
+
+They are: Statement Scale method, Representative Fraction
+
+method, Linear Scale method.
+
+Statement Scale
+
+Comparing the distance on the map and
+
+the actual distance on the earth and expressing it in
+
+words is the Statement Scale method. That is, one
+
+centimetre is equal to ten kilometres. It is expressed as '1 cm = 10 km'.
+
+Representative Fraction
+
+In this method, the comparison of the map and
+
+actual distances is expressed as a ratio or fraction. It
+
+is usually abbreviated as R.F. It is expressed as 1/100000
+
+(or) 1:100000. This means that one unit on the
+
+map represents 100,000 units on the earth. This unit
+
+can be an inch or a centimetre or any other
+
+unit. So, the scale in ratio or fraction method is
+
+D is(cid:21)tance on the map
+
+Representative Fraction = î î
+
+(cid:19)(cid:18)stance on the ground
+
+For example: Find the (R.F.) when the scale is 1 cm to 1 km.
+
+Here, 1 cm = 1 km. As per the formula,
+
+1
+
+R.F. = D (cm)
+
+1
+
+Distance on ground (cm)
+
+To convert this to cm,
+
+km = 100000 cm. So, R.F. 1: 100000.
+
+Convert the scale to fractional method if
+
+1 cm = 2 km.
+
+C. Linear or Graphical Scale
+
+In maps, a long line is
+
+divided into several equal sections, and each
+
+section shows how much distance it represents on the
+
+ground (primary and secondary) is the Linear
+
+Scale method. This scale method directly
+
+helps to measure the distance on the map.
+
+Linear scale Model
+
+0 1 2 3 4 5 6 7 8 km
+
+((cid:8)(cid:7)tance Linear scale)
+
+If 1:50,000 (cid:15)re(cid:13)(cid:15)(cid:12)sents a scale
+
+(cid:4)s represented. (cid:141)(cid:143), 50,000 (cid:157)(cid:127)nit on the
+
+D. Directions
+
+Generally, maps are drawn based on the
+
+north direction. In a map, the north direction is
+
+always towards the earth's north pole.
+
+If you stand facing the north pole, your
+
+right hand will show the east direction, your left
+
+hand the west direction, and your back the south
+
+direction. These are the basic directions.
+
+Usually, the arrow mark found on the map
+
+indicates the north direction.
+
+õ
+
+ñ
+
+« õ
+
+õ A
+
+«ñ A
+
+(cid:21)rection « ª A
+
+ñ
+
+ªî
+
+Remember this sentence which helps
+
+to keep the basic directions in mind –
+
+Vannamayamai Kilakil Thenpadum Vadakam
+
+(North, East, South, West)
+
+Let us assume that you are standing
+
+facing north in India. Find out which
+
+direction the following places are located with the
+
+help of the map.
+
+Saudi Arabia _____________
+
+Myanmar _____________
+
+China _____________
+
+Indian Ocean _____________
+
+Kazakhstan _____________
+
+Sumatra _____________
+
+Afghanistan _____________
+
+E. Grid System
+
+The location of a place is defined by its
+
+latitude and longitude.
+
+Generally, we state the latitude of a place
+
+first and then the longitude.
+
+The latitude and longitude of a place are
+
+expressed in degrees, minutes, and seconds.
+
+Latitude and Longitude Extent of India:
+
+8° 4’N to 37° 6’N latitude,
+
+68° 7’E to 97° 25’E longitude. Here (°) is
+
+degree, (’) is minute, and the second is expressed
+
+in ( ’’ ).
+
+Latitude Main
+
+North America India
+
+Activity
+
+Enlarge Australia
+
+with the help of grid.
+
+(cid:30)u (cid:26) (cid:27)
+
+(cid:18)sian
+
+The three
+
+commonly used projection methods are as follows
+
+ Cylindrical
+
+Projections
+
+(Cylindrical
+
+Projections)
+
+ Conical
+
+Projections
+
+(Conical
+
+Projections)
+
+ Planar
+
+Projections
+
+(Planar or
+
+Zenithal or
+
+Azimuthal
+
+Projections)
+
+F. Legend
+
+A map legend that
+
+helps to understand map details is usually
+
+indicated in the lower left or right corner of the map.
+
+G. Conventional signs and symbols
+
+A map is a universal
+
+language. It must be drawn to suit international standards. Conventional signs are
+
+permanent symbols used on the map. In addition,
+
+their meanings are explained in the map legend
+
+section. It contains various information about the
+
+topographical and cultural features. These elements
+
+are shown as symbols in different colours. This
+
+maintains the clarity of the map.
+
+Conventional Signs and Symbols
+
+The earth's true
+
+shape is called Geoid.
+
+It is an Oblate Spheroid.
+
+The flag of the United Nations depicts the "Polar
+
+Azimuthal Equidistant Projection."
+
+The United Nations flag, first drawn in 1945, had
+
+the 90° west longitude pointing upwards.
+
+Therefore, North America
+
+was predominantly visible.
+
+The following year the
+
+international date line was
+
+transformed to point
+
+upwards in the middle of the
+
+Pacific Ocean, at 180° east.
+
+Also, since the map is suspended at 60° south
+
+latitude. Antarctica is not visible.
+
+Map symbols are of three types.
+
+1. Point symbols - buildings, water
+
+tanks, trigonometric beacons.
+
+2. Linear symbols - railways,
+
+roads, power lines,
+
+telephone connections.
+
+3. Area symbols - cultivated areas,
+
+ponds, orchards, and vineyards.
+
+The following colour codes are used in maps.
+
+1. Brown: Land or earth features - contour
+
+lines, eroded areas,
+
+main hill areas, sand areas
+
+and hills, secondary or
+
+dirt roads.
+
+2. Pale Blue: Water bodies - canals,
+
+beaches, dams, lakes, marsh
+
+lands, flood plains, ponds, rivers,
+
+water storage tanks.
+
+3. Dark Blue: National waterways
+
+4. Green: Vegetation - cultivated fields,
+
+landscape, natural golf courses, natural and
+
+hunting reserved boundaries,
+
+orchards and vineyards, recreational areas,
+
+wooded area.
+
+5. Black: Construction sites - roads,
+
+paths, railways, buildings,
+
+bridges, cemeteries, communication towers, dam walls,
+
+excavations and mine ruins,
+
+telephone connections, electricity
+
+connections, wind turbines, boundaries.
+
+6. Red: Construction sites - national, branch and
+
+major roads, lighthouses and marine lights.
+
+7. Pink: International borders.
+
+7.1.3 Survey
+
+Measuring the angle, direction, area, height,
+
+and distance of a place on the earth's surface using
+
+instruments is called Surveying. Surveying methods are
+
+used to prepare maps and to obtain location-based
+
+information. Surveying helps in preparing
+
+topographic maps especially.
+
+Modern surveying instruments used by geographers
+
+to draw maps are Chain, Prismatic Compass, Plane Table, Dumpy Level,
+
+Abney Level, Clinometer, Theodalite, Total Station
+
+and Global Navigation Satellite System (GNSS) are used to
+
+measure the distance, angle, height, and area of
+
+a place.
+
+7.2 Remote Sensing
+
+Sources of Map Data
+
+Remote sensing is observing and
+
+acquiring information about objects on Earth from a
+
+distance without any direct contact.
+
+'Remote' refers to distance and
+
+'sensing' refers to collecting information.
+
+Remote sensing means obtaining
+
+information about objects/places from a distance
+
+through various tools and methods.
+
+Remote sensing has a long
+
+history, beginning with photography equipment
+
+attached to balloons and the legs of pigeons in the
+
+18th and 19th centuries to the modern era of remote
+
+sensing. In the mid-20th century, aerial
+
+photography and satellite remote sensing technology
+
+developed rapidly.
+
+In our body three
+
+remote sensing organs
+
+are found.
+
+a) Eyes – The eyes'
+
+sight
+
+b) Nose - The sense of
+
+smell
+
+c) Ear – Hearing
+
+7.2.1. Aerial Photography
+
+Aerial photography involves capturing
+
+information about places or objects or events using
+
+photographic equipment mounted on low-flying
+
+birds, balloons, helicopters, aeroplanes, and drones.
+
+Aerial photographs are continuously
+
+taken at regular intervals of 10–30 seconds from a
+
+fixed height. Each photograph has a slight overlap
+
+with the previous photograph. A three-dimensional
+
+(3D) image of the study area can be prepared by
+
+removing the overlapping areas and creating a mosaic
+
+of the joined photographs.
+
+1 2 3 4 5 6
+
+1 2 3 4 5 6
+
+12 11 10 9 8 7
+
+Félix Tournachon, a multi-
+
+talented French photographer,
+
+journalist, novelist, caricaturist,
+
+balloonist, and publisher,
+
+took the first aerial
+
+photographs in 1858. He
+
+began working as a photographer
+
+in the Paris catacombs
+
+and took his first
+
+photographs in 1853,
+
+becoming a pioneer in
+
+the use of artificial light
+
+in photography. In 1863,
+
+Nadar constructed a huge (6000 m³) balloon
+
+named "Le Géant" (The Giant).
+
+7.2.2 Satellite Remote Sensing
+
+Satellite remote sensing is a technique
+
+for collecting information about an object or an area
+
+from satellites orbiting the earth. 'Satellite images'
+
+refer to the images captured by the digitally
+
+equipped sensors of satellites.
+
+Components of Remote Sensing
+
+ Energy source  Path of transmission  Target  Sensors
+
+7.2.3 Global Navigation Satellite System - GNSS
+
+Have you ever
+
+used your mobile phone
+
+to book a cab?
+
+Have you ever
+
+noticed that the route and
+
+the movement of the cab you
+
+are travelling in is visible
+
+on the map on your mobile phone?
+
+How is it possible to know
+
+the travel time even as you
+
+are travelling?
+
+In the 21st century, GNSS
+
+plays a key role in providing safe and
+
+convenient travel in our daily lives. GNSS
+
+is a system that pinpoints and monitors the
+
+vehicle you are travelling in from any corner of the
+
+world. There is also a feature to give immediate
+
+warning if the vehicle exceeds the speed limit or
+
+deviates from the route. GNSS applications help in
+
+monitoring vehicles, ships, and aeroplanes and
+
+mapping their routes.
+
+A satellite constellation (Space
+
+segment) connects with the earth station network
+
+(Control segment) to provide location
+
+information to the users (User segment).
+
+Satellite signals are transformed into time, speed,
+
+and travel time information.
+
+Examples of GNSS (G.N.S.S.)
+
+ Galileo of Europe
+
+ NAVSTAR of the United States
+
+ GLONASS of Russia
+
+ Bei Dou Satellite System of China
+
+ NAVIC satellite system of India
+
+Satellite Remote Sensing Aerial Photography
+
+Satellite systems take at least 10 years to be Aerial surveying is planned to be operated on a short
+planned, constructed, tested, and launched. time scale and at lower cost.
+
+Satellites collect information about the entire area The aircraft flies back and forth to "image" an area in
+in a very short time. less time.
+Permission is not required to collect information Permission from authorities is required, even to image
+globally. a small area.
+As satellites orbit the earth, it is easy to repeatedly It is easier to re-image or re-survey the same area.
+revisit the same area. Additional costs will be incurred.
+
+Weather has little impact. It is greatly affected by weather.
+All data is digital, which can be easily integrated It is an analogue data record. Therefore,
+with image enhancement software. enhancement is not possible after the photograph is taken.
+
+A. Global Positioning System (GPS) Automated Teller Machines (ATMs),
+
+If we do not have GPS in our mobile phones also use Global Positioning
+
+and vehicles, we feel like we have lost something. System Technology.
+
+GPS is the world's first and most widely used  The main purpose of the Global
+
+GNSS. It was developed by the United States Positioning System is to provide travel
+
+Department of Defense. It came into full use in information (distance, route and direction)
+
+1995. Navstar is a network of 24 American satellites accurately. It is very helpful in military
+
+in 6 different orbits orbiting the earth at 20,350 km search operations and wartime rescue
+
+above the surface. Each satellite orbits the earth activities.
+
+twice a day for continuous global communication.  It is a reliable tourist guide.
+
+GPS devices are available in all sizes and shapes.  GPS greatly assists in accident and rescue
+
+Most are available in mobile phone size. They can operations, quick supply of emergency
+
+be used in hand or can be mounted in ships, needs, and disaster relief activities.
+
+aeroplanes, snowmobiles, and cars.  Weather forecasting, earthquake
+
+monitoring, and environmental protection
+
+Features of Global Positioning System are operating efficiently with the help of global
+
+(GPS) positioning systems.
+
+ Mobile phones, wrist watches,
+
+bulldozers, ship containers and
+
+B. Geographic Information System – GIS
+
+Geographic Information System is a computer
+
+based tool. It is used to collect more specific
+
+details about a given geographical area. It uses
+
+remote sensing, global positioning system, and other
+
+data sources.
+
+Geographic Information System is a combination
+
+of computer hardware, software, geographic data, and
+
+personnel.
+
+G – Geographic
+
+I – Information
+
+S – System
+
+Geographic Information System (GIS) was introduced
+
+in 1950 by Waldo Tobler and then by Howard
+
+Tomlinson.
+
+Google Maps, Yahoo Maps, and Google Earth
+
+are some of the prime examples.
+
+The most important element linked to the
+
+internet is location. In a map, we can link
+
+information from an unfamiliar location to an
+
+address that we know and integrate the information.
+
+Each type of information of a region is stored as
+
+separate layers of a map. In GIS, layers can be used
+
+if needed, or they can be removed if not needed.
+
+For example, hospitals, schools, water bodies,
+
+parks, and ATMs. With the help of remote sensing,
+
+global positioning system, and linked databases,
+
+computers can create a map.
+
+7.3 Bhuvan
+
+The Sanskrit word Bhuvan means ‘Earth’.
+
+The free online platform for computer-based
+
+applications was created by the Indian Space
+
+Research Organisation (ISRO) on August 12, 2009.
+
+Through this, it is possible to analyse
+
+Indian Remote Sensing (IRS) images taken by
+
+the seven satellites of the Indian Space Research
+
+Organisation for public service. This also includes
+
+images taken by the Cartosat I and Cartosat II
+
+satellites.
+
+Using Bhuvan, which is linked to the
+
+internet, a person can explore desired locations,
+
+events that have taken place in the news, or any part
+
+of the world that they cannot visit, or search for
+
+names of places using latitude and longitude.
+
+Scientists, scholars, academics, policy makers, or
+
+the public will find Bhuvan very useful.
+
+Review of Key Points
+
+ The process of measuring and recording the area of a place on the earth is known as surveying.
+ Anaximander, a Greek scientist, first drew the world map.
+ A map can show the whole world or part of it.
+ The art of drawing maps is called Cartography.
+ A map should include elements such as its title, scale, directions, grid, projection, map legend, and symbols.
+ A grid is a technique in a topographical map in which many lines join together to accurately show the location of a place.
+ Remote sensing means sensing or knowing what is distant.
+ Global Navigation Satellite System (GNSS) is a system that helps users to know the path or their location from any corner of the world.
+ Geographic Information System is a combination of computer, hardware, software, geographic data, and personnel.
+
+EXERCISE
+
+I. Choose the Correct Answer
+
+1. What indicates the theme (or) purpose of a map?
+
+a. Title b. Scale
+
+c. Directions d. Map Legend
+
+2. Permanent symbols used to represent a definite
+
+feature on the map
+
+a. Conventional signs
+
+b. Joining points
+
+c. Grid system
+
+d. Directions
+
+3. Satellites used in Global Positioning System
+
+(GPS)
+
+a. 7 b. 24 c. 32 d. 64
+
+II. Match the following
+
+1. Map creation - The United States
+
+Scientific Art Nations
+
+2. Earth's Shape - Geoid
+
+3. NAVSTAR - Map Art
+
+III. Examine the given statement and choose the correct answer
+
+1. Statement (A): The network created by the meeting of vertical and horizontal lines at a point is the structure of parallels.
+
+Reason (R): Horizontal and vertical lines are called northern and eastern latitude respectively.
+
+a. Both A and R are correct and R is the correct explanation for A
+
+b. Both A and R are correct but R is not the correct explanation for A
+
+c. A is correct R is wrong
+
+d. A is wrong R is correct
+
+2. Statement (A): The map marks in a map are not used to understand the information in the map.
+
+Reason (R): This is usually found on the lower left or right side of the map.
+
+a. A is wrong R is correct
+
+b. Both A and R are correct but R is not the correct explanation for A
+
+c. A is correct but R is wrong
+
+d. Both A and R are correct, R is the correct explanation for A
+
+IV. Answer briefly
+
+1. What is a map?
+
+2. What are the elements of a map?
+
+3. The distance between two towns A and B is 5 km. It is indicated as 5 cm on the map. Calculate this distance and answer in ratio fraction method.
+
+4. Name the tools used for surveying.
+
+5. Remote Sensing - Define.
+
+6. What are the components of remote sensing?
+
+V. Give reason
+
+1. Satellite images help in map drawing.
+
+2. The basic tool of geographers is the map.
+
+3. The Grid System is used to indicate specific places in the map.
+
+VI. Differentiate
+
+1. Globe and Map.
+
+2. Aerial photographs and satellite images.
+
+3. Geographic Information System and Global Positioning System
+
+VII. Answer in detail
+
+1. What is the meaning of scale in maps? Explain its types.
+
+2. Directions – Explain with a suitable diagram.
+
+3. Describe the uses of the Global Positioning System (GPS).
+
+VIII. Map Activity
+
+1. Using a map book (Atlas) indicate the following on the physical map of Tamil Nadu.
+
+a) Latitude and longitude extent of Chennai City.
+
+b) City located at 10° N and 78° E latitude longitude extent.
+
+c) City located at 11° N and 76° E latitude longitude extent.
+
+d) Latitude and longitude extent of Kanyakumari.
+
+IX. High Order Thinking Questions
+
+1. Can you imagine a world without satellites?
+
+2. Imagine yourself as a cartographer and draw a map of your area.
+
+References
+
+1. R.L. Singh, (1992) Elements of Practical Geography, Kalyani Publishers, New Delhi.
+
+2. Pijushkanti Saha and the Partha Basu (2013), ‘Advanced Practical Geography – a Laboratory Manual’, Books and Allied (P) Ltd., Kolkatta.
+
+3. Anji Reddy, M, (2015) Fourth Edition, Text Book of Remote Sensing and Geographical information systems, BSP Books Pvt. Ltd., Hyderabad.
+
+4. Panda, B.C, (2009), ‘Remote sensing principles and Applications’, Viva books, New Delhi.
+
+5. Misra, R.P and Ramesh, A, (1969) ‘Fundamentals of cartography’ Prasaranga University of Mysore, Mysore.
+
+6. LO, C.P and Albert, K.W, Young (2002) ‘Concepts and Techniques of Geographic Information Systems’ Prentice – Hall of India Pvt. Ltd., New Delhi.
+
+Website
+
+www.usgs.gov.in
+
+www.nasa.gov.in
+
+www.surveyofindia.gov.in
+
+https://bhuvan.nrsc.gov.in
+
+https://www.isro.gov.in
+
+Online Activity Geography-Map skills
+
+Through this activity, it is possible to calculate the distance between two
+
+places on a map.
+
+Procedure
+
+Step -1: To go to the activity platform using the given URL.
+
+Step- 2: Select the ‘Polyline’ button and select two places on the map.
+
+Step-3: The distance between the places will appear in metres and kilometres after connecting with the line.
+
+Step-4: Zoom in and out using the ‘+’’-‘ button.
+
+URL: : http://earth3dmap.com/#?l=asia

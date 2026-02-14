@@ -115,3 +115,49 @@ To resume:
 
 The complete project code, including datasets and ChromaDB indices, has been uploaded to:
 [GitHub Repository](https://github.com/nikhils2304/MajorProject_RAG_Research)
+
+## P7: Pivot-Based Dense Retrieval (Translate -> Embed -> Retrieve -> Translate Back)
+
+**Status:** Complete.
+
+**Strategy:** 
+1.  **Translation**: All Documents (Indic) -> English. Queries (Indic) -> English.
+2.  **Indexing**: `BAAI/bge-m3` on English Corpus only.
+3.  **Retrieval**: Dense Search in English.
+4.  **Generation**: Answer in English -> Translate back to Indic.
+
+| Language | Recall@5 | Recall@10 | BLEU | ROUGE-L | Faithfulness | Latency | Cost/1k |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bengali** | 0.9588 | 0.9691 | 8.82 | 0.0165 | 0.9691 | 3548ms | $0.127 |
+| **English** | 1.0000 | 1.0000 | 36.49 | 0.6123 | 0.9606 | 1549ms | $0.161 |
+| **Hindi** | 0.9920 | 1.0000 | 29.23 | 0.3698 | 1.0000 | 3903ms | $0.118 |
+| **Tamil** | 0.9750 | 0.9917 | 13.11 | 0.1632 | 0.9833 | 3483ms | $0.118 |
+
+### Key Findings (P7)
+1.  **100% Recall for English/Hindi**: The English-centric retrieval worked perfectly for Hindi queries translated to English (Recall@10 = 1.0).
+2.  **Latency Penalty**: The double translation (Query -> English, Answer -> Indic) adds significant latency (~2s overhead compared to English).
+3.  **Low ROUGE for Indic**: Despite high retrieval accuracy and good Faithfulness (>0.96), ROUGE scores are low for Bengali and Tamil. This indicates that **back-translation** produces phrasing that differs significantly from the ground truth reference, even if the meaning is correct.
+
+## P8: Pivot-Based Hybrid Retrieval (Translate -> Dense+BM25 -> RRF -> Translate Back)
+
+**Status:** Complete.
+
+**Strategy:** 
+1.  **Translation**: Query (Indic) -> English.
+2.  **Hybrid Retrieval**: English Dense (`BAAI/bge-m3`) + English Sparse (`BM25`) -> Fused via RRF.
+3.  **Generation**: Answer in English.
+4.  **Translation**: Answer (English) -> Indic.
+
+| Language | Recall@5 | Recall@10 | BLEU | ROUGE-L | Faithfulness | Latency | Cost/1k |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bengali** | 0.8763 | 0.9485 | 6.96 | 0.0098 | 0.8866 | 4771ms | $0.125 |
+| **English** | 0.8819 | 0.9921 | 25.28 | 0.4490 | 0.9055 | 1487ms | $0.194 |
+| **Hindi** | 0.9680 | 0.9920 | 24.33 | 0.3413 | 0.9520 | 4754ms | $0.120 |
+| **Tamil** | 0.9917 | 1.0000 | 11.71 | 0.1257 | 0.9667 | 4834ms | $0.120 |
+| **Aggregate** | **0.9318** | **0.9851** | **17.77** | **0.2468** | **0.9296** | **3893ms** | **$0.141** |
+
+### Key Findings (P8)
+1.  **Recall Dip**: Surprisingly, adding BM25 via RRF *lowered* Recall@5 for Bengali and English compared to Pure Dense (P7). This suggests BM25 rankings for translated terms might be noisy, diluting the strong dense signal in the top ranks.
+2.  **High Latency**: The combination of Translation + Hybrid Search + RRF + Back-Translation makes this the slowest pipeline (~4s/query for Indic).
+3.  **Tamil & Hindi Robustness**: Tamil hit 100% Recall@10, showing that for some languages, keyword signals helper recover documents that dense retrieval missed.
+

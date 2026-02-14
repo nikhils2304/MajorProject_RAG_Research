@@ -1,0 +1,119 @@
+Right to Disconnect in India: Regulating Digital Work and Labour Rights
+
+Context (Introduction)
+
+The introduction of the Right to Disconnect Bill as a private member's bill highlights growing concerns about digital encroachment in workplaces, where technology has blurred the boundaries between work and personal life, despite India's consolidated labour legal framework.
+
+Current Context and Rationale
+
+*   **Digitization of Work:** With smartphones, email, and messaging platforms, work is extending beyond physical offices and set hours, leading to stress, burnout, and impaired work-life balance.
+
+*   **Existing Labour Legal Framework:** India has recently consolidated 29 labour laws into four labour codes, including the Occupational Safety, Health and Working Conditions Code, 2020, which regulates working hours and overtime but is primarily based on physical workplaces.
+
+*   **Objective of the Bill:** The Right to Disconnect Bill aims to protect employees by granting them the right not to respond to work-related communications (calls, messages or emails) after stipulated working hours.
+
+Key Issues and Limitations of the Bill
+
+*   **Undefined Concept of 'Work':** The bill regulates after-hours work communications but does not clarify whether such digital communication would be considered "work" under existing labour codes. This creates a conceptual gap where communication is regulated but not legally recognized as labour.
+
+*   **Separation from Work Time Regulation:** While the OSH Code controls work hours and overtime, the bill does not integrate digital availability into this framework, weakening enforcement and leaving the right as a practical guideline rather than a labour standard.
+
+*   **Ambiguity in Legal Nature:** The bill does not specify whether the right to disconnect is a mandatory labour standard or a contractual right that can be modified by employer policies or employment contracts.
+
+*   **Lack of Constitutional Basis:** Although the right has a clear connection with Article 21 (Right to Life and Personal Liberty) – specifically dignity, privacy, and autonomy – the bill does not acknowledge or articulate this constitutional basis.
+
+Comparative Perspective: Lessons from Other Jurisdictions
+
+*   **EU Approach:** EU jurisprudence considers employer control a key determinant of working time. Periods of standby or availability, even without active work, are often recognized as working time.
+
+*   **France:** Labour law makes a clear distinction between working time and rest time. Digital communications are regulated through collective bargaining, ensuring enforcement without redefining "work."
+
+*   **Germany:** Strict work-time and rest-period regulations limit employer interference in personal time, supported by strong enforcement mechanisms.
+
+*   **Key Insight:** In effective models, the right to disconnect works because digital availability is legally integrated into work-time regulation.
+
+Governance and Social Impact
+
+*   **Work-Life Balance:** Unregulated digital work reduces rest time, affecting mental health, productivity, and family life.
+
+*   **Labour Rights in the Gig and Platform Economy:** Ambiguity over what constitutes work disproportionately affects white-collar employees, gig workers, and remote workers.
+
+*   **Legal Uncertainty:** Without clarity, courts may offer divergent interpretations, leading to inconsistency in labour jurisprudence.
+
+Way Forward
+
+*   **Define 'Digital Work':** Explicitly recognize after-hours digital communication as work under labour law when it involves employer control.
+
+*   **Integration with Labour Codes:** Align the right to disconnect with work-hour and overtime provisions under the OSH Code to ensure enforceability.
+
+*   **Clarify Mandatory Nature:** Specify whether the right is non-derogable or subject to collective bargaining and contractual modification.
+
+*   **Provide Constitutional Basis:** Explicitly link the right to dignity, privacy, and autonomy under Article 21 to strengthen judicial interpretation.
+
+*   **Promote Collective Bargaining:** Allow for sector-specific solutions through negotiations, especially in the IT and service sectors.
+
+Conclusion
+
+The Right to Disconnect Bill acknowledges that digital technologies have transformed work but remains conceptually incomplete. By failing to define digital labour and integrate it with existing labour laws, it risks becoming merely symbolic. The bill should be seen as a starting point for a broader rethinking of labour jurisprudence in the digital economy.
+
+Source: The Hindu
+
+CSR as an Enforceable Environmental Obligation: Issues and Way Forward
+
+Context (Introduction)
+
+A recent decision by the Supreme Court of India has reinterpreted Corporate Social Responsibility (CSR) under company law as an enforceable obligation, bringing environmental and wildlife conservation – particularly the conservation of the Great Indian Bustard – within its legal and constitutional scope.
+
+CSR in India: Concept and Evolution
+
+*   **Statutory Framework:** CSR in India is governed by the Companies Act, 2013, which mandates eligible companies to spend 2% of their average net profit on specified social activities. Initially framed as a compliance-based social spending requirement, CSR was often seen as discretionary philanthropy.
+
+*   **Judicial Re-definition:** The Supreme Court has now read CSR as a legal duty, not a donation, placing it within the constitutional framework of Article 51A(g) (duty to protect the environment). Corporations, as legal persons, have been seen to share constitutional environmental obligations.
+
+Significance of the Judgment for CSR and the Environment
+
+*   **Shift from Discretion to Duty:** By holding that CSR spending on environmental protection discharges a constitutional duty, the court strengthens the enforceability of CSR, especially where corporate activity contributes to ecological damage.
+
+*   **Environment and Wildlife Conservation within CSR Scope:** The decision explicitly includes wildlife conservation and habitat restoration within the ambit of CSR, allowing conservationists to seek corporate funding for long-term ecological improvements.
+
+*   **Operationalizing Conservation Finance:** In the context of the Great Indian Bustard, CSR funds can support recurring costs like grassland restoration, breeding programs, and maintenance – areas often underfunded by public budgets.
+
+*   **Balancing Development and Ecology:** By modifying priority conservation areas and implementing expert committee recommendations, the court seeks to maintain corporate accountability while mitigating conflict with renewable energy expansion.
+
+Key Issues and Limitations of CSR-Focused Conservation
+
+*   **Lack of Specificity:** The decision does not clarify which companies should contribute how much, for how long, and to which projects, leaving implementation reliant on executive action and existing CSR compliance mechanisms.
+
+*   **Weak Accountability and Audit:** CSR enforcement still relies on disclosures and penalties under company law, which may be inadequate for ensuring result-based environmental outcomes.
+
+*   **Risk of Unequal Burden:** Without clear project-linked obligations, CSR duties may fall disproportionately on some firms while others, indirectly contributing to environmental harm, evade responsibility.
+
+*   **Lack of Implementation Capacity:** Grassland restoration, undergrounding power lines, and infrastructure relocation demand technical capacity, inter-agency coordination, and timely execution – which is beyond mere availability of funds.
+
+*   **Dynamic Ecological Challenge:** Species like the Great Indian Bustard are migratory; infrastructure risks extend beyond mapped priority zones, complicating targeted CSR deployment.
+
+Governance Implications of Making CSR Enforceable
+
+*   **Prevention and 'Polluter Pays' Principle:** The ruling brings CSR closer to environmental liability principles, where corporate finance supports prevention and remediation of ecological damage.
+
+*   **Corporate Accountability Beyond Profits:** It reinforces the notion that corporations are social actors whose responsibilities extend beyond shareholders to ecosystems and future generations.
+
+*   **Judicialization of CSR:** While environmental protection is strengthened, heightened judicial interpretation runs the risk of ambiguity unless supported by clear executive guidelines.
+
+Way Forward
+
+*   **Clear CSR-Environment Guidelines:** Issue sector-specific norms with defined contribution criteria and timelines, linking CSR obligations to environmental externalities.
+
+*   **Outcome-Based CSR Monitoring:** Shift from expenditure-focused reporting to ecological outcome indicators, with independent audits.
+
+*   **Project-Linked Corporate Responsibility:** Align CSR spending with location-specific environmental impacts, particularly for infrastructure and energy projects.
+
+*   **Institutional Coordination:** Strengthen coordination between environment ministries, state governments, regulators, and utilities to translate funds into timely action.
+
+*   **Complement Public Funding, Not Substitute:** CSR should complement, not substitute, the state’s responsibility for conservation and ecological restoration.
+
+Conclusion
+
+By embedding environmental conservation within the legal meaning of CSR, the Supreme Court has strengthened corporate accountability. However, the effectiveness of this shift will depend not just on principle but on clear rules, robust enforcement, and the state’s capacity to translate corporate funding into measurable ecological outcomes.
+
+Source: The Hindu

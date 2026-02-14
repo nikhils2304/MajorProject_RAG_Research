@@ -1,0 +1,429 @@
+The combination of two or more words with related meanings is called a Samasa (compound).
+
+The word "Samasa" means "to shorten" (সম্‌__ খঅস্+অ ঘেঞ)-সমাস).
+
+In the discussion of Samasa, we need to be familiar with the following terms:
+
+* Samas Pad (Compounding Word): Each of the words that combine to form a Samasa is called a Samasyaman Pad (constituent word). In the compound word “হাতঘড়ি” (hatghori - wristwatch), হাতে (hate - in hand), পরিবার (poribar - family/worn), and ঘড়ি (ghori - watch) are the three Samasyaman Pads.
+
+* Byasbakya (Explanatory Phrase): The sentence or phrase that explains the meaning of the Samasyaman Pads is called a Byasbakya or Bigraha Bakya (analytical sentence). Here, হাতে পরিবার ঘড়ি (hate poribar ghori - a watch worn on the hand) is the Byasbakya or Bigraha Bakya.
+
+* Samasta Pad (Compound Word): The new word formed by combining the constituent words is called the Samasta Pad. হাতঘড়ি (hatghori - wristwatch) is the Samasta Pad.
+
+* Purbapad (First Word): The first of the Samasyaman Pads is called the Purbapad (first word). In রাজার পুত্র (rajar putra - king's son), রাজা (raja - king) is the Purbapad.
+
+* Parapad (Last Word): The last or the following word of the Samasyaman Pads is called the Parapad or Uttarapad (last word). In পরিবার ঘড়ি (poribar ghori - family watch), ঘড়ি (ghori - watch) is the Parapad or Uttarapad. (উত্তর - later).
+
+That is, both Sandhi (joining of sounds) and Samasa (compounding) serve to shorten words. However, there are some differences between the two:
+
+1.  In Sandhi, adjacent sounds combine. | 1. In Samasa, multiple words with related meanings combine into one word.
+
+2.  Sandhi involves the joining of sounds. | 2. Samasa involves the joining of words.
+
+3.  In Sandhi, the meaning of each word remains intact. | 3. Only in Dvanda Samasa (copulative compound) does the meaning of each word remain intact. In Tatpurusha (determinative compound) and Karmadharaya (appositional compound), the last word is dominant. In Avyayibhava (indeclinable compound), the first word is dominant, and in Bahubrihi (exocentric compound), there is a dominance of the meaning of a third word that is implied.
+
+4.  Sandhi does not involve the elision of inflections. | 4. In most cases in Samasa, the inflectional endings of the first word are elided.
+
+5.  Sandhi does not change the meaning of words. | 5. Samasa can bring about many kinds of changes in the meaning of words.
+
+6.  In Sandhi, the order of the words remains intact. | 6. In some cases in Samasa, the two words change places.
+
+7.  In Sandhi, one word never replaces another. | 7. In some cases in Samasa, one word replaces another.
+
+Classification of Samasa
+
+According to Sanskrit grammar, Samasa is mainly divided into four types based on the dominance of meaning: 1. Avyayibhava (indeclinable compound), 2. Tatpurusha (determinative compound), 3. Dvanda (copulative compound), and 4. Bahubrihi (exocentric compound).
+
+In Karmadharaya, Dvigu (numerical compound), and Tatpurusha Samasa, the meaning of the Parapad or Uttarapad (last word) is dominant; in Dvanda Samasa, the meaning of both words is dominant; and in Bahubrihi, the meaning of a word other than the Samasyaman Pads is dominant. However, since the meaning of the Uttarapad is dominant, Karmadharaya and Dvigu Samasa are considered to be included under Tatpurusha Samasa in Sanskrit grammar. But in Bengali grammar, Karmadharaya and Dvigu are considered as separate Samasas.
+
+According to Bengali grammar, Samasa is of these eight types: 1. Karmadharaya, 2. Tatpurusha, 3. Dvanda, 4. Bahubrihi, 5. Dvigu, 6. Nitya Samasa (eternal compound), 7. Alop Samasa (non-elision compound), and 8. Bakyashrayi Samasa (sentence-dependent compound).
+
+Karmadharaya Samasa
+
+The Samasa in which the Purbapad is usually an adjective of the Parapad, and the meaning of the Parapad is dominant in the compound word, is called Karmadharaya Samasa. The different classifications of Karmadharaya Samasa are given below:
+
+1.1 Sadharana Karmadharaya (Ordinary Karmadharaya)
+
+* Adjective - Noun *
+
+পূর্ণ যে চন্দ্র - পূর্ণচন্দ্র (purno je chandra - purnachandra - full moon)
+
+উড়ো যে জাহাজ - উড়োজাহাজ (uro je jahaj - urojahaj - flying ship/airplane)
+
+মেজো যে মামা - মেজোমামা (mejo je mama - mejomama - middle uncle)
+
+নীল যে আকাশ - নীলাকাশ (nil je akash - nilakash - blue sky)
+
+Similarly: খাসমহল (khasmahal), সুপুরুষ (surupush), বিকচকেতকী (bikachketoki), শ্বেতচন্দন (shwetachandan), হেডমাস্টার (headmaster), গীতান্বর (gitanbar), ধুবতারা (dhubtara), মিষ্টান (mishtanno), শুচিবন্ত্র (suchibastro) নবযৌবন (nabajoubana), কালফীদ (kalfid), রক্তুচন্দন (raktuchandan), কড়াপাক (korapak), হাফমোজা (halfmoja), কীচকলা (kichkola), গন্ডগ্রাম (gondogram).
+
+* Noun - Adjective (Purbonipat - First Incidence) *
+
+ভাজা যে পটল - পটউলভাজা (bhaja je potol - potolbhaja - fried pointed gourd)
+
+সেদ্ধ যে ডিম - সেদ্ধডিম (seddho je dim - seddhodim - boiled egg)
+
+কতক যে দিন - দিনকতক (kotok je din - dinkotok - some days)
+
+বাটা যে হলুদ - হলুদবাটা (bata je holud - holudbata - ground turmeric)
+
+* Adjective - Adjective *
+
+যা অল্প তাই মধুর - অল্পমধুর (ja olpo tai modhur - olpomodhur - that which is little is sweet)
+
+যা স্নিগ্ধ তাই উজ্জ্বল - স্নিগ্ধোজ্জ্বল (ja snigdho tai ujjwal - snigdhojjwal - that which is smooth is bright)
+
+যে চালাক সেই চতুর - চালাকচতুর (je chalak sei chotur - chalakchotur - he who is clever is cunning)
+
+যিনি গণ্য তিনিই মান্য - গণ্যমান্য (jini gonno tini manno - gannomanno - he who is respected is honored)
+
+* Noun - Noun *
+
+যা গঙ্গা তাই নদী - গঙ্গানদী (ja ganga tai nodi - ganganadi - that which is Ganges is river)
+
+যা হিমালয় তাই পর্বত - হিমালয় পর্বত (ja himaloy tai porbot - himaloy porbot - that which is Himalayas is mountain)
+
+যিনি গুরু তিনিই দেব - গুরুদেব (jini guru tini deb - gurudev - he who is guru is god)
+
+যিনি চিৎ তিনিই আনন্দ - চিদানন্দ (jini chit tini anondo - chidanondo - he who is consciousness is bliss)
+
+Similarly: গিন্নিমা (ginnima), গোলাপফুল (golapful), পণ্ডিতমশাই (ponditmoshai), মাতৃদেবী (matridebi), ভারতভূমি (bharatbhumi).
+
+* Before - After *
+
+আগে ধোয়া পরে মোছা - ধোয়ামোছা (age dhoa pore mocha - dhoamocha - first wash then wipe)
+
+পূর্বে সুপ্ত পরে উত্থিত - সুপ্তোখিত (purbe supto pore utthito - suptotthito - previously sleeping, later risen)
+
+আগে কাটা পরে বাছা - কাটাবাছা (age kata pore bacha - katabacha - first cut then sort)
+
+1.2 Upamita Karmadharaya (Comparative Karmadharaya)
+
+The Karmadharaya Samasa in which the Purbapad is Upameya (that which is being compared) and the Uttarapad is Upamana (that which is being compared with) and where the common quality is not mentioned, is called Upamita Karmadharaya Samasa. Here, both the Purbapad and Uttarapad are nouns; but the Uttarapad has the sense of an adjective. For example:
+
+পুরুষ সিংহের মতো - পুরুষসিংহ (purush singher moto - purushingho - man like a lion)
+
+কর পল্লবের মতো - করপল্লব (kor pollober moto - korpollob - hand like a leaf bud)
+
+চরণ পদ্মের মতো - চরণপদ্ম (charan podmer moto - charanpodmo - feet like a lotus)
+
+কথা অমৃতের তুল্য - কথামৃত (kotha amriter tullo - kothamrito - words like nectar)
+
+* Purbapad Upamana and Uttarapad Upameya *
+
+চাঁদের মতো মুখ - চাঁদমুখ (chander moto mukh - chandmukh - face like the moon)
+
+আগ্নির মতো দৃষ্টি - আগ্নিদৃষ্টি (agnir moto drishti - agnidrishti - gaze like fire)
+
+সিংহের মতো শিশু - সিংহশিশু (singher moto shishu - singhoshishu - child like a lion)
+
+কদমের মতো ছাট - কদমছাট (kodomer moto chhat - kodomchhat - cut like a kadam flower)
+
+Similarly: চরণকমল (charankomol), পলাশলোচন (polashlochon), চন্দ্রানন (chondranon), চরিতামৃত (choritamrito), বাহুলতা (bahulota)
+
+1.3 Upamana Karmadharaya (Similative Karmadharaya)
+
+The Karmadharaya Samasa in which the Purbapad is Upamana and the Uttarapad is the common quality is called Upamana Karmadharaya Samasa. Here, the Purbapad is a noun and the Uttarapad is an adjective. For example:
+
+কাজলের মতো কালো - কাজলকালো (kajoler moto kalo - kajolkalo - black like kohl)
+
+হস্তীর মতো মুর্খ - হস্তীমুর্খ (hostir moto murkho - hostimurkho - fool like an elephant)
+
+বিড়ালের মতো তপস্বী - বিড়ালতপস্বী (biraler moto taposwi - biraltaposwi - ascetic like a cat)
+
+বকের মতো ধার্মিক - বকধার্মিক (boker moto dharmik - bokdharmik - religious like a heron)
+
+1.4 Rupak Karmadharaya (Metaphorical Karmadharaya)
+
+The Karmadharaya Samasa in which the Purbapad is Upameya and the Uttarapad is Upamana and there is an abheda (non-difference) or abhinnotaa (unity) between them.
+
+মন রুপ মাঝি - মনমাঝি (mon rup majhi - monmajhi - mind as boatman)
+
+দুঃখ রূপ অনল - দুঃখানল (dukh rup onol - dukhanol - sorrow as fire)
+
+জীবন রূপ নদ - জীবননদ (jibon rup nod - jibonnod - life as river)
+
+প্রাণ রুপ পাখি - প্রাণপাখি (pran rup pakhi - pranpakhi - life as bird)
+
+1.5 Madhyapadalopi Karmadharaya (Middle Term Eliding Karmadharaya)
+
+The Karmadharaya Samasa in which one or more terms in the middle of the Byasbakya are elided is called Madhyapadalopi Karmadharaya Samasa. For example:
+
+শহিদ স্মরণে পালিত দিবস - শহিদদিবস (shahid smarone palito dibos - shahiddibos - day observed in memory of martyrs)
+
+নীতি বিষয়ক শাস্ত্র - নীতিশাস্ত্র (niti bishoyok shastro - nitishastro - treatise on ethics)
+
+Similarly: বরফজল (borofjol), রাষ্ট্রনীতি (rashtroniti), জয়োল্লাস (joyullas), মানিব্যাগ (manibag), অনুষ্ঠানপত্র (onushthanpotro).
+
+Upamana Karmadharaya, Upamita Karmadharaya and Rupak Karmadharaya - these three types of Karmadharaya Samasa can be called Upamamulak Karmadharaya Samasa (similative Karmadharaya Samasa) because similarity is imagined with the help of simile.
+
+2.  Tatpurusha Samasa
+
+The Samasa in which the inflection of the Purbapad is elided and the meaning of the Parapad is prominently manifested is called Tatpurusha Samasa. In this Samasa, the inflectional signs or postpositions in place of inflections of Karaka (case) like Karma (objective), Karana (instrumental), Apadana (ablative) etc. of the Purbapad are elided. To form the Byasbakya of this Samasa, the inflectional signs or postpositions in place of inflections of Karaka like Karma, Karana, Apadana, Adhikarana etc. are added to the Purbapad according to the meaning. The different classifications and examples of Tatpurusha Samasa are given below:
+
+2.1 Karma Tatpurusha
+
+কাপড়কে কাচা - কাপড়কাচা (kapor ke kacha - kaporkacha - to wash clothes)
+
+চরণকে আশ্রিত - চরণাশ্রিত (charan ke ashrito - charanashrito - dependent on feet)
+
+হস্তকে গত - হস্তগত (hasta ke gato - hastagato - gone to hand)
+
+কলাকে বেচা - কলাবেচা (kola ke becha - kolabecha - to sell bananas)
+
+Similarly: লুচিভাজা (luchibhaja), তরীবাওয়া (toribaoya), গাঁটকাটা (gatkata), লোকদেখানো (lokdekhano), দেশোদ্ধার (deshoddhar).
+
+2.2 Karan Tatpurusha
+
+রোগ দ্বারা আক্রান্ত - রোগাক্রান্ত (rog dwara akranto - roggakranto - afflicted by disease)
+
+দা দিয়ে কাটা - দাকাটা (da diye kata - dakata - cut with a scythe)
+
+টেকি দ্বারা ছাঁটা - টেকিছাঁট (teki dwara chata - tekichat - husked by a teki)
+
+আশার দ্বারা হত - আশাহত (ashar dwara hato - ashahato - disappointed by hope)
+
+শ্রী দ্বারা হীন - শ্রীহীন (shri dwara hin - shrihin - devoid of grace)
+
+রক্তদ্বারা শূন্য - রক্তশূন্য (rakta dwara shunyo - raktashunyo - devoid of blood)
+
+Similarly: ট্রেনভ্রমণ (trainvromon), কলেছাঁটা (kolechata), বজ্বাহত (bajrahoto), রবীন্দ্ররচিত (rabindrarochito), শোকার্ত (shokarto), অশ্রুভরা (ashrubhora), গুরুদত্ত (gurudotto), তুয়ার্ত (tuyarto), আশাহত (ashahoto), বিদ্যাহীন (bidyahin), জ্ঞানশূন্য (gyanshunya), যুক্তিহীন (juktihin), জনশূন্য (jonshunya).
+
+2.3 Nimitta Tatpurusha
+
+তপের নিমিত্ত বন - তপোবন (taper nimitto bon - topobon - forest for penance)
+
+উন্নতির জন্য বিধান - উন্নতিবিধান (unnati jonno bidhan - unnati bidhan - provision for improvement)
+
+তীর্থের জন্য যাত্রা - তীর্থযাত্রা (tirtho jonno jatra - tirthojatra - journey for pilgrimage)
+
+ভাণ্ডারের নিমিত্ত ঘর - ভাণ্ডারঘর (bhandarer nimitto ghor - bhandarghor - room for storage)
+
+2.4 Apadan Tatpurusha
+
+মৃত্যু হইতে ভয় - মৃত্যুভয় (mritu hoite voy - mritubhoy - fear of death)
+
+দুগ্ধ থেকে জাত - দুগ্ধজাত (dugdho theke jato - dugdhajato - born from milk)
+
+জন্ম থেকে অন্ধ - জন্মান্ধ (janmo theke andho - jonmandho - blind from birth)
+
+রোগ থেকে মুক্ত - রোগমুক্ত (rog theke mukto - rogmukto - free from disease)
+
+Similarly: দেশভ্রষ্ট (deshbhrashto), জন্মস্বাধীন (janmoshadhin), খণমুক্ত (khonmukto), স্কুলফেরতা (schoolferota), খাপখোলা (khapkhola), চাকভাঙী (chakbhangi), বন্যাত্রাণ (bannatran).
+
+2.5 Sambandha Tatpurusha
+
+র,এর : রাজার পুত্র - রাজপুত্র (rajar putra - rajputra - king's son)
+
+মৃগের শিশু - মৃগশিশু (mrigero shishu - mrigoshishu - deer's child)
+
+মাতার মুক্তি - মাতৃমুক্তি (matar mukti - matrimukti - mother's liberation)
+
+জগতের জন - জগজ্জন (jagater jon - jagajjon - world's people)
+
+মিস্ত্রদের রাজা - রাজমিস্ত্রি (mistridered raja - rajmistri - king of masons)
+
+হংসের রাজা - রাজহংস (hongser raja - rajhongsho - king of swans)
+
+Similarly: সিপাহিবিদ্রোহ (sipahibidroho), শ্বশুরবাড়ি (shoshurbari), মউচাক (mouchak), গঙ্গামাটি (gangamati), ব্রাস্মসমাজ (brasmosomaj), রাজভূত্য (rajbhutya), রাজধানী (rajdhani), সুধাকর (sudhakor), ঘনঘটা (ghanaghota), আঁখিলোর (akhilur), গুণীসমাজ (gunisomaj).
+
+2.6 Adhikaran Tatpurusha
+
+এ,য়, তে : গৃহে বাস - গৃহবাস (grihe bash - grihobash - living in a house)
+
+জলে মগ্ন - জলমগ্ন (jole mogno - jolomogno - submerged in water)
+
+বস্তায় বন্দি - বস্তাবন্দি (bostay bondi - bostabondi - confined in a sack)
+
+গলায় ধাক্কা - গলাধাক্কা (golay dhakka - goladhakka - push on the neck)
+
+বাটাতে ভরা - বাটাভরা (batate bhora - batabhora - filled in a bowl)
+
+মাথাতে ব্যথা - মাথাব্যথা (mathate byatha - mathabyatha - headache)
+
+Similarly: বিলেতবাস (biletbash), গঙ্গাস্নান (gangasnan), অরণ্যজাত (aranyajato), কর্মব্যস্ত (karmobyasto), আকাশভ্রমণ (akashbroman), মনমরা (monmora).
+
+2.7 Na-Tatpurusha
+
+নয় মঞ্জুর - না মঞ্জুর (noy monjur - namonjur - not approved)
+
+নয় আচার - অনাচার (noy achar - anachar - not custom/misconduct)
+
+নাই খোঁজ - নিখোঁজ (nai khoj - nikhonj - without trace/missing)
+
+নয় সাধ্য - অসাধ্য (noy sadhyo - asadhyo - not possible/impossible)
+
+2.8 Upapada Tatpurusha
+
+গৃহে স্থ (আছেন) যিনি - গৃহস্থ (grihe stho (achen) jini - grihostho - he who lives in a house)
+
+খনিতে জন্মে যা - খনিজ (khanite jonme ja - khonijo - that which is born in a mine)
+
+মধু পান করে যে - মধুপ (modhu pan kore je - modhup - he who drinks honey)
+
+পদদ্বারা পান করে যে - পাদপ (poddara pan kore je - padop - that which drinks with feet)
+
+Similarly: অগ্রজ (ogrojo), দেশজ (deshojo), প্রকৃতিস্থ (prakritistho), দূরবস্থ (durbostho), কন্টস্থ (konthoshto), মোক্ষদা (mokshoda), বরদা (boroda), জলদ (jolodo), বনস্থ (bonostho), অগ্রে গমণ করে যে (ogre gamon kore je - agrogami - he who goes ahead), ইন্দ্রিয়কে জয় করেছেন যিনি (indriyoke joy korechen jini - jitendriyo - he who has conquered the senses), জ্ঞান হারিয়েছে যে (gyan hariyeche je - gyanhara - he who has lost consciousness), শত্রুকে হত্যা করে যে (shatruke hatya kore je - shatrughno - he who kills the enemy).
+
+2.9 Ekadeshi Tatpurusha
+
+(দেশ -অংশ) (desh - ongsho)
+
+দরিয়ার মাঝ - মাঝদরিয়া (doriyar majh - majhdoriya - middle of the sea)
+
+অহের অপরভাগ - অপরাহ্ন (oher oporbhag - oporanno - afternoon)
+
+Similarly: মধ্যাহ্ন (modhyanno), পূর্বাহু (purbahu), মাঝনদী (majhnodi).
+
+In Bengali, no separate inflection is used to denote "duration". Therefore, this type of Samasa is called Vyapti Tatpurusha Samasa. For example:
+
+চিরকাল ব্যাপিয়া যুবা - চিরযুবা (chirokal byapiya juba - chirojuba - forever young)
+
+জীবন ব্যাপিয়া আনন্দ - জীবনানন্দ (jibon byapiya anondo - jibonanondo - joy throughout life)
+
+চিরকাল ব্যাপিয়া হরিৎ - চিরহরিৎ (chirokal byapiya horit - chirohorit - evergreen)
+
+বিশ্ব ব্যাপিয়া যুদ্ধ - বিশ্বযুদ্ধ (bishwo byapiya juddho - bishwojudho - world war)
+
+(E) Kriabiklesan Tatpurusha (Adverbial Tatpurusha)
+
+অর্ধভাবে মৃত - অর্ধমৃত (ordhobhabe mrito - ordhomrito - half dead)
+
+নিম ভাবে রাজি - নিমরাজি (nim bhabe raji - nimraji - half agreed)
+
+আধ ভাবে পাকা - আধপাকা (adh bhabe paka - adhpaka - half ripe)
+
+অর্ধভাবে স্ফুট - অর্ধস্ফুট (ordhobhabe sphuto - ordhosphuto - half-blown)
+
+(Ee) Uposargo Tatpurusha (Prefixal Tatpurusha)
+
+The Samasa in which the Purbapad contains prefixes like উপ (upo), বি (bi), উৎ (ut) etc. is called Uposargo Tatpurusha Samasa.
+
+দ্বীপের সদৃশ - উপদ্বীপ (dwiper sadrisho - upodwip - like an island)
+
+আচার্যর সদৃশ - উপাচার্য (acharjer sadrisho - upacharjo - like an acharya)
+
+বিধিকে অতিক্রম না করে - যথাবিধি (bidhike otikrom na kore - jathabidhi - without violating the rules)
+
+নদীর সাদৃশ - উপনদী (nodir sadrisho - uponodi - like a river)
+
+Similarly: যথার্থ (jathartho), যথেচ্ছ (jathechho), ঠিকমতো (thikmoto), রীতিমতো (ritimoto), যথালাভ (jathalav), বিখ্যাত (bikhyato), উপকণ্ঠ (upokontho), যথেষ্ট (jathestho).
+
+(U) Abhabarthak Tatpurusha (Privative Tatpurusha)
+
+ভিক্ষার অভাব - দুর্ভিক্ষ (bhikhar abhab - durbhikh - lack of alms)
+
+ভাতের অভাব - হাভাত (bhater abhab - habhat - lack of rice)
+
+আমিষের অভাব - নিরামিষ (amishe abhab - niramish - lack of meat)
+
+মিলের অভাব - গরমিল (miler abhab - goramil - lack of agreement)
+
+বিঘ্বের অভাব - নির্বিঘ্ন (bighner abhab - nirbighno - lack of obstacles)
+
+সুরের অভাব - বেসুর (besur - lack of tune)
+
+Similarly: বেগতিক (begotik), বেকসুর (besur), হাঘরে (haghore), বেইজ্জত (beijjot), না-মিষ্টি (na-mishti), না-টক (na-tok).
+
+ক্ষণে ক্ষণে - প্রতিক্ষণ, অনুক্ষণ (khone khone - protikkhon, anukkhon - moment by moment)
+
+বছর বছর - ফি-বছর (bochor bochor - fi-bochor - year after year)
+
+অঙ্গে অঙ্জে - প্রত্যঙ্গ (onge onge - pratyongo - limb by limb)
+
+কণ্ঠ পর্যন্ত - আকণ্ঠ (kontho porjonto - akantho - up to the throat)
+
+হাঁটু পর্যস্ত - হাঁটুনাগাল (hantu porjonto - hatunagal - up to the knees)
+
+আদি থেকে অন্ত পর্যন্ত - আদ্যস্ত (adi theke onto porjonto - adyosto - from beginning to end)
+
+Similarly: আমৃত্যু (amritu), আমরণ (amaron), আজীবন (ajibon), আশৈশব (ashoisob), আকৈশোর (akoishor), আযৌবন (ajoubon), আজানু (ajanu), আদ্যোপান্ত (adyopanto), আমূল (amul), গলানাগাল (golanagal), আবালবৃদ্ধবনিতা (abalbriddhobonita), যাবজ্জীবন (jabajjibon), আসমুদ্র (asamudra), আকর্ণ (akorno), আবাল্য (aballyo).
+
+পক্ষের বিপরীত - প্রতিপক্ষ (pokkher biporit - protipokkho - opposite of the side)
+
+রূপের যোগ্য - অনুরূপ (ruper joggo - onurup - appropriate for the form)
+
+গুণের যোগ্য - অনুগুণ (guner joggo - onugun - appropriate for the quality)
+
+ক্ষুদ্র গ্রহ - উপগ্রহ (khudro groho - upogroho - small planet)
+
+তাপের পশ্চাৎ - অনুতাপ (taper poschat - onutap - after the heat)
+
+রণনের পশ্চাৎ - অনুরণন (rononer poschat - onuronon - after the reverberation)
+
+3.  Dvanda Samasa
+
+The word Dvanda means "paired". In this Samasa, the Purbapad and Uttarapad are joined by the conjunctions "ও" (o - and) and "আর" (ar - and). In the compound word, the conjunction is elided. In this Samasa, the meaning of both words is dominant.
+
+দেব ও দ্বিজ - দেবদ্ধিজ (deb o dwijo - debdwijo - god and twice-born)
+
+গুরু ও শিষ্য - গুরুশিষ্য (guru o shishyo - gurushishyo - teacher and student)
+
+দিন ও রাত - দিনরাত (din o rat - dinrat - day and night)
+
+বরও বধু - বরবধূ (boro bodhu - borobodhu - groom and bride)
+
+অন্নও বস্ত্র - অননবস্ত্র (onno o bostro - onnobostro - food and clothing)
+
+মাতা ও পিতা - মাতাপিতা (mata o pita - matapita - mother and father)
+
+3.1 Two Noun Pads Dvanda
+
+ধর্ম ও কর্ম - ধর্মকর্ম (dharmo o karmo - dharmokarma - religion and action)
+
+ফুল ও ফল - ফুলফল (ful o fol - fulfol - flower and fruit)
+
+ভাই ও বোন - ভাইবোন (bhai o bon - bhaibon - brother and sister)
+
+কুশ ও লব - কুশীলব (kush o lob - kushilob - Kush and Lav)
+
+স্বর্গ ও মর্ত্য - স্বর্গমর্ত্য (swargo o martyo - swargomortyo - heaven and earth)
+
+জন্ম ও মৃত্যু - জন্মমৃত্যু (janmo o mritu - janmomritu - birth and death)
+
+Similarly: বইখাতা (boikhata), চন্দ্রসূর্য (chondrosurjo), গ্রহনক্ষত্র (grohonokhotro), বন্ধুবান্ধব (bondhubandhob), যাতায়াত (jatayat), রক্তমাংস (roktomangsho), জামাকাপড় (jamakapor), স্কুলকলেজ (schoolcolege), চোখকান (chokhkan), হাতপা (hatpa), পথঘাট (pothghat), ছেলেমেয়ে (chhelemiye), বউঝি (boujhi), কইমাগুর (koimagur), শালসেগুন (shalsegun), সুখশান্তি (sukhshanti), নদনদী (naddonodi), দাসদাসী (dasdasi), পিতাপুত্র (pitaputro), মাসিপিসি (masipisi), দরজী-জানালা (dorji-janala), ধুতিচাদর (dhutichador), গোরুবাছুর (gorubachur), মুড়িমুড়কি (murimurki), পড়াশোনা (porashona), নাচগান (nachgan), বলা-কওয়া (bola-koa), আসা-যাওয়া (asa-jaoa), ধোয়ামোছা (dhoamocha), দেখাশোনা (dekhashona), কায়দাকানুন (kaydakanun), যুগযুগান্তর (jugjugantor), নিশিদিন (nishidin), ধানদূর্বা (dhandurba), অশনবসন (ashonboson).
+
+3.2 Two Pronoun Pads Dvanda
+
+তুমি ও আমি - তুমি-আমি (tumi o ami - tumi-ami - you and me)
+
+আমার ও তোমার - আমার-তোমার (amar o tomar - amar-tomar - mine and yours)
+
+Similarly: একে-ওকে (eke-oke), যাকে-তাকে (jake-take), একে-তাকে (eke-take), যে-সে (je-se), যার-তার (jar-tar), এটা-সেটা (eta-seta), ইনি-উনি (ini-uni).
+
+3.3 Two Adjective Pads Dvanda
+
+ভালো ও মন্দ - ভালোমন্দ (bhalo o mondo - bhalomondo - good and bad)
+
+সাদা ও কালো - সাদাকালো (sada o kalo - sadakalo - white and black)
+
+ধনী ও দরিদ্র - ধনীদরিদ্র (dhoni o doridro - dhonidoridro - rich and poor)
+
+হিত ও অহিত - হিতাহিত (hito o ohito - hitahito - good and bad)
+
+Similarly: ন্যায়-অন্যায় (nay-onnay), সহজসরল (sohojsorol), ক্ষুদ্র-বৃহৎ (khudro-brihot), ছোটোবড়ো (chhotoboro), উচ্চনীচ (ucchonich), উঁচুনীচু (unchonichu), নীললোহিত (nillohito), হতাহত (hotahoto), কাঁচাপাকা (kachapaka), চেনা-অচেনা (chena-ochena), লঘুগুরু (loghuguru), টকঝাল (tokjhal), ইতরভদ্র (itorvhodro), কাটাছেঁড়া (katachera), আঁকাবাঁকা (akabaka), বাঁকাট্যারা (bakatara), নাদুসনুদুস (nadusonudus), গোলমাল (golmal), সত্যমিথ্যা (satyomithya), ঠান্ডাগরম (thandagorom), নরমে গরমে (norome gorome), লালনীল (lalonil), সরুমোটা (sorumota).
+
+3.4 Two Verb Pads Dvanda
+
+হেসে ও খেলে - হেসেখেলে (hese o khele - hesekhele - laughing and playing)
+
+হেসে ও কেদে - হেসেকেঁদে (hese o kede - hesekede - laughing and crying)
+
+নেচে ও গেয়ে - নেচেগেয়ে (neche o geye - nechegeye - dancing and singing)
+
+রেখে ও ঢেকে - রেখেঢেকে (rekhe o dheke - rekhedheke - keeping and covering)
+
+Similarly: হারজিত (harjit), পড়িমরি (porimori), বলে-কয়ে (bole-koye), শুয়েবসে (shuyebose), চেয়েচিন্তে (cheyechinte), দেখেশুনে (dekheshune), দিয়েথুয়ে (diyethuye), কেঁদে ককিয়ে (kende kokiye), হেটে-চলে (hete-chole), জেনেশুনে (jeneshune), চলাফেরা (cholaphera), নাচ-গাও (nach-gao), দেখ-শোন (dekh-shon).
+
+3.5 Synonymous Dvanda
+
+শাক ও সবজি - শাকসবজি (shak o sobji - shaksobji - vegetables and greens)
+
+অন্য ও অন্য - অন্যান্য (onno o onno - onnanno - other and other/others)
+
+Similarly: মাথামুন্ডু (mathamundu), ছাইভস্ম (chhaivashmo), ছাইপাঁশ (chhaipansh), ছেলেছোকরা (chhelechhokra), লোকজন (lokjon), হাটবাজার (hatbazar), লঙকাশরম (longashorom), ঘরবাড়ি (ghorbari), মায়ামমতা (mayamomota), যাগযজ্ঞ (jagjoggo), দয়ামায়া (dayamaya), মামলামোকদ্দমী (mamlamokoddami), ভয়ডর (voydor), চালাক-চতুর (chalak-chotur).
+
+3.6 Antonymous Dvanda
+
+সুর ও অসুর - সুরাসুর (sur o asur - surasur - gods and demons)
+
+পাপও পুণ্য - পাপপুণ্য (papo o punyo - p

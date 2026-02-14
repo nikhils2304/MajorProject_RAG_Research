@@ -1,0 +1,135 @@
+Reimagining India's Consumer Price Index
+
+This editorial is based on the article titled "Moving on: On India's Consumer Price Index and a new base year" published in The Hindu on January 15, 2026. The article highlights the importance of the recently undertaken CPI base year revision and related reforms in better representing inflation assessments in line with India's changing consumption patterns.
+
+The Consumer Price Index (CPI), a key measure of fluctuations in retail prices, stood at 1.33% on an annual basis in December 2025, well below the Reserve Bank of India’s (2% to 6%) target range. This indicates subdued price pressures in the economy. Despite this positive figure, the CPI data consistently masks negative food inflation and divergences between rural and urban trends, complicating policy discourse. With the revised CPI series (base year 2024) soon to be released, concerns remain about the cost of living among vulnerable families. Understanding the dynamics of the CPI is crucial for balanced policy responses.
+
+What is the Consumer Price Index (CPI)?
+
+§ Introduction: The Consumer Price Index (CPI) is a statistical measure that depicts the average change over time in the prices paid by consumers for a fixed basket of goods and services used for daily consumption.
+
+o In contrast, the Wholesale Price Index (WPI) assesses the average change in the prices of goods at the wholesale or producer level.
+
+o India's retail inflation, as measured by the CPI, stood at 1.33% in December 2025.
+
+§ Key Types of CPI:
+
+o Combined CPI (Rural+Urban): Base Year—2012, used as a key inflation indicator and for RBI's monetary policy (inflation targeting).
+
+o CPI for Industrial Workers (IW): Base Year—2016, used for revising the Dearness Allowance (DA) of industrial and central government employees.
+
+o CPI for Agricultural Labourers (AL): Base Year—2019, used to track changes (inflation) in the cost of living for agricultural laborers in India, used for wage determination and social security analysis.
+
+o CPI-Rural Labourers (CPI-RL): Base Year—2019, it measures the price changes faced by rural laborer families, used in minimum wage determination and evaluation of rural livelihood conditions.
+
+§ Institutions Issuing CPI:
+
+o CPI-Combined, CPI-Rural, and CPI-Urban are released by the National Statistical Office (NSO), used for retail inflation measurement and policy purposes.
+
+o CPI-Industrial Worker, CPI-Agricultural Laborer, and CPI-Rural Laborer are released by the Labour Bureau, primarily used for wage determination, dearness allowance revision, and worker welfare-related purposes.
+
+§ Key Components of CPI (with weightage):
+
+o Food and Beverages (45.86%) — Highest weight
+
+o Miscellaneous (28.32%) — Health, Education, Transport
+
+o Housing (10.07%)
+
+o Fuel and Light (6.84%)
+
+o Clothing and Footwear (6.53%)
+
+o Pan, Tobacco and Intoxicants (2.38%)
+
+What is the difference between the Consumer Price Index and the Wholesale Price Index?
+
+| Aspect | Consumer Price Index (CPI) | Wholesale Price Index (WPI) |
+
+|---|---|---|
+
+| Meaning | Measures average price changes at the retail/consumer level | Measures average price changes at the wholesale/producer level |
+
+| Inflation Type | Retail or cost of living inflation | Wholesale or producer inflation |
+
+| Compiled by | National Statistical Office (NSO), Ministry of Science and Technology | Office of Economic Advisor (OEA), Ministry of Commerce and Industry |
+
+| Base Year | Year 2012 = 100 (Revision till 2024 is ongoing) | Year 2011–12 = 100 |
+
+| Used by RBI | Used for targeting inflation | Not used for inflation targeting |
+
+What are the major issues associated with India's Consumer Price Index?
+
+§ High Weightage of Food Items Bias: With food and beverages holding nearly 46% weightage in the combined CPI, inflation becomes excessively sensitive to monsoon shocks, supply disruptions, and volatility in food prices, often overstating generalized inflation.
+
+o For example, in June 2024, a sharp increase in vegetable prices pushed the headline CPI above the Reserve Bank of India's tolerance band, while 'core inflation,' measured excluding food and fuel, remained comparatively moderate.
+
+§ Digital Blindspot—Invisibility of Modern Services: Rapid urbanization and growing consumption of digital services are not adequately reflected in the CPI, leading to limited representation of inflationary pressures faced by the urban middle class.
+
+o The index does not incorporate the post-2016 digital revolution and overlooks essential modern expenditures like smartphones, 5G data packs, OTT subscriptions, and the gig economy.
+
+• Due to the inability to assess these 'new necessities,' the CPI underestimates the actual cost of living for the average Indian family, especially in urban areas.
+
+§ Dominance of Supply-Side Driven Inflation: In India, CPI inflation is often driven by supply shocks (food items, fuel, logistics) rather than demand, limiting the effectiveness of interest rate-based monetary policy.
+
+o India imports approximately 85% of its crude oil requirements, making domestic inflation highly vulnerable to global price shocks.
+
+• For example, the rise in crude oil prices in 2022 after the Ukraine war rapidly increased fuel and transportation costs, leading to CPI growth despite a decline in domestic demand.
+
+§ Limited Regional Accuracy: While the CPI provides national and broad rural-urban estimates, it does not adequately represent the sharp price disparities existing between states and cities. This limits the utility of state-specific policy responses.
+
+o For example, during 2022–23, food inflation was high in urban centers like Bangalore and Hyderabad due to increased vegetable prices, while price increases were relatively low in many eastern and northern states. Despite this, the CPI only displayed the average national trend.
+
+• Thus, the hiding of price pressures at the state and city level limits the ability of state governments to target fiscal, taxation or market-based interventions.
+
+§ Inconsistency with Wage Inflation: CPI inflation is not always consistent with wage increases, especially in the informal sector, leading to a decline in real income despite moderate headline inflation.
+
+o For example, top CPI inflation fell to around 1.3% in December 2025, yet weak wage growth, reflected in average monthly incomes of around ₹24,400 in urban areas and ₹17,000 in rural areas (PLFS 2023-24), means that many informal and low-wage workers faced a decline in real income, highlighting the gap between price stability and livelihood security.
+
+§ Structural Underestimation of Housing Inflation: The CPI housing index, with a weightage of 10.07%, relies heavily on outdated fixed rent and government housing data rather than reflecting dynamic, market-linked rental trends.
+
+o It also does not include estimated rent for rural families. As a result, this index greatly underestimates the actual cost of living, where fluctuations in real estate significantly reduce the purchasing power of families.
+
+§ Informal Market Issues: Due to price collection from informal markets, it becomes difficult to adjust for quality improvements, reduction in inflation, and hidden price increases, thereby affecting accuracy.
+
+o For example, in informal retail markets, packaged food items often experience 'shrinkflation' (i.e., less quantity at the same price or silently declining quality), which is not fully reflected in the recorded prices.
+
+• As a result, families face effective costs of living that are higher than those shown by the CPI, leading to an underestimation of actual inflationary pressures.
+
+What measures are necessary to strengthen India's Consumer Price Index?
+
+§ Balancing the Excessive Weightage of Food Items: With food and beverages accounting for approximately 46% of the CPI-Combined, India's top inflation remains disproportionately affected by supply-side shocks.
+
+o In line with Engel's Law—according to which the ratio of food expenditure in total income decreases as income increases, even if the actual expenditure on food increases—and in the context of rising income, a gradual rebalancing of weights is necessary. Also, greater emphasis on core inflation for policy signals can improve monetary transmission without neglecting food security concerns.
+
+§ Strengthening Regional CPI: India's CPI framework mainly provides national and broad rural-urban indices, which hides inter-state and inter-city inflation differences.
+
+o Expanding the network of price collection centers and publishing state-level and major city-level CPI indices will enable decentralized inflation management and improve center-state coordination in dealing with region-specific price pressures.
+
+§ Better Measurement of Housing and Services Inflation: Despite rapid urbanization, the representation of housing and services inflation in the CPI is inadequate due to limited rental market coverage and methodological constraints.
+
+o There is a need to better understand urban rental trends, private education fees, healthcare costs, and transportation services.
+
+o Strengthening urban price surveys along with integrating administrative datasets such as municipal rent records, school fee structures, and insurance premiums will bring the CPI closer to actual living cost conditions.
+
+§ Management of Supply-Side Inflation: A significant portion of CPI instability in India arises from supply-side factors, which are beyond the immediate control of monetary policy.
+
+o Such inflationary situations require non-monetary interventions, including buffer stock management, well-planned trade policies, logistics improvements, and market reforms.
+
+• Strengthening institutional coordination between the RBI and ministries related to agriculture, food, and commerce can prevent over-reliance on interest rate instruments to deal with structurally-induced price pressures.
+
+§ Exposing Hidden Inflation in Informal Markets: CPI price collection in India largely relies on informal markets, where quality variations, shrinkage inflation, and product substitutions are common, often underestimating inflation.
+
+o Based on the recommendations of the OECD Manual on CPI Measurement, India needs to adopt hedonic pricing methods and digital price tracking to adjust for changes in quality.
+
+o Using GST data, e-commerce prices, and scanner data will improve accuracy and ensure that the CPI reflects real changes in consumer purchasing power rather than nominal price stability.
+
+§ Reducing Seasonal Instability Through Structural Reforms: Seasonal fluctuations in agricultural prices continue to cause sharp month-on-month instability in CPI readings, complicating policy responses.
+
+o The Dalwai Committee on Doubling Farmers' Income has emphasized investing in cold storage, food processing, post-harvest infrastructure, and market integration through platforms like e-NAM.
+
+o These structural reforms will reduce wastage, facilitate supply chains, and stabilize consumer prices, making the CPI a more reliable indicator for broader economic management.
+
+Conclusion:
+
+Although the Consumer Price Index (CPI) remains the official measure of retail inflation in India, its long-term reliance on the base year of 2012 has limited its ability to reflect changing consumption patterns, services inflation, and urban cost pressures. The base revision being done till the year 2024 based on the latest Household Consumption Expenditure Survey is a significant step towards improving representation, weightage, and item coverage. With better regional details and use of core inflation indicators, this reform will strengthen monetary policy transmission. Thus, a regularly updated CPI will better reflect the real cost of living changes in a rapidly changing Indian economy.

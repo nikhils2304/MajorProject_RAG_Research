@@ -1,0 +1,171 @@
+Building Resilience in India’s Critical Minerals Ecosystem
+
+This article is based on the article titled "Refining India’s future in critical minerals” published in The Hindustan Times on 12/01/2026. This article reviews the increasing role of critical minerals in guiding India's clean energy transition, industrial expansion, and strategic autonomy. At the same time, it analyzes the policy measures necessary to ensure resilient and sustainable mineral supply chains.
+
+Critical minerals have emerged as the strategic cornerstone of the 21st century economy, supporting advanced and emerging technologies. As the global transition towards renewable energy intensifies, control over mineral supply chains is redefining geopolitical equations and economic competition. Nevertheless, excessive concentration of production and processing gives rise to supply risks and strategic sensitivities. In the context of India, secure and stable access to critical minerals is indispensable for achieving net-zero targets, self-reliant India, and advanced manufacturing from the point of view of national development and security.
+
+What are critical minerals?
+
+§ Introduction: Critical minerals are those minerals that are essential for economic growth, energy transition, and national security, but whose supply chains are likely to be disrupted due to import dependence, geopolitical concentration, or limited domestic availability.
+
+o The Government of India has released a list of 30 critical minerals for the country.
+
+• These minerals include antimony, beryllium, bismuth, cobalt, copper, gallium, germanium, graphite, hafnium, indium, lithium, molybdenum, niobium, nickel, PGE, phosphorus, potash, REE, rhenium, silicon, strontium, tantalum, tellurium, tin, titanium, tungsten, vanadium, zirconium, selenium and cadmium.
+
+§ These are important because:
+
+o Their economic and strategic importance is extremely high.
+
+o Domestic reserves are limited.
+
+o Dependence on imports is high.
+
+o Global supply is geographically highly concentrated.
+
+o Replacement is difficult.
+
+§ Usage: Critical minerals play a key role in clean energy transition and modern industries. Their applications can be seen in the following areas:
+
+o Clean Energy: Solar, wind, electric mobility and energy storage are the cornerstones of India's clean energy transition, which are dependent on critical minerals.
+
+• Silicon, tellurium, indium and gallium are used in solar PV systems, while rare earth elements such as neodymium and dysprosium are required for permanent magnets in wind turbines.
+
+• The expansion of the National Electric Mobility Mission Plan (NEMMP) and renewable energy integration schemes will lead to a rapid increase in the demand for lithium, cobalt and nickel in EV and grid-level storage.
+
+o Electronics and Semiconductors: Critical minerals such as gallium, germanium, silicon, indium and rare earth elements are essential for the manufacture of semiconductors, smartphones, computers, LEDs and microchips.
+
+o Defence and Strategic Technologies: Rare earth elements, titanium, tungsten and beryllium are used in missile guidance systems, radar, fighter aircraft, drones and night vision equipment. Secure access to these minerals is extremely important for defense preparedness and strategic autonomy.
+
+o Space and Aviation Technology: Critical minerals such as titanium, lithium and rare earth elements are used in aircraft engines, satellites and space launch vehicles as they have a high weight-to-weight ratio and are heat resistant. Their demand will further increase with India's growing space sector and Gaganyaan mission.
+
+o Nuclear Energy: Uranium, zirconium and rare earth elements are used in nuclear fuels, reactors and control rods. As India aims to increase nuclear energy capacity to ensure clean basic energy, the strategic importance of these minerals increases further.
+
+o Telecommunications and Digital Infrastructure: Copper, rare elements and lithium are important for 5G networks, optical fiber cables, data centers and power backup systems. India's digital expansion under Digital India and BharatNet depends heavily on these elements.
+
+o Medical and Healthcare Technologies: Critical minerals such as rare earth elements, platinum group metals and cobalt are used in MRI machines, X-ray systems, cancer treatment equipment and medical implants, thereby improving diagnostic and treatment capabilities.
+
+o Manufacturing and Advanced Materials: Tungsten, chromium, nickel and molybdenum are used in high-strength alloys, stainless steel and industrial machinery, supporting sectors such as manufacturing, automobiles and heavy engineering.
+
+o Water Treatment and Environmental Management: With the increasing water crisis, critical minerals are becoming essential for the purification and management of water resources. Rare earth elements (such as lanthanum and cerium) are used in special filters to remove heavy metals and phosphates from waste water.
+
+o Availability of domestic reserves in India: India has geological potential for several critical minerals such as lithium, graphite, copper and rare earth elements, but most of these reserves have not yet been fully explored or commercially mined.
+
+• For example, lithium deposits have been identified in Jammu and Kashmir, but large-scale mining has not started.
+
+What reforms has India made regarding critical minerals?
+
+§ National Critical Minerals Mission (NCMM): The government has launched the National Critical Minerals Mission. The aim of which is to promote exploration, domestic mining and processing, encourage recycling and strengthen research and technology of critical minerals.
+
+o In the regional session of 2024-25, the Geological Survey of India (GSI) has started 195 projects focused on identification and evaluation of critical mineral deposits, including 35 projects in Rajasthan.
+
+o In addition, it calls for the establishment of a Center of Excellence (CECM) to periodically update the list of critical minerals and provide technical guidance for processing and value addition.
+
+§ Legislative Reforms: The Mines and Minerals (Development and Regulation) Amendment Act, 2023 has made major reforms in India's mining sector to implement policy reforms in line with global targets on critical minerals.
+
+o Under this Act, six minerals including lithium, titanium and zirconium have been removed from the list of atomic minerals, making them accessible for wider participation.
+
+o In addition, an exploration license system has been implemented to promote deep and critical mineral exploration.
+
+§ Recycling and Urban Mining: Since domestic mining takes time, India is promoting the recycling of batteries, e-waste and electronic goods to recover critical minerals.
+
+o For example, under the incentive scheme promoting the recycling of critical minerals, Rs 1,500 crore has been allocated to develop recycling capacity in the country for separation and production of critical minerals from secondary sources.
+
+o This promotes a circular economy and reduces dependence on imports.
+
+§ Promotion of Manufacturing and Processing: The government is promoting domestic manufacturing of rare-earth magnets, batteries and semiconductor materials to create value chains within India to reduce dependence on imports of raw materials.
+
+o For example, IREL's efforts to expand rare earth processing and magnet manufacturing, the PLI scheme for Advanced Chemistry Cell (ACC) batteries, and the Semiconductor Mission supporting fabrication and compound semiconductor units, demonstrate India's shift from mineral dependence to value-added manufacturing.
+
+§ Regulatory Simplification: In September 2025, the Ministry of Environment, Forest and Climate Change (MoEFCC) exempted mining projects of nuclear, critical and strategic minerals from public consultation, citing national security and strategic concerns.
+
+o However, these projects will be extensively evaluated by regional expert committees and approved at the central level regardless of the size of the project.
+
+§ International Cooperation: India is partnering with other countries through bilateral and multilateral initiatives to ensure sustainable supply of critical minerals and to invest in foreign mining and processing projects.
+
+o For example, KABIL's foreign partnerships include a lithium exploration agreement with Argentina's CAMYEN SE (covering 15,703 hectares of lithium exploration) and a Memorandum of Understanding with Australia's Critical Mineral Office.
+
+o India has joined the US-led Minerals Security Partnership (MSP) Finance Network to ensure a sustainable supply chain for critical minerals.
+
+o In addition, India is leveraging QUAD cooperation (India-US-Japan-Australia) and Indo-Pacific economic initiatives to diversify import sources, secure purchase agreements and reduce strategic import vulnerabilities.
+
+What are the major obstacles in ensuring availability and security of critical minerals before India?
+
+§ High import dependence: India is almost entirely dependent on imports for minerals such as lithium, cobalt and nickel (there was 100% import dependence in FY 2024).
+
+o Global supply chains are highly concentrated, with China leading in refining and processing (with more than 90% processing), making India vulnerable to price volatility, export controls and geopolitical pressures.
+
+• For example, export controls imposed by China on rare-earth elements and permanent magnets by 2025 have exposed India's vulnerability due to its heavy dependence on imports.
+
+o According to a report by the Institute for Energy Economics and Financial Analysis (IEEFA), India's demand for critical minerals is likely to more than double by 2030, which will further exacerbate this challenge.
+
+§ Limited Domestic Exploration: Exploration in India is slow due to inadequate geological data, limited private participation and high exploration risk.
+
+o Many potential reserves are located in ecologically sensitive or tribal areas, which complicates mining approvals and operations.
+
+• For example, only about 10% of India's Apparent Geological Potential (OGP) has been explored and India spends less than 1% of global exploration expenditure, meaning that many critical mineral deposits are still unseen or undervalued.
+
+§ Weak processing capabilities: Even where minerals are available, India lacks downstream processing, separation and refining capacity, especially for rare earth elements and battery-grade materials.
+
+o This increases dependence on foreign value chains, which weakens strategic autonomy.
+
+• For example, India has reserves of about 6.9 million tonnes of rare earth elements, which is among the top three countries in the world, but
+
+Its actual contribution to global production is less than 1% because it currently lacks the capacity to refine these minerals into high-purity metals or alloys.
+
+§ Resource Nationalism and Geopolitical Competition: Rising global demand has fueled resource nationalism, long-term acquisition obstruction, and strategic storage by major powers.
+
+o India faces stiff competition from China, the US and the European Union in accessing foreign mineral assets.
+
+o Securing long-term 'offtake agreements' is difficult when competing countries offer infrastructure-for-minerals agreements, which India struggles to meet with current fiscal constraints.
+
+• For example, Chinese companies invested $4.3 billion in acquiring lithium assets between 2018 and the first half of 2021, double the amount invested jointly by companies from the United States, Australia and Canada during the same period.
+
+§ Environmental-Social Conflict: Critical mineral mining involves high ecological footprint, water crisis and displacement risks. Balancing sustainability and accelerated extraction remains a major governance challenge.
+
+o For example, the Democratic Republic of Congo (DRC), which provides approximately 70% of global cobalt supply, highlights serious ESG challenges in critical mineral mining at a global level.
+
+o The proposed tungsten mining project in Nayakkarpatti near Madurai, Tamil Nadu, has faced stiff local opposition in India due to concerns over groundwater crisis, impact on agricultural livelihoods and impact on surrounding biodiversity-rich areas.
+
+§ Recycling Related Obstacles: India has limited advanced extraction technologies, mineral substitution and large-scale recycling (urban mining) potential. Low recovery rates from e-waste limit the potential of circular economy solutions.
+
+o India generates approximately 1.75 million tonnes of e-waste and approximately 60 kilo tonnes of used lithium-ion batteries every year, which provides significant potential to recover critical minerals such as lithium, cobalt and nickel.
+
+§ Commercial Risks: Foreign mining projects involve high capital, long duration and political risk in host countries. The limited risk capacity of Indian public sector undertakings and private companies hinders strategic investments.
+
+o For example, the Adani Carmichael mine in Australia faced nearly a decade of delays due to environmental approvals and local protests.
+
+§ Extreme Price Volatility and Market Risk: The market for critical minerals is smaller and more opaque than petroleum, making it highly susceptible to 'extremely competitive pricing', where major global players can lower prices to make new Indian mining projects commercially unviable. In the absence of a 'minimum price' arrangement or domestic purchase guarantees, Indian private companies are hesitant to invest billions of dollars required for long-term infrastructure.
+
+o For example, lithium prices fell by nearly 80% between 2022 and 2024 despite long-term demand growth.
+
+o This type of price volatility can make new mining projects commercially unviable and discourage Indian private investors from investing more capital in the absence of assured domestic demand or a price-band mechanism.
+
+What measures are needed to secure India's critical minerals ecosystem?
+
+§ From Resource Mapping to Deep Exploration: India needs to move beyond the limitations of basic geological surveys and adopt deep, technology-driven exploration using advanced technologies such as AI, hyperspectral imaging and 3-D geophysics.
+
+o Experience from Australia and Canada shows that publicly disclosing high-quality geology data and state support in early exploration can attract private investment.
+
+§ Building Complete Domestic Value Chains: Mining alone is not enough. India needs to invest in processing, separation and refining, especially for rare elements and battery-grade materials, which are currently dominated by China.
+
+o Targeted fiscal incentives, anchor-firm models and clustering near ports can help India move up the value chain.
+
+§ Making Recycling a Strategic Source: Urban mining should be considered the third pillar of mineral security alongside domestic mining and foreign assets. Promoting formal e-waste and battery recycling, adopting advanced hydrometallurgical technologies and implementing EPR can transform waste into a strategic resource.
+
+§ Strengthening Foreign Mineral Security: India should undertake equity stakes, long-term purchase agreements and joint ventures in resource-rich regions such as Africa, Latin America and Australia.
+
+o Strengthening KABIL, providing sovereign guarantees and establishing balance with platforms such as the Mineral Security Partnership will increase competitiveness against China, the US and the EU.
+
+§ Expedited Approval with ESG: Socially legitimate and environmentally responsible mining is essential for future preparedness.
+
+o Streamlining the approval process, ensuring meaningful consultation under the Forest Rights Act (FRA) and PESA, sharing benefits with tribal communities and implementing robust rehabilitation frameworks will reduce project conflict and delays.
+
+§ Investing in Research and Development: India should reduce its vulnerabilities by investing in alternative battery chemistries (sodium-ion, zinc-air), rare-earth substitution and material efficiency.
+
+o Integrating Centers of Excellence with DRDO, academia and industry will promote strategic innovation.
+
+§ Create Strategic Reserves: Just as crude oil reserves protect energy security, strategic reserves of lithium, cobalt and rare elements can protect India from supply disruptions, export controls and price volatility.
+
+Conclusion:
+
+Critical minerals build the infrastructure of the future, continuously powering clean energy, digitization and national security. The real challenge for India is to increase access to these minerals while balancing strategic security, environmental sustainability and resource sovereignty. A well-planned approach, integrating domestic capacity, responsive mining and global partnerships, can realize the vision of a self-reliant India. This strategy will not only accelerate sustainable development goals but also strengthen India's long-term strategic autonomy in a resource-constrained global landscape.

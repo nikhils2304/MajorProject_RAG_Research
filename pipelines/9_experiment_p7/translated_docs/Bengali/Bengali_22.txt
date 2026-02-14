@@ -1,0 +1,193 @@
+Many of us say "iskul" instead of "school," "gelas" instead of "glass," or "bask" instead of "boks."
+
+Why does this happen? Is there a reason behind this, are there specific rules for such changes? Before seeking answers to these questions, let's look at another word. It wouldn't be a great sin to say or write "bileti" or "biliti" for the same word "bilati." But if the question of why the sudden need for change arises in your mind, then you have to open the fourth-grade "Language Practice" book once. You must remember that "i" is a high vowel sound and "a" is a low vowel sound, that is, the tongue stays up and down respectively while uttering these sounds. Now, while saying "bilati," the tongue has to go to the positions of i-a-i, that is, high-low-high. This effort can be saved by changing the low vowel to a mid-vowel, that is, i-e-i, so "bilati" becomes "bileti," and saying "biliti" is even better, as the tongue has to work the least then.
+
+This is the main reason for sound change, that is, the vocal organs' natural tendency towards simplifying pronunciation. We want to arrange nearby sounds according to their place of articulation. So, we want to simplify pronunciation by changing the different sounds within a word. The meaning of the word remains intact, but from a phonological point of view, there are various transformations in the external form of the word. In grammar and linguistics, this is called sound change. The stage of sound change is not accidental, it follows the pronunciation tendencies of a language community and is long-term. It is connected with the history of the evolution of the language.
+
+There are three streams of sound change, respectively: (a) sound addition, (b) sound deletion, and (c) sound transformation. It should be remembered that the term "sound" here refers to both vowels and consonants. The addition of vowel and consonant sounds are respectively called vowel addition and consonant addition, the deletion of vowel and consonant sounds are respectively called vowel deletion and consonant deletion, and the transformation of vowel and consonant sounds are respectively called vowel harmony and consonant harmony or assimilation.
+
+As stated earlier, the addition of sound can be divided into two main parts, vowel addition and consonant addition. We will first discuss the addition of vowels, and then come to the topic of consonant addition.
+
+Vowel Addition: The process of reducing pronunciation effort by inserting a vowel sound before, after, or in the middle of a combined consonant at the beginning, middle, or end of a word can be called vowel addition. It is easy to see that vowel addition can be of three types: initial vowel addition, middle vowel addition, and final vowel addition.
+
+1. Initial Vowel Addition: If there is a combined consonant at the beginning of a word, a convenient vowel sound is added before the combined consonant for ease of pronunciation. This is called initial vowel addition. For example: "spordha" becomes "aspordha," "station" becomes "istation," etc.
+
+2. Middle Vowel Addition: If there is a combined consonant in the middle of a word, the practice of increasing the beauty of the word by inserting a vowel sound between the two combined consonants for the sake of reducing pronunciation effort, simplification, or rhythm is called middle vowel addition. Here, since the combined consonant is separated with the help of a vowel sound, another name for middle vowel addition is "vowel separation." Again, since the beauty or excellence of the word can be particularly and excellently enhanced by this process, this process is also called "viprakarsha."
+
+Generally, in words where "r," "l," "n," and "m" are combined to form a combined consonant, a special tendency for vowel separation or viprakarsha is seen. The vowel sounds that are added include: "a," "i," "u," "e," and "o." For example; "karma" becomes "karam," "nirmal" becomes "niramal," "varshon" becomes "varishon," "mukta" becomes "mukuta," "gram" becomes "geram," "shlok" becomes "sholok," etc.
+
+3. Final Vowel Addition: The additional vowel sound that is added to reduce the effort of pronunciation and to ease the rigidity of pronunciation when there is a combined consonant at the end of a word, is called final vowel addition. For example: "nasya" becomes "nasyi," "dushto" becomes "dushtu," "satya" becomes "sotti," "bench" becomes "benchi," etc.
+
+Consonant Addition: Sometimes a consonant sound comes and takes place in the middle of a word from outside. This is called consonant addition. Like vowel addition, consonant addition can also occur in three places: beginning, middle, and end. However, initial consonant addition is almost rare in Bengali.
+
+1. Initial Consonant Addition: The addition of a consonant sound at the beginning of a word rarely happens. This is seen in the special linguistic characteristics of the Bengali language. For example: "am" becomes "ram."
+
+2. Middle Consonant Addition: Sometimes a consonant is added in the middle of a word, even if there is already a combined consonant. This can be called middle consonant addition. For example: "alpo" becomes "anbol," "sunar" becomes "sundar," "banor" becomes "bandor," "poramukhi" becomes "porarmukhi," etc.
+
+"Ya"-Insertion: Sometimes a "ya" sound is added to avoid the rigidity of pronunciation when two vowel sounds are next to each other. This is called "ya"-insertion. For example: "du'ek" becomes "duyek," "chhaaa" becomes "chhaya," "babuaani" becomes "babuyani," "goaala" becomes "goyala," etc.
+
+"Ba"-Insertion: Sometimes an "antastha-ba" sound is added for ease of pronunciation when two vowel sounds are close to each other. This is called "ba"-insertion. For example: "khaa" becomes "khaba," "shoa" becomes "shoba" (showa), "dhoa" becomes "dhoba" (dhowa), etc.
+
+3. Final Consonant Addition: Sometimes a consonant sound appears at the end of a word, whether there is a combined consonant or not. This can be called final consonant addition. For example: "bohu" becomes "bohul," "dhonu" becomes "dhonuk," "nana" becomes "nanan," "sima" becomes "simana," "botu" becomes "botuk," "jomi" becomes "jamin," "phat" becomes "phatol," etc.
+
+In pronunciation, sometimes more emphasis is placed on certain sounds within a word. As a result, another sound is lost. This process is called sound deletion. Like sound addition, sound deletion is also mainly of two types: vowel deletion and consonant deletion.
+
+Vowel Deletion: The process of a vowel sound being deleted from within a word is called vowel deletion. According to the position of the deleted vowel sound, vowel deletion is of three types, namely, initial vowel deletion, middle vowel deletion, and final vowel deletion.
+
+1. Initial Vowel Deletion: If the vowel sound located at the beginning of a word is deleted, it is called initial vowel deletion. For example: "olabu" becomes "olau" becomes "lau," "uddhar" becomes "udhar" becomes "dhar," "udumbar" becomes "dumur," "abhyantar" becomes "bhitor," "atasi" becomes "tisi," etc.
+
+2. Middle Vowel Deletion: The process of a vowel sound being deleted from the middle of a word is called middle vowel deletion or "samprakarsha." In this way, since it is possible to increase the beauty and excellence of the word fully and properly, it has been named "samprakarsha." This is the opposite process of "viprakarsha." For example: "janala" becomes "janla," "bosoti" becomes "bosti," "bhagini" becomes "bhogni," "natini" becomes "natni," "narikel" becomes "narkel," etc.
+
+3. Final Vowel Deletion: The deletion of the vowel sound at the end of a word is called final vowel deletion. In the Bengali language, the final "a" is often deleted. In fact, this is one of the most prominent phonological features of the Bengali language. We write "jibon" but say "jibon." We write "nor" but say "nor" when speaking. This process can also be shown to be active in the evolution of language. For example: "hasta" becomes "hattha" becomes "hat," "bhatta" becomes "bhatta" becomes "bhat," etc.
+
+Besides the final "a," the event of deletion is also seen in the case of other vowel sounds. For example: "ratri" becomes "rati" becomes "rat," "khani" becomes "khan," etc. Also, vowel deletion often occurs in the case of Bengali sandhi (joining of words). For example: "kica + kala" becomes "kichkala," "mishi + kalo" becomes "mishkalo."
+
+Consonant Deletion: The process of a consonant sound with or without a vowel sound located at the beginning, middle, or end of a word being deleted is called consonant deletion. Like the deletion of vowel sounds, consonant deletion can also be divided into three types: initial consonant deletion, middle consonant deletion, and final consonant deletion.
+
+1. Initial Consonant Deletion: The method of the consonant sound at the beginning of a word being deleted is called initial consonant deletion. For example: "sthan" becomes "than," "sphotik" becomes "photik," "rui" becomes "ui," "sparsh" becomes "porosh," etc.
+
+2. Middle Consonant Deletion: The event of a consonant sound being deleted from the middle of a word is called middle consonant deletion. For example: "phalgun" becomes "phagun," "goshtho" becomes "goth," "ashwa" becomes "oshoth," "karpas" becomes "kapas," "karma" becomes "kamma," "shrigal" becomes "shiyal," "behai" becomes "beyai," etc.
+
+3. Final Consonant Deletion: If the consonant sound at the end of a word is deleted, it can be called final consonant deletion. For example: "gatra" becomes "ga," "borodada" becomes "borda," "mejdidi" becomes "mejdi," "chhotodada" becomes "chorda," " বউদিদি" (bou-didi) becomes "বউদি" (bou-di), "গাহে" (gahe) becomes "গায়" (gay) etc.
+
+In many cases, consonant deletion also occurs during the Sandhi of Bengali words. For example: জগৎ (jagat) + জন (jan) - জগজন (jagjan), জগৎ (jagat) + বন্ধু (bandhu) - জগবন্ধু (jagabandhu) etc.
+
+Apart from the addition and deletion of sounds, the third and one of the main reasons for sound change is sound transformation. Among the different streams of transformation of sounds within a word due to the influence of one sound on another or the influence of each other, the main five streams are:
+
+Apinihiti
+
+Abhishruti
+
+Vowel Harmony
+
+Consonant Harmony or Assimilation
+
+Sound Inversion or Transposition
+
+Apinihiti: If there is an "i" or "u" sound in a word, a special tendency is seen for them to be pronounced just before their respective specific places of pronunciation. This practice is called "Apinihiti." The name Apinihiti itself contains the indication of the process. The prefix "api" means "before" or "prior," and the word "nihiti" means placement or bringing. Therefore, Apinihiti means the position of the "i" or "u" sound before its proper position. For example, keria - k+a+r+i+ya (koirya) - k+a+i+r+ya, it is clearly seen in the example that the "i" sound, instead of being pronounced after the "r," has skipped over and come before the "r." Similarly, চলিয়া (choliya) - চইল্যা (choilya), বলিয়া (boliya) - বইল্যা (boilya) occur, ভাবিয়া (bhabiya) - ভাইব্যা (bhaibya), বাদিয়া (badiya) - বাইদ্যা (baidya) etc.
+
+U-kar Apinihiti: চক্ষু (chakshu) - চউখ (choukh), সাধু (sadhu) - সাউধ (saudh), জলুয়া (joluya) - জউলুয়া (jouluya), মাছুয়া (machhua) - মাউছুয়া (machhua), নাটুয়া (natuya) - নাউটুয়া (nautuya) etc.
+
+Ya-fala Apinihiti [ই+আ]: You must remember that in vowel Sandhi, ই+অ = য (i+a = ya), so if there is a ya-fala in a word, Apinihiti is possible there too. For example: কন্যা (kanya) - কইন্যা (koinya) [ক+অ+ন্+ই+আ = ক+অ+ই+ন্+ই+আ]. Similarly, কাব্য (kabya) - কাইব্য (kaibya), সত্য (satya) - সইত্য (saitya), পথ্য (pathya) - পইথ্য (poithya) etc.
+
+If there is ksha or gya, Apinihiti: In Bengali, the pronunciation of "ক্ষ" (ksha) is "khiyo" and the pronunciation of "জ্ঞ" (gya) is somewhat like "gyo". Due to this, Apinihiti occurs if there is ksha or gya in a word.
+
+Abhishruti: The next stage after Apinihiti is Abhishruti. Due to Apinihiti, the "i" or "u" pronounced earlier influences the adjacent vowel sounds, and by being influenced themselves, causes the sound changes in colloquial Bengali, which is called Abhishruti.
+
+Let us see how the process of Abhishruti takes place: We already know that in the evolution of language, Apinihiti is the preceding stage of Abhishruti. That is, করিয়া (koria) - কইর্যা (koirya) - করে (kore) [ক+অ+র্+ই+য্+আ] - [ক+অ+ই+র্+য+আ] - [ক+অ+র্+এ]
+
+(Apinihiti) - (Abhishruti)
+
+It should be noted here how the "i" sound that has come earlier is changing under the influence of the surrounding sounds, and also by influencing them. Abhishruti usually occurs with the combination of "অ" (a) and "আ" (aa) sounds with "ই" (i) and "উ" (u) sounds. There can be several types of this:
+
+[অ+ই = ও] : বলিয়া (boliya) - বইল্যা (boilya) - বলে (bole), ধরিয়া (dhoriya) - ধইর্যা (dhoirya) - ধরে (dhore), চলিতে (cholite) - চইলতে (choilte) - চলতে (cholte), করিতে (korite) - কইরতে (koirte) - করতে (korte) etc.
+
+[আ+ই = আ, এ] : আজি (aji) - আইজ (aaij) - আজ (aaj), গাঁঠি (gaathi) - গাঁইট (gaait) - গাঁট (gaat), ভাবিয়া (bhabiya) - ভাইব্যা (bhaibya) - ভেবে (bhebe), বাদিয়া (badiya) - বাইদ্যা (baidya) - বেদে (bede) etc.
+
+[অ+উ = ও] : জলুয়া (joluya) - জউলুয়া (jouluya) - জোলো (jolo), চক্ষু (chakshu) - চউখ (choukh) - চোখ (chokh), পটুয়া (patua) - পোটা (poto) etc.
+
+[আ+উ = এ]: ভাতুয়া (bhatua) - ভাউতুয়া (bhautua) - ভেতো (bheto), মাঠুয়া (mathua) - মাউঠুয়া (mauthua) - মেঠো (metho), মাছুয়া (machhua) - মাউছুয়া (mauthua) - মেছো (mecho), নাটুয়া (natua) - নাউটুয়া (nautua) - নেটো (neto) etc.
+
+Vowel Harmony: If there are multiple vowel sounds in a word, they influence each other during pronunciation and create a harmony. That is, if there is a dissimilar vowel, it is changed to a similar vowel, and this tendency of harmonizing the vowel sounds within a word is called vowel harmony. This name was proposed by Acharya Suniti Kumar.
+
+You know that vowel sounds can be classified according to their place of pronunciation as high-middle-low or anterior-posterior, and according to their manner of pronunciation as spread-rounded or closed-open etc. You also know that the tongue always wants to reduce effort by pronouncing sounds that are close together. For this reason, if there are two vowels far apart according to their place and manner of pronunciation in a word, the tongue will try to replace the ignored vowel with a similar vowel. For example, উনান (unan) - উনুন (unun). In this example, pronouncing "আ (lower, throat, open)" after "উ (high, labial, rounded, closed vowel sound)" required a lot of movement for the tongue. By saying "উনোন (unon)" the "ও" sound (high-middle, labial, rounded, closed) is much closer to "উ", so the tongue's effort is greatly reduced. It can be said that by exerting its influence, the previous vowel has not only changed the subsequent vowel sound, but has also made it similar and non-distinct to itself.
+
+There are two possible types of vowel harmony - 1. Change of the subsequent vowel due to the influence of the preceding vowel, 2. Change of the preceding vowel due to the influence of the subsequent vowel.
+
+Due to the influence of the preceding "উ" (u) sound, the subsequent "আ" (aa) sound is converted to "ও" (o) sound. For example, তুলা (tula) - তুলো (tulo), বুড়া (bura) - বুড়ো (buro), ছুতার (chutar) - জুতোর (jutor), দুয়ার (duar) - দুয়োর (duyor) etc.
+
+Due to the influence of the preceding "ই" (i) sound, the subsequent "অ" (a) sound is converted to "এ" (e) sound. For example, ভিক্ষা (bhiksha) - ভিক্ষে (bhikshe), মিথ্যা (mithya) - মিথ্যে (mithye), হিসাব (hisab) - হিসেব (hisheb), বিকাল (bikal) - বিকেল (bikeel) etc.
+
+Due to the influence of the subsequent "ই" (i) sound, the preceding "আ" (aa) sound is converted to "ই" (i) sound. Is there?
+
+Due to the influence of the previous "উ" (u) sound, the subsequent "আ" (a) sound is converted to the "উ" (u) sound.
+
+Due to the influence of the preceding "ও" (o) [ও + উ (o+u)] sound, the subsequent "আ (aa)" sound changes to "ও (o)" sound.
+
+Due to the influence of the subsequent "আ (aa)" sound, the preceding "উ (u)" sound changes to "ও (o)" sound.
+
+Due to the influence of the subsequent "আ (aa)" sound, the preceding "এ (e)" sound is converted to "আ (aa)" sound.
+
+Due to the influence of the subsequent "ই (i)" sound, the preceding "এ (e)" sound is converted to the "ই (i)" sound.
+
+Due to the influence of the subsequent "ই (i)" sound, the preceding "আ (aa)" sound is also converted to the "ই (i)" sound.
+
+Due to the subsequent "ই (i)" or "উ (u)" sound, the "ও (o)" sound is pronounced instead of the preceding "অ (a)" sound. In fact, this is a distinctive characteristic of the Bengali language.
+
+If there is a "ক (k)", "খ (kh)", "চ (ch)" or "ল (l)" sound later, the "এ (e)" sound at the beginning of a one-syllable (monosyllabic) word often changes to the "আ্যা (æ)" sound. For two-syllable words as well, if there is an "আ (aa)" combined with the "ক (k)", "খ (kh)", "উ (u)", "চ (ch)" or "ল (l)" sound, the "এ (e)" sound at the beginning of the word changes to the "আ্যা (æ)" sound.
+
+Consonant Harmony or Assimilation: When different consonant sounds are placed together in a word, they influence and transform each other, or both, for ease of pronunciation. This is called consonant harmony or assimilation. If the preceding "sound" transforms the subsequent "sound," it is called progressive assimilation. If the subsequent sound changes the preceding sound, it is called regressive assimilation. If both are transformed due to each other's influence, it is called reciprocal assimilation.
+
+Progressive Consonant Harmony or Assimilation: If the subsequent dissimilar consonant sound acquires the form of the preceding consonant due to the influence of the preceding consonant sound, it is called progressive assimilation.
+
+It is noticeable here that the subsequent "ম (m)" sound is becoming similar to the preceding "দ (d)" sound. In this way,
+
+Regressive Consonant Harmony or Assimilation: The phenomenon of the preceding "dissimilar consonant sound" taking the form of the subsequent "consonant" due to the influence of the subsequent consonant sound is called regressive assimilation. It is noticeable here that the preceding "র (r)" sound is transforming into the subsequent "ম (m)" sound.
+
+Reciprocal Consonant Harmony or Assimilation: If two dissimilar consonant sounds, preceding and subsequent, influence each other and transform, it is called reciprocal assimilation.
+
+Sound Inversion: If the positions of the sounds in the middle of a word change due to a pronunciation error, it is called sound inversion, position-change, or transposition. That is, in short, sound inversion can be defined as the exchange of sound positions due to a pronunciation mistake.
+
+1.1 যুকতি (jukti) to যুক্তি (yukti) is an example of __
+
+(a) Svarabhakti (b) Middle Svaragama (c) Vowel Harmony (d) Apinihiti.
+
+1.2 ইঞ্ড (ind) to ইঞ্ডজি (indji) - In this case, what happened is __
+
+(a) Middle Svaralopa (b) Vowel Harmony (c) Antya Svaralopa (d) Antya Svaragama.
+
+1.3 জানালা (janala) to জানলা (janla) happened due to __
+
+(a) Abhishruti (b) Progressive Samibhavan (c) Reciprocal Samibhavan (d) Middle Svaralopa.
+
+1.4 If the subsequent vowel is changed due to the influence of the preceding vowel, it is called __
+
+(a) Middle-Gata Vowel Harmony (b) Abhishruti (c) Progressive Vowel Harmony (d) Equation.
+
+1.5 ধোকা (dhoka) » ধুঁকো (dhunko). In this case, what happened is __
+
+(a) Reciprocal Samibhavan (b) Reciprocal Vowel Harmony (c) Apinihiti (d) Middle Svaragama.
+
+1.6 The practice of pronouncing the "i"-kar or "u"-kar attached to a consonant sound within a word before that consonant sound is __
+
+(a) Abhishruti (b) Vyanjana Sangati (c) Apinihiti (d) Viparyas.
+
+1.7 রাখিয়া (rakhiya) » রাইখ্যা (raikhya) » রেখে (rekhe). In this case, what happened is __
+
+(a) Dhvani Viparyay (b) Middle Svaralopa (c) Antya Svaralopa (d) Abhishruti
+
+1.8 An example of Samaksharalopa is __
+
+(a) ফलाহার (phalahar) » ফলার (phalar) (b) বড়দিদি (baradidi) » বড়দি (baradi) (c) পোষ্য (poshya) » পুষ্যি (pushyi) (d) দেশি (deshi) » দিশি (dishi)
+
+1.9 গাত্র (gatra) » গা (ga). This is a __
+
+(a) Example of Antabyanjan Lopa
+
+(b) Example of Madhyagata Svarasangati
+
+(c) Example of Anyonya Svarasangati
+
+(d) Example of Samaksharalopa.
+
+1.10 The sum of several sound change processes is __
+
+2.1 Mention the main reasons for sound changes.
+
+2.2 What is meant by "Svaragama"?
+
+2.3 Mention an example of Madhyasvaragama.
+
+2.4 Give an example where Vyanjanagama has occurred at the beginning of the word.
+
+2.5 What is the reason for Ba-shruti occurring?
+
+2.6 What rule of sound change is observed in ভক্ত (bhakta) » ভত্ত (bhatta)?
+
+2.7 Why is Abhishruti called the next stage of Apinihiti?
+
+2.8 What is the reason for calling Samibhavan Vyanjanasangati?
+
+2.9 How is Apinihiti observed in the two cases of ক্ষ' (ksha) ও “জ্ঞ (gya)?
+
+2.10 What is meant by Dhvani Viparyay?
