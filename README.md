@@ -63,28 +63,40 @@ python pipelines/6_experiment_p4/evaluate.py
 python pipelines/7_experiment_p5/evaluate.py
 ```
 
-### Experiment P6: Multilingual Reranked Retrieval
-*Strategy: Dense Retrieval + Cross-Encoder Reranking (`BAAI/bge-reranker-v2-m3`).*
-*(Note: P6 is computationally intensive and requires a GPU).*
+### Experiment P7: Pivot-Based Dense Retrieval
+*Strategy: Translate (Indic -> English) -> Dense Retrieval (English).*
 
 ```bash
-python pipelines/8_experiment_p6/evaluate.py
+python pipelines/9_experiment_p7/evaluate.py
+```
+
+### Experiment P8: Pivot-Based Hybrid Retrieval
+*Strategy: Translate -> Dense + BM25 (Fused) -> Retrieval.*
+
+```bash
+python pipelines/10_experiment_p8/evaluate.py
+```
+
+### Experiment P9: Pivot-Based Reranked Retrieval
+*Strategy: Translate -> Dense -> Cross-Encoder Reranking.*
+**(Requires GPU)**: Uses `BAAI/bge-reranker-v2-m3` (SOTA).
+
+```bash
+python pipelines/11_experiment_p9/evaluate.py
 ```
 
 ---
 
-## 📊 Results and Analysis
+## 📊 Results Summary
 
 For a detailed breakdown of metrics (Recall, BLEU, ROUGE, Latency) across all experiments, please see:
 👉 [**Full Project Report**](docs/PROJECT_REPORT.md)
 
-### quick Summary (P5 Hybrid)
-| Language | Recall@10 | BLEU |
-| :--- | :--- | :--- |
-| **English** | 98.3% | 32.5 |
-| **Hindi** | **100.0%** | 42.0 |
-| **Bengali** | 97.1% | 28.0 |
-| **Tamil** | 88.8% | 17.6 |
+| Experiment | Strategy | Aggregate Recall@10 | Latency (ms) | Cost/1k |
+| :--- | :--- | :--- | :--- | :--- |
+| **P5 (Multi-Hybrid)** | Multilingual Dense + BM25 | 96.05% | ~2800 | $0.12 |
+| **P7 (Pivot-Dense)** | Translate -> English Dense | **98.60%** | ~3500 | $0.13 |
+| **P8 (Pivot-Hybrid)** | Translate -> En Dense + BM25 | 98.51% | ~3900 | $0.14 |
 
 ---
 
